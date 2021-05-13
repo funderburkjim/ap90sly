@@ -278,7 +278,7 @@
 150496 new <>(see <ls>R. 11. 68-91</ls>). He is said to have
 ;
 ; <L>18673<pc>0693-b<k1>pAdaH<k2>pAdaH
-156462 old <><ls>V. 4. 138</ls>-140 {%<ab>e. g.</ab>%} {#vyAGrapAd#}. The nom. <ab>pl.</ab>
+156462 old <><ls>V. 4. 138</ls>-140 {%<ab>e. g.</ab>%} {#vyAGrapAd#}. The <ab>nom.</ab> <ab>pl.</ab>
 156462 new <><ls>V. 4. 138-140</ls> {%<ab>e. g.</ab>%} {#vyAGrapAd#}. The nom. <ab>pl.</ab>
 ;
 ; <L>18968<pc>0702-a<k1>pitf<k2>pitf

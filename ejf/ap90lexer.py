@@ -2,7 +2,7 @@ from sly import Lexer
 class Ap90Lexer(Lexer):
  # Set of token names. Required. This is a set Literal. Members are what?
  tokens = { BRACKETDEVA, PARENDEVA, DEVA, ITALIC, BOLD, NUMBER,
-            PAGE, QUOTE, ETC, PARA, MDASH,
+            PAGE, QUOTE, ETC, PARA, MDASH, 
             LBRACKET, RBRACKET, BROKENBAR, LPAREN, RPAREN,
             XML0 ,EMPTYXML,  TEXT, PUNCT, 
             XML_LS, XML_AB, LBINFO,
