@@ -30,13 +30,34 @@ def change1(line):
 
 def change2(line):
  reason = ''
- newline = line.replace('{#(#}','(')
- newline = newline.replace('{#)#}',')')
+ newline = re.sub(r'<>{#([a-zA-Z ]+)\)#}',r'<>{#\1#})',line)
  return reason,newline
 
 def change3(line):
- reason = '{%S.%} -> Ś.'
- newline = line.replace('{%S.%}','Ś.')
+ reason = ''
+ newline = line.replace(' (#} <lbinfo','#} ( <lbinfo')
+ return reason,newline
+
+def change4(line):
+ reason = ''
+ newline = re.sub(r'\({#([a-zA-Z ]+)\)#}',r'({#\1#})',line)
+ return reason,newline
+
+def change4a(line):
+ reason = ''
+ newline = re.sub(r'{#([a-zA-Z ]+)\)#}',r'{#\1#})',line)
+ return reason,newline
+
+def change5(line):
+ reason = ''
+ newline = re.sub(r'{#--([a-zA-Z]+) \(([a-zA-Z]+)\)#}',r'{#--\1#} ({#\2#})',line)
+ return reason,newline
+
+def change6(line):
+ reason = ''
+ newline = line.replace('(Ved).','(<ab>Ved.</ab>)')
+ if newline ==  line:
+  newline = line.replace('(Ved)','(<ab>Ved.</ab>)')
  return reason,newline
 
 def reasons_update(reasons,reason):
@@ -48,7 +69,7 @@ def init_changes(lines):
  changes = [] # array of Change objects
  metaline = None
  page = None
- change_fcns = [change1]
+ change_fcns = [change6]
  reasons = {} # counts
  for iline,line in enumerate(lines):
   line = line.rstrip('\r\n')

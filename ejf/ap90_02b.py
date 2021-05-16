@@ -6,7 +6,7 @@
 from __future__ import print_function
 import sys, re,codecs
 from parseheadline import parseheadline
-from ap90lexer1 import Ap90Lexer
+from ap90lexer1a import Ap90Lexer
 
 class Entry(object):
  Ldict = {}
@@ -308,21 +308,95 @@ def write_v0(fileout,entries):
 
 def write(fileout,entries):
  with codecs.open(fileout,"w","utf-8") as f:
+  lnumprev = None
   for entry in entries:
    outarr = []
-   outarr.append(entry.metaline)
-   for tok in entry.tokens:
-    outarr.append('%s: %s' %(tok.type,tok.value))
+   outarr.append('; ' + entry.metaline)
+   if len(entry.dbgtoks) == 0:
+    continue # skip printing for debugging.
+   if len(entry.dbgtoks) != 0:
+    outarr.append('; xxx')
+   for itok,tok in enumerate(entry.tokens):
+    t = tok.type
+    if t not in ['LPAREN','RPAREN','LBRACKET','RBRACKET']:
+     t = t.lower()
+    outarr.append('  (%d) %s: %s' %(itok+1,t,tok.value))
+    lnum = entry.linenum1 + int(tok.lineno)
+    if lnum != lnumprev:
+     lines = entry.datalines
+     iline = int(tok.lineno)
+     try:
+      line = lines[iline-1]
+     except:
+      line = '%s out of range %s to %s' %(iline-1,0,len(lines))
+     outarr.append('%s old %s' %(lnum,line))
+     newline = re.sub(r'\({#([a-zA-Z ]+)\)#}',r'({#\1#})',line)
+     if newline != line:
+      outarr.append('%s newx %s' %(lnum,newline))
+    lnumprev = lnum
    # lend
    outarr.append(entry.lend)
    for out in outarr:
     f.write(out+'\n')
  print(len(entries),"entries to",fileout)
 
+def paren_analyze(tokens,kind):
+ lkind = 'L'+kind
+ rkind = 'R'+kind
+ kinds = (lkind,rkind)
+ ans = []
+ prev = None
+ for itok,tok in enumerate(tokens):
+  cur = tok.type
+  if cur not in kinds:
+   continue
+  if prev == None:
+   prev = cur
+   continue
+  if cur == prev:
+   ans.append((itok+1,tok))
+   ans.append((itok+2,tokens[itok+1]))
+  prev = cur
+ return ans
+
+def writedbg(fileout,entries):
+ with codecs.open(fileout,"w","utf-8") as f:
+  nout = 0
+  for entry in entries:
+   dbgtoks = entry.dbgtoks
+   if len(dbgtoks) == 0:
+    continue
+   nout = nout + 1
+   outarr = []
+   
+   outarr.append(entry.metaline)
+   for itok,tok in dbgtoks:
+    outarr.append('(%d) %s: %s' %(itok,tok.type,tok.value))
+    """
+    outarr.append('linenum=%s' %tok.lineno)
+    lnum = entry.linenum1 + int(tok.lineno)
+    lines = entry.datalines
+    iline = int(tok.lineno)
+    try:
+     line = entry.datalines[iline-1]
+    except:
+     line = '%s out of range %s to %s' %(iline-1,0,len(lines))
+    #print(lnum,'old',line)
+    
+    outarr.append('%s old %s' %(lnum,line))
+   # lend
+   outarr.append(entry.lend)
+   """
+   outarr.append(';')
+   for out in outarr:
+    f.write(out+'\n')
+ print(nout,"entries with problems to",fileout)
+ 
 if __name__=="__main__": 
  filein = sys.argv[1] #  xxx.txt (path to digitization of xxx
  fileout = sys.argv[2] 
-
+ filedbg = sys.argv[3]
+ 
  entries = init_entries(filein)
  lexer = Ap90Lexer()
  for entry in entries:
@@ -336,5 +410,11 @@ if __name__=="__main__":
     print(tok.type, tok.value)
  print('tokenizing finished')
  #exit(0)
+ for entry in entries:
+  dbgtoks1 = paren_analyze(entry.tokens,'PAREN')
+  dbgtoks2 = paren_analyze(entry.tokens,'BRACKET')
+  dbgtoks = dbgtoks1 + dbgtoks2
+  entry.dbgtoks = dbgtoks
  write(fileout,entries)
- 
+ writedbg(filedbg,entries)
+  

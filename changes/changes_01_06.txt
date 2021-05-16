@@ -1,0 +1,48 @@
+; <L>11<pc>0002-a<k1>aMSuH<k2>aMSuH
+1023 old <>(Ved). {@--6@} Garment; decoration. {@--7@} <ab>N.</ab>
+1023 new <>(<ab>Ved.</ab>) {@--6@} Garment; decoration. {@--7@} <ab>N.</ab>
+;
+; <L>23<pc>0002-c<k1>aMhatiH<k2>aMhatiH
+1145 old <>trouble, care, distress, illness (Ved).
+1145 new <>trouble, care, distress, illness (<ab>Ved.</ab>)
+;
+; <L>1130<pc>0054-c<k1>an<k2>an
+12721 old <>To gasp, pant with thirst (Ved).
+12721 new <>To gasp, pant with thirst (<ab>Ved.</ab>)
+;
+; <L>3036<pc>0128-a<k1>aBigur<k2>aBigur
+29140 old <>to, approve of (Ved).
+29140 new <>to, approve of (<ab>Ved.</ab>)
+;
+; <L>3209<pc>0134-a<k1>aBiBU<k2>aBiBU
+30538 old <>to or towards (Ved). {%--<ab>Caus.</ab>%} To
+30538 new <>to or towards (<ab>Ved.</ab>) {%--<ab>Caus.</ab>%} To
+;
+; <L>3221<pc>0134-b<k1>aBiman<k2>aBiman
+30628 old <ls>U. 5.</ls> {@--4@} To injure, threaten (Ved). {@--5@}
+30628 new <ls>U. 5.</ls> {@--4@} To injure, threaten (<ab>Ved.</ab>) {@--5@}
+;
+; <L>3566<pc>0143-c<k1>aByaMj<k2>aByaMj
+32915 old <>decorate, adorn (Ved). {@--3@} To defile.
+32915 new <>decorate, adorn (<ab>Ved.</ab>) {@--3@} To defile.
+;
+; <L>4902<pc>0191-c<k1>avasTA<k2>avasTA
+43913 old <>{@--10@} To place (Ved). {%--<ab>Caus.</ab>%} ({#sTApayati#}
+43913 new <>{@--10@} To place (<ab>Ved.</ab>) {%--<ab>Caus.</ab>%} ({#sTApayati#}
+;
+; <L>5537<pc>0213-b<k1>asita<k2>asita
+48909 old {#asita#}¦ {%<ab>a.</ab>%} {@1@} Unbound (Ved). {@--2@}
+48909 new {#asita#}¦ {%<ab>a.</ab>%} {@1@} Unbound (<ab>Ved.</ab>) {@--2@}
+;
+; <L>7566<pc>0285-b<k1>uKya<k2>uKya
+65344 old <>in a boiler (Ved).
+65344 new <>in a boiler (<ab>Ved.</ab>)
+;
+; <L>15451<pc>0567-a<k1>dI<k2>dI
+128428 old <>diminish --II. 4 <ab>P.</ab> ({#dIyati#}) (Ved).
+128428 new <>diminish --II. 4 <ab>P.</ab> ({#dIyati#}) (<ab>Ved.</ab>)
+;
+; <L>29773<pc>1106-b<k1>saMmA<k2>saMmA
+249291 old <>To distribute, grant, bestow (Ved).
+249291 new <>To distribute, grant, bestow (<ab>Ved.</ab>)
+;

@@ -1,0 +1,112 @@
+; <L>191<pc>0009-c<k1>agamyA<k2>agamyA
+2762 old <>relating to illicit intercourse; {#ºnIyaM tu (#} <lbinfo n="pA#paM"/>
+2762 new <>relating to illicit intercourse; {#ºnIyaM tu#} ( <lbinfo n="pA#paM"/>
+;
+; <L>573<pc>0031-c<k1>atideSaH<k2>atideSaH
+7592 old <>{#itaraDarmasya itarasmin prayogAya AdeSaH (#} <lbinfo n="mI#mAMsA"/>
+7592 new <>{#itaraDarmasya itarasmin prayogAya AdeSaH#} ( <lbinfo n="mI#mAMsA"/>
+;
+; <L>925<pc>0045-c<k1>aDiH<k2>aDiH
+10787 old <>{#iNo'DyayanArTakatvasya aDidyotakaH; aDipatiH (#} <lbinfo n="E#Svarye"/>
+10787 new <>{#iNo'DyayanArTakatvasya aDidyotakaH; aDipatiH#} ( <lbinfo n="E#Svarye"/>
+;
+; <L>1171<pc>0056-a<k1>anaMta<k2>anaMta
+13022 old <>{#kinnaroragacAraRAH . nAMtaM guRAnAM jAnaMti (#} <lbinfo n="nA#syAMtamaDigacCaMti"/>
+13022 new <>{#kinnaroragacAraRAH . nAMtaM guRAnAM jAnaMti#} ( <lbinfo n="nA#syAMtamaDigacCaMti"/>
+;
+; <L>1203<pc>0057-c<k1>anapAya<k2>anapAya
+13367 old <>undecaying; {#praRamaMtyanapAyamutTitaM (#} <lbinfo n="caM#draM"/>
+13367 new <>undecaying; {#praRamaMtyanapAyamutTitaM#} ( <lbinfo n="caM#draM"/>
+;
+; <L>2100<pc>0091-c<k1>aMtara<k2>aMtara
+21154 old <>forming the first part; {#kanyAMtaraM (#} <lbinfo n="a#nyA"/>
+21154 new <>forming the first part; {#kanyAMtaraM#} ( <lbinfo n="a#nyA"/>
+;
+; <L>2147<pc>0096-b<k1>aMDa<k2>aMDa
+22026 old <><ab>N.</ab> of a plant or grass {#devatAqa (#} <lbinfo n="tatseva#nena"/>
+22026 new <><ab>N.</ab> of a plant or grass {#devatAqa#} ( <lbinfo n="tatseva#nena"/>
+;
+; <L>2991<pc>0126-c<k1>aBi<k2>aBi
+28870 old <>{#BAga#}; {%<ab>e. g.</ab>%} {#(lakzaRe) harimaBi vartate; (#} <lbinfo n="itTaM#BUtAKyAne"/>
+28870 new <>{#BAga#}; {%<ab>e. g.</ab>%} {#(lakzaRe) harimaBi vartate;#} ( <lbinfo n="itTaM#BUtAKyAne"/>
+;
+; <L>3225<pc>0134-c<k1>aBimanAyate<k2>aBimanAyate
+30667 old <>{#cAMtarAtmA#} <ls>Dk. 111</ls>, <ls n="Dk.">119</ls>; {#kAMtiM (#} <lbinfo n="vilo#kya"/>
+30667 new <>{#cAMtarAtmA#} <ls>Dk. 111</ls>, <ls n="Dk.">119</ls>; {#kAMtiM#} ( <lbinfo n="vilo#kya"/>
+;
+; <L>6221<pc>0239-c<k1>ADipatyaM<k2>ADipatyaM
+54826 old <>lordship; {#rAjyaM surARAmapi cADipatyaM (#} <lbinfo n="a#vApya"/>
+54826 new <>lordship; {#rAjyaM surARAmapi cADipatyaM#} ( <lbinfo n="a#vApya"/>
+;
+; <L>13010<pc>0481-b<k1>cakzus<k2>cakzus
+109258 old <>excretion of the eyes. {#--rAgaH (#} <lbinfo n="cakzU#rAgaH"/>
+109258 new <>excretion of the eyes. {#--rAgaH#} ( <lbinfo n="cakzU#rAgaH"/>
+;
+; <L>14936<pc>0546-a<k1>tejas<k2>tejas
+123832 old <>consequence; {#tejoviSezAnumitAM (#} <lbinfo n="rAja#lakzmIM"/>
+123832 new <>consequence; {#tejoviSezAnumitAM#} ( <lbinfo n="rAja#lakzmIM"/>
+;
+; <L>15365<pc>0563-b<k1>dAraH<k2>dAraH
+127636 old <>A ploughed field. {#--rAH#} [{#dArayaMti (#} <lbinfo n="BrAtF#n"/>
+127636 new <>A ploughed field. {#--rAH#} [{#dArayaMti#} ( <lbinfo n="BrAtF#n"/>
+;
+; <L>17254<pc>0642-a<k1>nis<k2>nis
+144936 old <>{#nizkulAkarAMti dAqimaM#} <ls>Sk.</ls>). {#--kulIna (#} <lbinfo n="nizku#lIna"/>
+144936 new <>{#nizkulAkarAMti dAqimaM#} <ls>Sk.</ls>). {#--kulIna#} ( <lbinfo n="nizku#lIna"/>
+;
+; <L>18021<pc>0675-c<k1>parityAgaH<k2>parityAgaH
+152170 old <>{@--3@} Neglect, omission; {#mohAttasya (#} <lbinfo n="ka#rmaRaH"/>
+152170 new <>{@--3@} Neglect, omission; {#mohAttasya#} ( <lbinfo n="ka#rmaRaH"/>
+;
+; <L>18212<pc>0680-a<k1>parivAhaH<k2>pari(rI)vAhaH
+153276 old <>overflow, natural or artificial; {#praTamaM (#} <lbinfo n="kO#tUhalaM"/>
+153276 new <>overflow, natural or artificial; {#praTamaM#} ( <lbinfo n="kO#tUhalaM"/>
+;
+; <L>19954<pc>0739-b<k1>pratibuD<k2>pratibuD
+166926 old <>sleep; {#priyayA pratiboDyamAnamapi suptaM (#} <lbinfo n="ha#tahfdayaM"/>
+166926 new <>sleep; {#priyayA pratiboDyamAnamapi suptaM#} ( <lbinfo n="ha#tahfdayaM"/>
+;
+; <L>20816<pc>0762-b<k1>praSam<k2>praSam
+172592 old <>To remove, put an end to; {#taM (#} <lbinfo n="apa#cAraM"/>
+172592 new <>To remove, put an end to; {#taM#} ( <lbinfo n="apa#cAraM"/>
+;
+; <L>21534<pc>0786-a<k1>bakulaH<k2>bakulaH
+177989 old <><ls>Me. 78</ls>; {#bakulaH sIDugaMqUzasekAt (#} <lbinfo n="vi#kasati"/>
+177989 new <><ls>Me. 78</ls>; {#bakulaH sIDugaMqUzasekAt#} ( <lbinfo n="vi#kasati"/>
+;
+; <L>21753<pc>0796-c<k1>biMduH<k2>biMduH
+180271 old <>{#GftabiMdurivAMBasi#} <ls n="Ms.">7. 34</ls>; {#aDutA (#} <lbinfo n="kutUhala#sya"/>
+180271 new <>{#GftabiMdurivAMBasi#} <ls n="Ms.">7. 34</ls>; {#aDutA#} ( <lbinfo n="kutUhala#sya"/>
+;
+; <L>22808<pc>0849-a<k1>mallikA<k2>mallikA
+191368 old <>jasmine; {#vinyastasAyaMtanamallikezu (#} <lbinfo n="ke#Sezu"/>
+191368 new <>jasmine; {#vinyastasAyaMtanamallikezu#} ( <lbinfo n="ke#Sezu"/>
+;
+; <L>24479<pc>0924-c<k1>laMba<k2>laMba
+207669 old <>Gaṇeśa. --2. a glutton. {#--ozWaH (#} <lbinfo n="laM#bo"/>
+207669 new <>Gaṇeśa. --2. a glutton. {#--ozWaH#} ( <lbinfo n="laM#bo"/>
+;
+; <L>25937<pc>0974-c<k1>vidiSA<k2>vidiSA
+219137 old <>the district called {#daSArRa#}; {#tezAM (#} <lbinfo n="daSA#rRAnAM"/>
+219137 new <>the district called {#daSArRa#}; {#tezAM#} ( <lbinfo n="daSA#rRAnAM"/>
+;
+; <L>26277<pc>0986-b<k1>vimuc<k2>vimuc
+221834 old <>{#AsIdvivfttavadanA ca vimocayaMtI (#} <lbinfo n="valka#laM"/>
+221834 new <>{#AsIdvivfttavadanA ca vimocayaMtI#} ( <lbinfo n="valka#laM"/>
+;
+; <L>26303<pc>0987-b<k1>viyat<k2>viyat
+222005 old <>Ganges. --2. the galaxy. {#--cArin (#} <lbinfo n="viyaccA#rin"/>
+222005 new <>Ganges. --2. the galaxy. {#--cArin#} ( <lbinfo n="viyaccA#rin"/>
+;
+; <L>28733<pc>1072-b<k1>saMsfzwiH<k2>saMsfzwiH
+241407 old <>passage; {#miTo'napekzayEtezAM (#} <lbinfo n="SabdArTA#laMkArARAM"/>
+241407 new <>passage; {#miTo'napekzayEtezAM#} ( <lbinfo n="SabdArTA#laMkArARAM"/>
+;
+; <L>29754<pc>1106-a<k1>saMBf<k2>saMBf
+249147 old <>accomplish; {#surataSramasaMBfto muKe (#} <lbinfo n="sveda#lavaH"/>
+249147 new <>accomplish; {#surataSramasaMBfto muKe#} ( <lbinfo n="sveda#lavaH"/>
+;
+; <L>31328<pc>1168-a<k1>havis<k2>havis
+262944 old <><ls>Śi. 1. 2</ls>; <ls>Kāv. 2. 168.</ls> {#--yajYaH (#} <lbinfo n="havi#ryajYaH"/>
+262944 new <><ls>Śi. 1. 2</ls>; <ls>Kāv. 2. 168.</ls> {#--yajYaH#} ( <lbinfo n="havi#ryajYaH"/>
+;

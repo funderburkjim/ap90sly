@@ -1,0 +1,64 @@
+; <L>760<pc>0037-c<k1>atyaMtIna<k2>atyaMtIna
+9008 old <>fast ({#atyaMtagamanaSIla)#}; {#lakzmIM paraMparIRAM#}
+9008 new <>fast ({#atyaMtagamanaSIla#}); {#lakzmIM paraMparIRAM#}
+;
+; <L>778<pc>0038-a<k1>atyAhitaM<k2>atyAhitaM
+9120 old <>daring deed ({#jIvAnapekzikarma)#};  <lbinfo n="atyA#hitaM"/>
+9120 new <>daring deed ({#jIvAnapekzikarma#});  <lbinfo n="atyA#hitaM"/>
+;
+; <L>878<pc>0042-c<k1>adya<k2>adya
+10140 old <>near delivery ({#AsannaprasavA)#}; <lbinfo n="adyaSvI#nAvazwabDe"/>
+10140 new <>near delivery ({#AsannaprasavA#}); <lbinfo n="adyaSvI#nAvazwabDe"/>
+;
+; <L>929<pc>0046-c<k1>aDikaraRaM<k2>aDikaraRaM
+10989 old <>{#cAnaDikaraRavAci#} <ls>P. II. 4. 13</ls> ({#adravyavAci)#};  <lbinfo n="ºetA#vattveca"/>
+10989 new <>{#cAnaDikaraRavAci#} <ls>P. II. 4. 13</ls> ({#adravyavAci#});  <lbinfo n="ºetA#vattveca"/>
+;
+; <L>1258<pc>0059-b<k1>anavaBra<k2>anavaBra
+13770 old <>lasting ({#avaBraMSaSUnya)#}; {#ºrADas#} <ls>Rv. 1. 166. 7</ls>
+13770 new <>lasting ({#avaBraMSaSUnya#}); {#ºrADas#} <ls>Rv. 1. 166. 7</ls>
+;
+; <L>1269<pc>0059-c<k1>anavasTa<k2>anavasTa
+13845 old <>reasoning ({#upapAdyopapAdakayoraviSrAMtiH)#};  <lbinfo n="evama#pyanavasTA"/>
+13845 new <>reasoning ({#upapAdyopapAdakayoraviSrAMtiH#});  <lbinfo n="evama#pyanavasTA"/>
+;
+; <L>1429<pc>0064-b<k1>animAna<k2>animAna
+14976 old <>({#aparicCinna)#}; {#ºno DUmaketuH#} <ls>Rv. 1. 27. 11.</ls>
+14976 new <>({#aparicCinna#}); {#ºno DUmaketuH#} <ls>Rv. 1. 27. 11.</ls>
+;
+; <L>1907<pc>0081-a<k1>anuveSaH<k2>anuveSaH --SanaM
+18823 old <>({#jyezWAtikrameRa kanizWasya vivAhaH)#};  <lbinfo n="yavIya#so"/>
+18823 new <>({#jyezWAtikrameRa kanizWasya vivAhaH#});  <lbinfo n="yavIya#so"/>
+;
+; <L>4935<pc>0192-c<k1>avahitTA<k2>ava(ba)hitTA --tTaM
+44124 old <>feelings ({#vyaBicAriBAva)#}; <lbinfo n="BayagOravalajjAderha#rzAdyAkAraguptiravahitTA"/>
+44124 new <>feelings ({#vyaBicAriBAva#}); <lbinfo n="BayagOravalajjAderha#rzAdyAkAraguptiravahitTA"/>
+;
+; <L>5782<pc>0223-a<k1>AkaraH<k2>AkaraH
+51070 old <>of anything ({#utpattisTAnaM)#}; {#mAso nu#}
+51070 new <>of anything ({#utpattisTAnaM#}); {#mAso nu#}
+;
+; <L>5907<pc>0227-c<k1>AgrayaRaH<k2>AgrayaRaH
+52126 old <>end of the rainy season ({#ASvinIpUrRimA)#};
+52126 new <>end of the rainy season ({#ASvinIpUrRimA#});
+;
+; <L>6185<pc>0238-b<k1>Adfta<k2>Adfta
+54537 old <><ls>Dk. 154.</ls> ({%c%}) Respectful ({#sAdara)#};  <lbinfo n="i#tyAdftena"/>
+54537 new <><ls>Dk. 154.</ls> ({%c%}) Respectful ({#sAdara#});  <lbinfo n="i#tyAdftena"/>
+;
+; <L>14171<pc>0521-b<k1>JAliH<k2>JAliH
+118355 old <>Asa Fœtida ({#hiMgu)#}; {#AmramAmaPalaM pazwi#}
+118355 new <>Asa Fœtida ({#hiMgu#}); {#AmramAmaPalaM pazwi#}
+;
+; <L>14519<pc>0533-c<k1>talpalaM<k2>talpalaM
+120903 old <>elephant, ({#pfzWavaMSa)#};  <lbinfo n="sAMdratvakkAstalpalA#SlizwakakzAH"/>
+120903 new <>elephant, ({#pfzWavaMSa#});  <lbinfo n="sAMdratvakkAstalpalA#SlizwakakzAH"/>
+;
+; <L>23453<pc>0878-a<k1>meKalA<k2>meKalA
+197621 old <>a mountain ({#nitaMba)#}; {#AmeKalaM saMcaratAM#}
+197621 new <>a mountain ({#nitaMba#}); {#AmeKalaM saMcaratAM#}
+;
+; <L>29318<pc>1094-a<k1>samanvayaH<k2>samanvayaH
+246249 old <>mutual connection, applicability ({#tAtparya)#};
+246249 new <>mutual connection, applicability ({#tAtparya#});
+;

@@ -1,146 +1,98 @@
 #-*- coding:utf-8 -*-
-"""ap90_03.py  for ap90
+"""ap90_03c.py  for ap90
  
  
 """
 from __future__ import print_function
 import sys, re,codecs
 from parseheadline import parseheadline
-from ap90lexer1a import Ap90Lexer
+from ap90lexer1b import Ap90Lexer
 from sly import Parser
 
+parserrfile = 'ap90_03a_err.txt'
+ferr = codecs.open(parserrfile,"w","utf-8")
 class Ap90Parser(Parser):
  tokens = Ap90Lexer.tokens
- debugfile = 'ap90_03_dbg.txt'
+ #debugfile = 'ap90_03_dbg.txt'
  def __init__(self):
   self.rawtokens = []
   self.errtokens = []
   
  def error(self,t):
   #print('parse error',t)
-  #print('parse error',t.type,t.value)
-  #print('parse error tokens:')
-  # for some reason, errtokens does not 'keep' all the items.
-  #print('check error. # errtokens=',len(self.errtokens))
-  #if t != None:
-  # self.errtokens.append(t)
-  pass
+  ferr.write('entry err: ' + entry.metaline + '\n')
+  out = '%s' %t
+  ferr.write(out+'\n')
  
  # Grammar rules and actions
- # catch all
- # expr : expr expr
- @_('expr expr')
+ # entry : header expr
+ @_('header expr')
+ def entry(self,p):
+  return [p.header,p.expr]
+
+ # header : NUMBER DEVA BROKENBAR | DEVA BROKENBAR 
+ @_('NUMBER DEVA BROKENBAR')
+ def header(self,p):
+  return [('entry','%s %s %s' %(p.NUMBER,p.DEVA,p.BROKENBAR))]
+ @_('DEVA BROKENBAR')
+ def header(self,p):
+  return [('entry','%s %s' %(p.DEVA,p.BROKENBAR))]
+ 
+ # expr : expr term | term
+ @_('expr term')
  def expr(self,p):
   # conjunction of lists
-  return p.expr0 + p.expr1 
-
- @_('DEVA BROKENBAR')
+  return p.expr + p.term
+ @_('term')
  def expr(self,p):
-  return [('entry','%s %s' %(p.DEVA,p.BROKENBAR))]
+  return p.term
 
-  @_('LPAREN')
-  def expr(self,p):
-   print('debug:',p.LPAREN)
-   return [('LPAREN',p.LPAREN)]
-  
- #----------------------------------------------------
- # sequence of TEXT tokens
- # expr : text
+ # term : text | raw | deva
  @_('text')
- def expr(self,p):
-  # p.text = [('text',val])
-  val = p.text[0][1]  # 
-  return [('TEXT',val)]
-
+ def term(self,p):
+  return p.text
+ @_('raw')
+ def term(self,p):
+  return p.raw
+ @_('deva')
+ def term(self,p):
+  return p.deva
+ 
  # text : text TEXT | TEXT
  @_('text TEXT')
  def text(self,p):
-  #print('text1:',p.text,' AND ',p.TEXT)
-  val = '%s %s' %(p.text[0][1], p.TEXT)
+  val = '%s %s' %(p.text[0][1],p.TEXT)
   return [('text',val)]
-
  @_('TEXT')
  def text(self,p):
   return [('text',p.TEXT)]
- #----------------------------------------------------
- # sequence of DEVA tokens
- # expr : deva
- @_('deva')
- def expr(self,p):
-  # p.text = [('deva',val])
-  val = p.deva[0][1]  #
-  # val = {#X#} {#Y#} {#Z#}
-  # return {#X Y Z#}
-  val = re.sub(r'#} *{#',' ',val)
-  return [('DEVA',val)]
 
  # deva : deva DEVA | DEVA
  @_('deva DEVA')
  def deva(self,p):
-  #print('deva1:',p.deva,' AND ',p.DEVA)
-  val = '%s %s' %(p.deva[0][1], p.DEVA)
+  val = '%s %s' %(p.deva[0][1],p.DEVA)
+  val = re.sub(r'#} +{#',' ',val)
   return [('deva',val)]
-
  @_('DEVA')
  def deva(self,p):
   return [('deva',p.DEVA)]
  
  #----------------------------------------------------
- # [ expr ]
- @_('LBRACKET expr RBRACKET')
- def expr(self,p):
-  #print('check:',p.expr)
-  #val = 'TODO'
-  # p.expr is a list of 2-tuples.  
-  # join the text parts
-  a = [x[1] for x in p.expr]
-  val = ' '.join(a)
-  val1 = '[%s]' %val
-  return [('bracketexpr',val1)]
- 
- #----------------------------------------------------
- # ( expr )  #this generates error
- #@_('LPAREN deva text RPAREN')  # This parses
- @_('LPAREN expr RPAREN')  # THIS ERRORS
- def expr(self,p):
-  # p.expr is a list of 2-tuples.  
-  # join the text parts
-  a = [x[1] for x in p.expr]
-  val = ' '.join(a)
-  val1 = '(%s)' %val
-  return [('parenexpr',val1)]
- 
- #@_('')
- #def empty(self,p):
- # pass
- 
- 
- #@_('DEVA DEVA')
- #def expr(self,p):
- # return [('DEVA','%s %s' %(p[0],p[1]))]
- 
- @_('XML_AB TEXT')
- def expr(self,p):
-  ab = p[0]
-  if ab == '<ab>N.</ab>':
-   return [('TEXT','%s %s' %(p[0],p[1]))]
-  else:
-   return [('XML_AB',p.XML_AB),('TEXT',p.TEXT)]
-  
  @_('BRACKETDEVA', 'PARENDEVA', 'DEVA', 'ITALIC', 'BOLD', 'NUMBER',
             'PAGE', 'QUOTE', 'ETC', 'PARA', 'MDASH', 'MDASHNUM',
-            #'LBRACKET', 'RBRACKET',
+            'LBRACKET', 'RBRACKET',
             'BROKENBAR',
-            # 'LPAREN', 'RPAREN',
+             'LPAREN', 'RPAREN',
             # 'XML0','EMPTYXML',
             'TEXT', 'PUNCT', 
             'XML_LS', 'XML_AB', 'LBINFO',
             'PARENQ', 'EQ', 'AMP', 'SPECIAL')
- def expr(self,p):
+ def raw(self,p):
   for key in p._namemap.keys():  # there is only one key in this usage
    break
-  self.rawtokens.append((key,p[0]))
+  #self.rawtokens.append((key,p[0]))
   #print('Raw token',key,p[0])
+  val = p[0]
   return [(key,p[0])]
  
  # entry : entry | etoken
@@ -233,11 +185,11 @@ def lexflag(line):
    return True
  return False
 
-
-
 def write(fileout,entries):
  with codecs.open(fileout,"w","utf-8") as f:
   nout = 0
+  nerr = 0
+  merr = 10000
   for entry in entries:
    nout = nout + 1
    outarr = []
@@ -248,15 +200,46 @@ def write(fileout,entries):
     entry.result = None
    if entry.result == None:
     entry.result = [('ERROR','result is None')]
-    outarr.append('ERROR: result is None')
+    #outarr.append('ERROR: result is None')
+    # trap for bad first line
+    outarr = [('; ' + entry.metaline)]
+    """
+    line = entry.datalines[0]
+    lnum = entry.linenum1 + 1
+    outarr.append('%s old %s' %(lnum,line))    
+    # {#X#},¦ {#Y#} -> {#X, Y#}¦ 
+    newline = re.sub(r'#},¦ {#(.*?)#}',  r', \1#}¦ ',line)
+    if newline != line:
+     outarr.append('%s new %s' %(lnum,newline))
+    else:
+     newline = re.sub(r'^({#[^#]*#})\^([0-9]+[.]?) *¦',r'\2 \1¦',line)
+     if newline != line:
+      outarr.append('%s new1 %s' %(lnum,newline))
+     else:
+      outarr.append('%s newX %s' %(lnum,newline))
+    """
+    
+    for token in entry.rawtokens:
+     out = 'raw: %s %s' %(token.type,token.value)
+     outarr.append(out)
     for out in outarr:
      f.write(out+'\n')
-    print('STOPPING AT ERROR:',entry.metaline)
-    break
-   for item in entry.result:
-    ttype = item[0]
-    val = item[1]
-    outarr.append('%s: %s' %(ttype, val))
+    nerr = nerr + 1
+    if nerr >= merr:
+     print('STOPPING AT ERROR:',nerr,'in',entry.metaline)
+     break
+    continue
+   for itemlist in entry.result:
+    #print('item=',item)
+    # item is a list
+    for item in itemlist:
+     try:
+      # item is 2-tuple  : type value
+      out = '%s: %s' %item
+      outarr.append(out)
+     except:
+      outarr.append('could not print item')
+      print('missing item',item)
    # lend
    outarr.append(entry.lend)
    for out in outarr:
@@ -270,11 +253,9 @@ if __name__=="__main__":
  entries = init_entries(filein)
  lexer = Ap90Lexer()
  parser = Ap90Parser()
- #entries = [entries[1],entries[13]]
- #entries = entries[0:10]
- #entries = entries[:1]
- maxerr = 10
+ maxerr = 10000
  numerr = 0
+ entries = entries[:50]
  for ientry,entry in enumerate(entries):
   data = '\n'.join(entry.datalines)
   try:
@@ -283,23 +264,10 @@ if __name__=="__main__":
    result = parser.parse(lexer.tokenize(data))
    entry.result = result
    if result == None:
-    numerr = numerr + 1
     print('; --------------- Error number',numerr)
     print('; '+entry.metaline)
-    #print('rawtokens')
-    #print('len errtokens=',len(parser.errtokens))
-    for tok in parser.errtokens:
-     #print('; errtok=',tok)
-     iline = int(tok.lineno)
-     lnum = entry.linenum1 + iline
-     lines = entry.datalines
-     #line = lines[iline-1]
-     #out = '%s old %s' %(lnum,iline)
-     print(iline,len(lines))
-     #print(out)
-    for tok in parser.rawtokens:
-     #print(tok)
-     pass
+    entry.rawtokens = list(lexer.tokenize(data))
+    numerr = numerr + 1
     if numerr >= maxerr:
      break
 
@@ -309,7 +277,13 @@ if __name__=="__main__":
    print('error from parser',e)
    #for tok in lexer.tokenize(data):
    # print(tok.type, tok.value)
-   exit(0)
+   print('; --------------- Error number',numerr)
+   print('; '+entry.metaline)
+   entry.rawtokens = list(lexer.tokenize(data))
+   numerr = numerr + 1
+   if numerr >= maxerr:
+    break
+
  print('tokenizing finished')
  
  write(fileout,entries)

@@ -40,7 +40,15 @@ class SentenceParser(Parser):
   #print(list(p))
   for x in list(p):
    print(x)
-
+ # sentence: adjective
+ @_('adjective')
+ def sentence(self,p):
+  print("Sentence is valid.")
+  #print(p)
+  #print(list(p))
+  for x in list(p):
+   print(x)
+  
  @_('VERB')
  def verb(self,p):
   return ['verb',['VERB',p.VERB]]

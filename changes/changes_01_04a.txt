@@ -1,0 +1,16 @@
+; <L>1070<pc>0052-a<k1>aDfzya<k2>aDfzya
+12138 old <>unapproachable (<ab>opp.</ab> {#aBigamya)#};  <lbinfo n="aDfzyaScABi#gamyaSca"/>
+12138 new <>unapproachable (<ab>opp.</ab> {#aBigamya#});  <lbinfo n="aDfzyaScABi#gamyaSca"/>
+;
+; <L>6616<pc>0250-c<k1>AmrAtakaH<k2>AmrAtakaH
+57471 old <>Inspissated mango juice (<ab>Mar.</ab> {#sAwa)#};
+57471 new <>Inspissated mango juice (<ab>Mar.</ab> {#sAwa#});
+;
+; <L>6794<pc>0256-b<k1>ArTa<k2>ArTa
+58805 old <>(<ab>opp.</ab> {#SAbda)#}; {#ArTi upamA#} &c. {@--3@}
+58805 new <>(<ab>opp.</ab> {#SAbda#}); {#ArTi upamA#} &c. {@--3@}
+;
+; <L>6955<pc>0261-b<k1>Avis<k2>Avis
+60029 old <>roots {#as, BU#} and {#kf)#}; {#AcAryakaM#} <lbinfo n="vija#yi"/>
+60029 new <>roots {#as, BU#} and {#kf#}); {#AcAryakaM#} <lbinfo n="vija#yi"/>
+;
