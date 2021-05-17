@@ -31,6 +31,11 @@ python change_misc1_02.py ap90.txt changes_01_05.txt
 python change_misc1_02.py ap90.txt changes_01_06.txt
  newline = line.replace('(Ved).','(<ab>Ved.</ab>)')
  12
+
+python change_misc1_02.py ap90.txt changes_01_07.txt
+ newline = re.sub(r';%}',r'%};',line)
+
+
 changes_01.txt  manual file.  from various sources
  changes_01_01.txt, 
 python updateByLine.py ap90_0.txt changes_01.txt ap90.txt

@@ -60,6 +60,11 @@ def change6(line):
   newline = line.replace('(Ved)','(<ab>Ved.</ab>)')
  return reason,newline
 
+def change7(line):
+ reason = ''
+ newline = re.sub(r';%}',r'%};',line)
+ return reason,newline
+ 
 def reasons_update(reasons,reason):
  if reason not in reasons:
   reasons[reason] = 0
@@ -69,7 +74,7 @@ def init_changes(lines):
  changes = [] # array of Change objects
  metaline = None
  page = None
- change_fcns = [change6]
+ change_fcns = [change7]
  reasons = {} # counts
  for iline,line in enumerate(lines):
   line = line.rstrip('\r\n')

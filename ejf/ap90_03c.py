@@ -30,15 +30,18 @@ class Ap90Parser(Parser):
  def entry(self,p):
   return [p.header,p.expr]
 
- # header : NUMBER DEVA BROKENBAR | DEVA BROKENBAR 
+ # header : NUMBER DEVA BROKENBAR | DEVA BROKENBAR | SUBHW BROKENBAR
  @_('NUMBER DEVA BROKENBAR')
  def header(self,p):
   return [('entry','%s %s %s' %(p.NUMBER,p.DEVA,p.BROKENBAR))]
  @_('DEVA BROKENBAR')
  def header(self,p):
   return [('entry','%s %s' %(p.DEVA,p.BROKENBAR))]
+ @_('SUBHW BROKENBAR')
+ def header(self,p):
+  return [('entry','%s %s' %(p.SUBHW,p.BROKENBAR))]
  
- # expr : expr term | term
+ # expr : expr term | term 
  @_('expr term')
  def expr(self,p):
   # conjunction of lists
@@ -46,8 +49,8 @@ class Ap90Parser(Parser):
  @_('term')
  def expr(self,p):
   return p.term
-
- # term : text | raw | deva
+ 
+ # term : text | raw | deva | ls | parenterm
  @_('text')
  def term(self,p):
   return p.text
@@ -57,8 +60,28 @@ class Ap90Parser(Parser):
  @_('deva')
  def term(self,p):
   return p.deva
+ @_('ls')
+ def term(self,p):
+  return p.ls
+ @_('parenterm')
+ def term(self,p):
+  return p.parenterm
  
- # text : text TEXT | TEXT
+ # parenterm : LPAREN expr RPAREN
+ @_('LPAREN expr RPAREN')
+ def parenterm(self,p):
+  # p.expr is a list of 2-tuples (type,val)
+  #eval = ' '.join([x[1] for x in p.expr])
+  #print('p.expr=',p.expr)
+  y = [x[1] for x in p.expr]
+  #print('y=',y)
+  #eval = p.expr
+  eval = ' '.join(y)
+  #print('eval=',eval)
+  val = '( %s )' %eval
+  return [('parenterm',val)]
+ 
+ # text : text TEXT | TEXT |text ETC
  @_('text TEXT')
  def text(self,p):
   val = '%s %s' %(p.text[0][1],p.TEXT)
@@ -66,22 +89,47 @@ class Ap90Parser(Parser):
  @_('TEXT')
  def text(self,p):
   return [('text',p.TEXT)]
+ @_('text ETC')
+ def text(self,p):
+  val = '%s %s' %(p.text[0][1],p.ETC)
+  return [('text',val)]
+ 
 
- # deva : deva DEVA | DEVA
+ # deva : deva DEVA | DEVA | deva PUNCT 
  @_('deva DEVA')
  def deva(self,p):
   val = '%s %s' %(p.deva[0][1],p.DEVA)
   val = re.sub(r'#} +{#',' ',val)
   return [('deva',val)]
+ @_('deva PUNCT')
+ def deva(self,p):
+  val = '%s %s' %(p.deva[0][1],p.PUNCT)
+  val = re.sub(r'#} +{#',' ',val)
+  return [('deva',val)]
  @_('DEVA')
  def deva(self,p):
   return [('deva',p.DEVA)]
+
+ # ls : ls XML_LS | XML_LS | ls PUNCT
+ @_('ls XML_LS')
+ def ls(self,p):
+  val = '%s %s' %(p.ls[0][1],p.XML_LS)
+  val = re.sub(r'#} +{#',' ',val)
+  return [('ls',val)]
+ @_('ls PUNCT')
+ def ls(self,p):
+  val = '%s %s' %(p.ls[0][1],p.PUNCT)
+  val = re.sub(r'#} +{#',' ',val)
+  return [('ls',val)]
+ @_('XML_LS')
+ def ls(self,p):
+  return [('ls',p.XML_LS)]
  
  #----------------------------------------------------
  @_('BRACKETDEVA', 'PARENDEVA', 'DEVA', 'ITALIC', 'BOLD', 'NUMBER',
             'PAGE', 'QUOTE', 'ETC', 'PARA', 'MDASH', 'MDASHNUM',
             'LBRACKET', 'RBRACKET',
-            'BROKENBAR',
+            'BROKENBAR', 'SUBHW',
              'LPAREN', 'RPAREN',
             # 'XML0','EMPTYXML',
             'TEXT', 'PUNCT', 
@@ -255,7 +303,7 @@ if __name__=="__main__":
  parser = Ap90Parser()
  maxerr = 10000
  numerr = 0
- entries = entries[:50]
+ #entries = entries[:50]
  for ientry,entry in enumerate(entries):
   data = '\n'.join(entry.datalines)
   try:

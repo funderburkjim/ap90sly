@@ -1,0 +1,740 @@
+; [Page13-1b+ 41]
+818 old <>to be supplied; {%e. g.;%}  <lbinfo n="ºratnapraBa#vasya"/>
+818 new <>to be supplied; {%e. g.%};  <lbinfo n="ºratnapraBa#vasya"/>
+;
+; <L>16<pc>0002-b<k1>aMsaH<k2>aMsaH
+1089 old <>altar. [<ab>cf.</ab> <ab>Goth.</ab> {%amsa;%} <ab>L.</ab> {%ansa,%}
+1089 new <>altar. [<ab>cf.</ab> <ab>Goth.</ab> {%amsa%}; <ab>L.</ab> {%ansa,%}
+;
+; <L>28<pc>0002-c<k1>aMhu<k2>aMhu
+1176 old <>{%angustus, anxius;%} <ab>Goth.</ab> {%aggvus%}].
+1176 new <>{%angustus, anxius%}; <ab>Goth.</ab> {%aggvus%}].
+;
+; <L>118<pc>0005-c<k1>akzaH<k2>akzaH
+1944 old <>{%axis;%} <ab>Gr.</ab> {%akshon%} or {%axon,%} old <ab>Germ.</ab>
+1944 new <>{%axis%}; <ab>Gr.</ab> {%akshon%} or {%axon,%} old <ab>Germ.</ab>
+;
+; <L>118<pc>0005-c<k1>akzaH<k2>akzaH
+1945 old <>{%ahsa;%} <ab>Germ.</ab> {%achse%}]. {@--Comp.@} {#--agraM#}
+1945 new <>{%ahsa%}; <ab>Germ.</ab> {%achse%}]. {@--Comp.@} {#--agraM#}
+;
+; <L>141<pc>0008-a<k1>akzi<k2>akzi
+2367 old <>and moon. [<ab>cf.</ab> <ab>L.</ab> {%oculus;%} Ger. {%auge;%}
+2367 new <>and moon. [<ab>cf.</ab> <ab>L.</ab> {%oculus%}; Ger. {%auge%};
+;
+; <L>248<pc>0016-c<k1>aMkaH<k2>aMkaH
+4254 old <>mountain. [<ab>cf.</ab> <ab>L.</ab> {%uncus;%} <ab>Gr.</ab> {%ogkos%}].
+4254 new <>mountain. [<ab>cf.</ab> <ab>L.</ab> {%uncus%}; <ab>Gr.</ab> {%ogkos%}].
+;
+; <L>271<pc>0018-a<k1>aMgaM<k2>aMgaM
+4594 old <>{#darSa#} is to them the {%angī;%}  <lbinfo n="aMgAMgiBAvama#jYAtvA"/>
+4594 new <>{#darSa#} is to them the {%angī%};  <lbinfo n="aMgAMgiBAvama#jYAtvA"/>
+;
+; <L>299<pc>0021-a<k1>aMgIkf<k2>aMgIkf
+5113 old <>{#mftyumaMgIkaromi#} {%<ab>ibid.</ab>;%} {#evamaMgIkArayituM mayA#}
+5113 new <>{#mftyumaMgIkaromi#} {%<ab>ibid.</ab>%}; {#evamaMgIkArayituM mayA#}
+;
+; <L>351<pc>0023-a<k1>aj<k2>aj
+5572 old <>only in Vedic literature). [<ab>cf.</ab> <ab>L.</ab> {%ago;%}
+5572 new <>only in Vedic literature). [<ab>cf.</ab> <ab>L.</ab> {%ago%};
+;
+; <L>351<pc>0023-a<k1>aj<k2>aj
+5573 old <><ab>Gr.</ab> {%ago;%} Zend {%az%}].
+5573 new <><ab>Gr.</ab> {%ago%}; Zend {%az%}].
+;
+; <L>424<pc>0026-a<k1>ajra<k2>ajra
+6249 old <>{%ager;%} <ab>Gr.</ab> {%agros.%}]
+6249 new <>{%ager%}; <ab>Gr.</ab> {%agros.%}]
+;
+; <L>426<pc>0026-a<k1>aMc<k2>aMc
+6274 old <><ls>Gīt. 10.</ls> [<ab>cf.</ab> Zend {%anku;%} <ab>Gr.</ab> {%ankulos;%} <ab>L.</ab>
+6274 new <><ls>Gīt. 10.</ls> [<ab>cf.</ab> Zend {%anku%}; <ab>Gr.</ab> {%ankulos%}; <ab>L.</ab>
+;
+; <L>429<pc>0026-b<k1>aMcalaH<k2>aMcalaH --laM
+6323 old <>{#dfgaMcalEH paSyati kevalaM manAk#} {%<ab>ibid.</ab>;%}
+6323 new <>{#dfgaMcalEH paSyati kevalaM manAk#} {%<ab>ibid.</ab>%};
+;
+; <L>430<pc>0026-b<k1>aMj<k2>aMj
+6337 old <>cause to go. [<ab>cf.</ab> Zend {%anj;%} <ab>L.</ab>
+6337 new <>cause to go. [<ab>cf.</ab> Zend {%anj%}; <ab>L.</ab>
+;
+; <L>809<pc>0040-a<k1>ad<k2>ad
+9492 old <>{%edo,%} <ab>Germ.</ab> {%essen,%} <ab>Eng.</ab> {%eat;%} Lith.
+9492 new <>{%edo,%} <ab>Germ.</ab> {%essen,%} <ab>Eng.</ab> {%eat%}; Lith.
+;
+; <L>878<pc>0042-c<k1>adya<k2>adya
+10126 old <>{%<ab>ibid.</ab>;%} {#naº#} not yet; {#guruH KedaM Kinne mayi#}
+10126 new <>{%<ab>ibid.</ab>%}; {#naº#} not yet; {#guruH KedaM Kinne mayi#}
+;
+; <L>925<pc>0045-c<k1>aDiH<k2>aDiH
+10767 old <>of ‘ruler’; {#aDi rAme BUH#} {%ibid;%}  <lbinfo n="prahAravarma#RyaDi"/>
+10767 new <>of ‘ruler’; {#aDi rAme BUH#} {%ibid%};  <lbinfo n="prahAravarma#RyaDi"/>
+;
+; <L>925<pc>0045-c<k1>aDiH<k2>aDiH
+10786 old <>{#aDiraDyayanESvaryavaSitvasmaraRADike .#} {%<ab>e. g.</ab>;%} {#upADyAyAdaDIte#}; <lbinfo n="iNo#'DyayanArTakatvasya"/>
+10786 new <>{#aDiraDyayanESvaryavaSitvasmaraRADike .#} {%<ab>e. g.</ab>%}; {#upADyAyAdaDIte#}; <lbinfo n="iNo#'DyayanArTakatvasya"/>
+;
+; <L>1732<pc>0074-b<k1>anupUrva<k2>anupUrva
+17299 old <>{%<ab>ibid.</ab>;%} {#ºkeSa#} who has regular hair;
+17299 new <>{%<ab>ibid.</ab>%}; {#ºkeSa#} who has regular hair;
+;
+; <L>1857<pc>0079-b<k1>anurUpa<k2>anurUpa
+18424 old <>{#valkalaM#} <ls>Ś. 1</ls>; {#svapramARAnurUpEH secanaGawEH#} {%<ab>ibid.</ab>;%}
+18424 new <>{#valkalaM#} <ls>Ś. 1</ls>; {#svapramARAnurUpEH secanaGawEH#} {%<ab>ibid.</ab>%};
+;
+; <L>1883<pc>0080-b<k1>anuvad<k2>anuvad
+18642 old <>{#kalApasya#} {%<ab>ibid.</ab>;%}  <lbinfo n="saBABittipratiDvAnErBayAda#nvavadanniva"/>
+18642 new <>{#kalApasya#} {%<ab>ibid.</ab>%};  <lbinfo n="saBABittipratiDvAnErBayAda#nvavadanniva"/>
+;
+; <L>2093<pc>0087-c<k1>aMta<k2>aMta
+20420 old <>{%and;%} <ab>Germ.</ab> {%ende%} and {%ent;%} also <ab>Gr.</ab>
+20420 new <>{%and%}; <ab>Germ.</ab> {%ende%} and {%ent%}; also <ab>Gr.</ab>
+;
+; <L>2093<pc>0087-c<k1>aMta<k2>aMta
+20421 old <>{%anti;%} <ab>L.</ab> {%ante%}]. {@--Comp.@} {#--avaSAyin#}
+20421 new <>{%anti%}; <ab>L.</ab> {%ante%}]. {@--Comp.@} {#--avaSAyin#}
+;
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20590 old <>[<ab>cf.</ab> <ab>L.</ab> {%inter;%} Zend {%antare;%} <ab>Goth.</ab>
+20590 new <>[<ab>cf.</ab> <ab>L.</ab> {%inter%}; Zend {%antare%}; <ab>Goth.</ab>
+;
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20591 old <>{%undar;%} Pers. {%andar;%} <ab>Gr.</ab> {%entos;%}].
+20591 new <>{%undar%}; Pers. {%andar%}; <ab>Gr.</ab> {%entos%};].
+;
+; <L>2099<pc>0088-c<k1>aMtar<k2>aMtar
+20782 old <>{#kasyacidrAjYoM'taHpuraM jalakrIqAM kurute#} {%<ab>ibid.</ab>;%} {#ºpracAraH#}
+20782 new <>{#kasyacidrAjYoM'taHpuraM jalakrIqAM kurute#} {%<ab>ibid.</ab>%}; {#ºpracAraH#}
+;
+; <L>2100<pc>0091-c<k1>aMtara<k2>aMtara
+21187 old <><ls>Trik.</ls>; {#mIno rASyaMtare, veRurnfpAMtare#} {%<ab>ibid.</ab>;%}  <lbinfo n="prA#saMgo"/>
+21187 new <><ls>Trik.</ls>; {#mIno rASyaMtare, veRurnfpAMtare#} {%<ab>ibid.</ab>%};  <lbinfo n="prA#saMgo"/>
+;
+; <L>2100<pc>0091-c<k1>aMtara<k2>aMtara
+21194 old <>{#parasyAMtaradarSinA#} {%<ab>ibid.</ab>;%} {#kIwakenevAMtaraM#} <lbinfo n="mArga#yamARena"/>
+21194 new <>{#parasyAMtaradarSinA#} {%<ab>ibid.</ab>%}; {#kIwakenevAMtaraM#} <lbinfo n="mArga#yamARena"/>
+;
+; <L>2119<pc>0094-c<k1>aMtarDA<k2>aMtarDA
+21627 old <>{#taraDIyata#} <ls>Mb.</ls>; {#te cAMtardaDire nAgAH#} {%ibid;%}  <lbinfo n="rA#trirAdityodayeM"/>
+21627 new <>{#taraDIyata#} <ls>Mb.</ls>; {#te cAMtardaDire nAgAH#} {%ibid%};  <lbinfo n="rA#trirAdityodayeM"/>
+;
+; <L>2252<pc>0103-a<k1>ap<k2>ap
+23318 old <><ab>Gr.</ab> {%appos;%} Lith. {%uppe,%} <ab>Goth.</ab> {%ahva;%}
+23318 new <><ab>Gr.</ab> {%appos%}; Lith. {%uppe,%} <ab>Goth.</ab> {%ahva%};
+;
+; <L>2252<pc>0103-a<k1>ap<k2>ap
+23319 old <>Pers. {%ab;%} Zend {%ap;%} Old <ab>Germ.</ab> {%aha%}].
+23319 new <>Pers. {%ab%}; Zend {%ap%}; Old <ab>Germ.</ab> {%aha%}].
+;
+; <L>2254<pc>0103-a<k1>apa<k2>apa
+23378 old <>{#ca nirdeSe harze cApaH prayujyate#}. [<ab>cf.</ab> <ab>L.</ab> {%ab;%} <ab>Gr.</ab>
+23378 new <>{#ca nirdeSe harze cApaH prayujyate#}. [<ab>cf.</ab> <ab>L.</ab> {%ab%}; <ab>Gr.</ab>
+;
+; <L>2254<pc>0103-a<k1>apa<k2>apa
+23379 old <>{%apo;%} <ab>Goth.</ab> {%af.%} <ab>Eng.</ab> {%of or off;%} Zend
+23379 new <>{%apo%}; <ab>Goth.</ab> {%af.%} <ab>Eng.</ab> {%of or off%}; Zend
+;
+; <L>2348<pc>0106-b<k1>apatrap<k2>apatrap
+24084 old <>{#BfSaM naraH sa sarvalokaMsya gururBavatyuta#} {%ibid;%}
+24084 new <>{#BfSaM naraH sa sarvalokaMsya gururBavatyuta#} {%ibid%};
+;
+; <L>2430<pc>0108-b<k1>apara<k2>apara
+24684 old <><ab>acc.</ab>). [<ab>cf.</ab> <ab>Goth.</ab> {%afar;%} <ab>Germ.</ab> {%aber,%}
+24684 new <><ab>acc.</ab>). [<ab>cf.</ab> <ab>Goth.</ab> {%afar%}; <ab>Germ.</ab> {%aber,%}
+;
+; <L>2686<pc>0117-a<k1>api<k2>api
+26628 old <>{#syAt#} {%ibid;%} {#api nAma rAmaBadraH punarapIdaM#} <lbinfo n="vanamalaM#kuryAt"/>
+26628 new <>{#syAt#} {%ibid%}; {#api nAma rAmaBadraH punarapIdaM#} <lbinfo n="vanamalaM#kuryAt"/>
+;
+; <L>2991<pc>0126-c<k1>aBi<k2>aBi
+28883 old <>{#aByasyAti#}. [<ab>cf.</ab> <ab>L.</ab> {%ob;%} <ab>Gr.</ab> {%amphi;%} Zend
+28883 new <>{#aByasyAti#}. [<ab>cf.</ab> <ab>L.</ab> {%ob%}; <ab>Gr.</ab> {%amphi%}; Zend
+;
+; <L>2991<pc>0126-c<k1>aBi<k2>aBi
+28884 old <>{%aibi%} or {%aiwi,%} <ab>Goth.</ab> {%bi;%} also {%umbi; um%}].
+28884 new <>{%aibi%} or {%aiwi,%} <ab>Goth.</ab> {%bi%}; also {%umbi; um%}].
+;
+; <L>3114<pc>0130-c<k1>aBihita<k2>aBihita
+29833 old <>as distinguished from {%vāchyārtha;%}
+29833 new <>as distinguished from {%vāchyārtha%};
+;
+; <L>3269<pc>0136-b<k1>aBiyogaH<k2>aBiyogaH
+31085 old <>{%<ab>ibid.</ab>;%} <ls>Dk. 41</ls>, <ls>K. 345</ls>; <ls>Śi. 7. 63.</ls> {@--3@}
+31085 new <>{%<ab>ibid.</ab>%}; <ls>Dk. 41</ls>, <ls>K. 345</ls>; <ls>Śi. 7. 63.</ls> {@--3@}
+;
+; <L>3401<pc>0139-c<k1>aBizekaH<k2>aBizekaH
+31910 old <>{#rAjyABizeka iti#} <ls>V. 5</ls>; {#yOvarAjyaº#} {%<ab>ibid.</ab>;%}  <lbinfo n="ls:R.+ 17. 14."/>
+31910 new <>{#rAjyABizeka iti#} <ls>V. 5</ls>; {#yOvarAjyaº#} {%<ab>ibid.</ab>%};  <lbinfo n="ls:R.+ 17. 14."/>
+;
+; <L>3727<pc>0148-a<k1>aBraM<k2>aBraM
+33992 old <>{%imber; <ab>Gr.</ab> ombros, appros;%} Zend
+33992 new <>{%imber; <ab>Gr.</ab> ombros, appros%}; Zend
+;
+; <L>3772<pc>0149-b<k1>amara<k2>amara
+34387 old <>{%Amarakoṣa;%} he was a Jaina and
+34387 new <>{%Amarakoṣa%}; he was a Jaina and
+;
+; <L>3852<pc>0152-a<k1>amfta<k2>amfta
+34996 old <>{%ambrotos, ambrosia;%} <ab>L.</ab> {%immortalis%}]. {@--Comp.@}  <lbinfo n="--aM#SuH"/>
+34996 new <>{%ambrotos, ambrosia%}; <ab>L.</ab> {%immortalis%}]. {@--Comp.@}  <lbinfo n="--aM#SuH"/>
+;
+; <L>3887<pc>0154-a<k1>aMbA<k2>aMbA
+35352 old <>{%Amma;%} <ab>Germ.</ab> {%amme;%} old <ab>Germ.</ab> {%Amma%}].
+35352 new <>{%Amma%}; <ab>Germ.</ab> {%amme%}; old <ab>Germ.</ab> {%Amma%}].
+;
+; <L>3938<pc>0156-c<k1>ayas<k2>ayas
+35903 old <>{%--<ab>m.</ab>%} Fire. [cf <ab>L.</ab> {%aes, aeris;%} <ab>Goth.</ab>
+35903 new <>{%--<ab>m.</ab>%} Fire. [cf <ab>L.</ab> {%aes, aeris%}; <ab>Goth.</ab>
+;
+; <L>3938<pc>0156-c<k1>ayas<k2>ayas
+35904 old <>{%ais, eisarn;%} Ger. {%eisin%}]. {@--Comp.@}
+35904 new <>{%ais, eisarn%}; Ger. {%eisin%}]. {@--Comp.@}
+;
+; <L>4061<pc>0161-b<k1>aritra<k2>aritra
+36960 old <>Soma vessel. [<ab>cf.</ab> <ab>L.</ab> {%aratrum;%} <ab>Gr.</ab>
+36960 new <>Soma vessel. [<ab>cf.</ab> <ab>L.</ab> {%aratrum%}; <ab>Gr.</ab>
+;
+; <L>4104<pc>0163-a<k1>arere<k2>arere
+37334 old <>{#vAcAwa#} {%ibid;%} or of ({%b%}) addressing <lbinfo n="in+feriors"/>
+37334 new <>{#vAcAwa#} {%ibid%}; or of ({%b%}) addressing <lbinfo n="in+feriors"/>
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38008 old <>{#leKArTaH#} {%<ab>ibid.</ab>;%} {#tena hi asya gfhItArTA BavAmi#} 
+38008 new <>{#leKArTaH#} {%<ab>ibid.</ab>%}; {#tena hi asya gfhItArTA BavAmi#} 
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38023 old <>{#arTAnAmarjane duHKaM#} {%<ab>ibid.</ab>;%} {#yasyArTAstasya mitrARi#}
+38023 new <>{#arTAnAmarjane duHKaM#} {%<ab>ibid.</ab>%}; {#yasyArTAstasya mitrARi#}
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38080 old <>general and {%vice versa;%} {#uktirarTAMtaranyAsaH#}
+38080 new <>general and {%vice versa%}; {#uktirarTAMtaranyAsaH#}
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38128 old <>the subject in hand, or {%vice versa;%}
+38128 new <>the subject in hand, or {%vice versa%};
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38236 old <>{%exegesis;%} speech or assertion having
+38236 new <>{%exegesis%}; speech or assertion having
+;
+; <L>4179<pc>0168-c<k1>arDa<k2>arDa
+38553 old <>partial rise. --3. a kind of {%parvan;%} {#ºAsanaM#}
+38553 new <>partial rise. --3. a kind of {%parvan%}; {#ºAsanaM#}
+;
+; <L>4435<pc>0177-c<k1>avaguMWanaM<k2>avaguMWanaM
+40565 old <>{%ibid;%} {#kftaSIrzAvaguMWanaH#} <ls>Mu. 6</ls>;  <lbinfo n="utsfzwa#satpuruzocitalajjAvaguMWanAnAM"/>
+40565 new <>{%ibid%}; {#kftaSIrzAvaguMWanaH#} <ls>Mu. 6</ls>;  <lbinfo n="utsfzwa#satpuruzocitalajjAvaguMWanAnAM"/>
+;
+; <L>4771<pc>0188-a<k1>avalepaH<k2>avalepaH
+42987 old <><ls>V. 1</ls>; {#asuraº#} {%<ab>ibid.</ab>;%} {#dadfSe pavanAvalepajaM#}
+42987 new <><ls>V. 1</ls>; {#asuraº#} {%<ab>ibid.</ab>%}; {#dadfSe pavanAvalepajaM#}
+;
+; <L>4989<pc>0193-c<k1>avi<k2>avi
+44448 old <>in her courses. [<ab>cf.</ab> <ab>L.</ab> {%ovis;%} <ab>Gr.</ab> {%ois%}].
+44448 new <>in her courses. [<ab>cf.</ab> <ab>L.</ab> {%ovis%}; <ab>Gr.</ab> {%ois%}].
+;
+; <L>5315<pc>0203-a<k1>aSru<k2>aSru
+46641 old <><ls>R. 3. 61.</ls> [<ab>cf.</ab> Zend {%asru;%} Pers. {%ars.%}].
+46641 new <><ls>R. 3. 61.</ls> [<ab>cf.</ab> Zend {%asru%}; Pers. {%ars.%}].
+;
+; <L>5327<pc>0203-b<k1>aSvaH<k2>aSvaH
+46756 old <>a mare. [<ab>cf.</ab> <ab>L.</ab> {%equus;%} <ab>Gr.</ab> {%hippos;%}
+46756 new <>a mare. [<ab>cf.</ab> <ab>L.</ab> {%equus%}; <ab>Gr.</ab> {%hippos%};
+;
+; <L>5327<pc>0203-b<k1>aSvaH<k2>aSvaH
+46757 old <>Zend {%aspa;%} Pers. {%asp.%}] {@--Comp.@}
+46757 new <>Zend {%aspa%}; Pers. {%asp.%}] {@--Comp.@}
+;
+; <L>5359<pc>0205-c<k1>azwan<k2>azwan
+47243 old <>[<ab>cf.</ab> <ab>L.</ab> {%octo;%} <ab>Gr.</ab> {%okto; Zend. %}
+47243 new <>[<ab>cf.</ab> <ab>L.</ab> {%octo%}; <ab>Gr.</ab> {%okto; Zend. %}
+;
+; <L>5359<pc>0205-c<k1>azwan<k2>azwan
+47245 old <>{%astan;%} Pers. {%hasht.%}]. {@--Comp.@}  <lbinfo n="--a#kzara"/>
+47245 new <>{%astan%}; Pers. {%hasht.%}]. {@--Comp.@}  <lbinfo n="--a#kzara"/>
+;
+; <L>5365<pc>0207-a<k1>azwama<k2>azwama
+47481 old <>plant ({#kowAlatA#}). [<ab>cf.</ab> <ab>L.</ab> {%octavus;%}
+47481 new <>plant ({#kowAlatA#}). [<ab>cf.</ab> <ab>L.</ab> {%octavus%};
+;
+; <L>5378<pc>0207-c<k1>as<k2>as
+47686 old <>{#asti#}; {%esse;%} Zend. {%āsti;%} Pers. {%hast,%}
+47686 new <>{#asti#}; {%esse%}; Zend. {%āsti%}; Pers. {%hast,%}
+;
+; <L>5432<pc>0210-a<k1>asat<k2>asat
+48174 old <>{#nyAya#}). --2. a bad or fallacious {%hetu;%}
+48174 new <>{#nyAya#}). --2. a bad or fallacious {%hetu%};
+;
+; <L>5523<pc>0212-b<k1>asADAraRa<k2>asADAraRa
+48747 old <>{#vipakza#} as a {%hetu;%} {#yastUBayasmAd vyAvfttaH#}
+48747 new <>{#vipakza#} as a {%hetu%}; {#yastUBayasmAd vyAvfttaH#}
+;
+; <L>5538<pc>0213-b<k1>asidDa<k2>asidDa
+48946 old <>A fallacious {%hetu;%} one of the
+48946 new <>A fallacious {%hetu%}; one of the
+;
+; <L>5610<pc>0215-c<k1>asTi<k2>asTi
+49479 old <>{%osteon;%} Zend. {%asta;%} Pers. {%astah%}]
+49479 new <>{%osteon%}; Zend. {%asta%}; Pers. {%astah%}]
+;
+; <L>5676<pc>0217-c<k1>aham<k2>aham
+49958 old <>{#asmad#}). I [<ab>cf.</ab> Zend {%azem;%} <ab>L.</ab> {%ego;%} <ab>Germ.</ab>
+49958 new <>{#asmad#}). I [<ab>cf.</ab> Zend {%azem%}; <ab>L.</ab> {%ego%}; <ab>Germ.</ab>
+;
+; <L>5973<pc>0230-a<k1>Acitika<k2>Acitika
+52645 old <>cooking, a quantity equal to an {%Acita;%}
+52645 new <>cooking, a quantity equal to an {%Acita%};
+;
+; <L>6464<pc>0246-b<k1>Aplu<k2>Aplu
+56471 old <>{#AplutyAkASagaMgAyAM#} {%ibid;%} <ls>Ms. 7. 216</ls>, <ls n="Ms.">11. 203.</ls>
+56471 new <>{#AplutyAkASagaMgAyAM#} {%ibid%}; <ls>Ms. 7. 216</ls>, <ls n="Ms.">11. 203.</ls>
+;
+; <L>7046<pc>0264-b<k1>ASu<k2>ASu
+60741 old <><ls n="Me.">22.</ls> [<ab>cf.</ab> <ab>L.</ab> {%acu;%} <ab>Gr.</ab> {%okus.%}].
+60741 new <><ls n="Me.">22.</ls> [<ab>cf.</ab> <ab>L.</ab> {%acu%}; <ab>Gr.</ab> {%okus.%}].
+;
+; <L>7286<pc>0273-1<k1>i<k2>i
+62769 old <>come. [<ab>cf.</ab> <ab>L.</ab> {%eo;%} <ab>Gr.</ab> {%eimi%} with {#emi#}].
+62769 new <>come. [<ab>cf.</ab> <ab>L.</ab> {%eo%}; <ab>Gr.</ab> {%eimi%} with {#emi#}].
+;
+; <L>7345<pc>0276-b<k1>idaM<k2>idaM
+63318 old {#idaM#}¦ {%<ab>pron. a.</ab>%} [{#ayaM#} {%<ab>m.</ab>;%} {#iyaM#} {%<ab>f.</ab>,%} {#idaM#}
+63318 new {#idaM#}¦ {%<ab>pron. a.</ab>%} [{#ayaM#} {%<ab>m.</ab>%}; {#iyaM#} {%<ab>f.</ab>,%} {#idaM#}
+;
+; <L>7995<pc>0300-c<k1>udakaM<k2>udakaM
+68791 old <>[<ab>cf.</ab> <ab>Gr.</ab> {%hudor;%} <ab>L.</ab> {%unda%} ‘a wave’].
+68791 new <>[<ab>cf.</ab> <ab>Gr.</ab> {%hudor%}; <ab>L.</ab> {%unda%} ‘a wave’].
+;
+; <L>8033<pc>0302-b<k1>udaraM<k2>udaraM
+69176 old <>{%uterus;%} Zend. {%udara%}]. {@--Comp.@} 
+69176 new <>{%uterus%}; Zend. {%udara%}]. {@--Comp.@} 
+;
+; <L>8420<pc>0315-b<k1>upa<k2>upa
+72175 old <>{%hupo;%} <ab>L.</ab> {%sub;%} <ab>Goth.</ab> {%up;%} <ab>Germ.</ab> {%ob.%}].
+72175 new <>{%hupo%}; <ab>L.</ab> {%sub%}; <ab>Goth.</ab> {%up%}; <ab>Germ.</ab> {%ob.%}].
+;
+; <L>8514<pc>0318-b<k1>upacar<k2>upacar
+72864 old <>{#ityupacaryate#} {%ibid;%} {#kAloyaM dviparArDAKyo nimeza#} <lbinfo n="upa#caryate"/>
+72864 new <>{#ityupacaryate#} {%ibid%}; {#kAloyaM dviparArDAKyo nimeza#} <lbinfo n="upa#caryate"/>
+;
+; <L>8517<pc>0318-c<k1>upacAraH<k2>upacAraH
+72960 old <>{#karaRe kartftvopacArAt#} {%<ab>ibid.</ab>;%} {#na cAsya#} <lbinfo n="kara#DftatvaM"/>
+72960 new <>{#karaRe kartftvopacArAt#} {%<ab>ibid.</ab>%}; {#na cAsya#} <lbinfo n="kara#DftatvaM"/>
+;
+; <L>8550<pc>0320-a<k1>upajIv<k2>upajIv
+73199 old <><ls>Mk. 2</ls>; {#saMvAhakasya vfttiM#} {%<ab>ibid.</ab>;%}  <lbinfo n="SezAsta#mupajIveyuryaTEva"/>
+73199 new <><ls>Mk. 2</ls>; {#saMvAhakasya vfttiM#} {%<ab>ibid.</ab>%};  <lbinfo n="SezAsta#mupajIveyuryaTEva"/>
+;
+; <L>8586<pc>0321-a<k1>upadA<k2>upadA
+73428 old <>a great man, a {%Nazarānā;%} {#upadA#}
+73428 new <>a great man, a {%Nazarānā%}; {#upadA#}
+;
+; <L>8683<pc>0324-b<k1>upanetf<k2>upanetf
+74190 old <>ceremony, an {%Ācārya;%} <ls>Pt. 4. 66.</ls>
+74190 new <>ceremony, an {%Ācārya%}; <ls>Pt. 4. 66.</ls>
+;
+; <L>8809<pc>0328-b<k1>upari<k2>upari
+75139 old <>{%ibid;%} <ab>oft.</ab> at the end of <ab>comp.</ab>; {#raTaº#},
+75139 new <>{%ibid%}; <ab>oft.</ab> at the end of <ab>comp.</ab>; {#raTaº#},
+;
+; <L>8809<pc>0328-b<k1>upari<k2>upari
+75170 old <>{%upara;%} <ab>Gr.</ab> {%huper;%} <ab>L.</ab> {%super;%} Old
+75170 new <>{%upara%}; <ab>Gr.</ab> {%huper%}; <ab>L.</ab> {%super%}; Old
+;
+; <L>8809<pc>0328-b<k1>upari<k2>upari
+75171 old <><ab>Germ.</ab> {%obar;%} <ab>Germ.</ab> {%uber;%} <ab>Eng.</ab>
+75171 new <><ab>Germ.</ab> {%obar%}; <ab>Germ.</ab> {%uber%}; <ab>Eng.</ab>
+;
+; <L>8809<pc>0328-b<k1>upari<k2>upari
+75172 old <>{%over;%} Hind. {%upar%}]. {@--Comp.@}  <lbinfo n="--A#sanaM"/>
+75172 new <>{%over%}; Hind. {%upar%}]. {@--Comp.@}  <lbinfo n="--A#sanaM"/>
+;
+; <L>8814<pc>0329-a<k1>uparoDaH<k2>uparoDaH
+75256 old <>{#sahyatAM#} {%<ab>ibid.</ab>;%} detention; {#kiM#} <lbinfo n="rAjarzeruparo#Dena"/>
+75256 new <>{#sahyatAM#} {%<ab>ibid.</ab>%}; detention; {#kiM#} <lbinfo n="rAjarzeruparo#Dena"/>
+;
+; <L>9129<pc>0338-b<k1>upAs<k2>upAs
+77428 old <>or action; <ab>oft.</ab> with a {%<ab>pres. p.</ab>;%}  <lbinfo n="ls:Bg.+ 12. 6."/>
+77428 new <>or action; <ab>oft.</ab> with a {%<ab>pres. p.</ab>%};  <lbinfo n="ls:Bg.+ 12. 6."/>
+;
+; <L>9174<pc>0339-c<k1>uBa<k2>uBa
+77734 old <><ls>Śi. 3. 8.</ls> [cf Zend. {%uba;%} <ab>Gr.</ab> {%amphi;%} <ab>L.</ab>
+77734 new <><ls>Śi. 3. 8.</ls> [cf Zend. {%uba%}; <ab>Gr.</ab> {%amphi%}; <ab>L.</ab>
+;
+; <L>9212<pc>0340-c<k1>uru<k2>uru
+78010 old <><ls>Uṇ. 1. 31</ls>] ({#ru-rvI#} {%<ab>f.</ab>;%} <ab>compar.</ab> {#varIyas#};
+78010 new <><ls>Uṇ. 1. 31</ls>] ({#ru-rvI#} {%<ab>f.</ab>%}; <ab>compar.</ab> {#varIyas#};
+;
+; <L>9274<pc>0342-c<k1>ullAsaH<k2>ullAsaH
+78446 old <>for examples, see <ls>R. G.</ls> {%ad. <ab>loc.</ab>;%} <ab>cf.</ab>
+78446 new <>for examples, see <ls>R. G.</ls> {%ad. <ab>loc.</ab>%}; <ab>cf.</ab>
+;
+; <L>9330<pc>0344-b<k1>uzwraH<k2>uzwraH
+78815 old <>Pers. {%ushtar;%} Zend {%ustra.%}] {@--Comp.@}
+78815 new <>Pers. {%ushtar%}; Zend {%ustra.%}] {@--Comp.@}
+;
+; <L>9406<pc>0347-b<k1>Uha<k2>Uha
+79425 old <>and {%cons;%} <ls>Bv. 2. 74</ls>; see {#apoha#}. 
+79425 new <>and {%cons%}; <ls>Bv. 2. 74</ls>; see {#apoha#}. 
+;
+; <L>9417<pc>0347-1<k1>fkzaH<k2>fkzaH
+79530 old <>bear. [<ab>cf.</ab> <ab>Gr.</ab> {%arkos;%} <ab>L.</ab> {%ursus%}].
+79530 new <>bear. [<ab>cf.</ab> <ab>Gr.</ab> {%arkos%}; <ab>L.</ab> {%ursus%}].
+;
+; <L>9518<pc>0352-a<k1>eka<k2>eka
+80453 old <>[<ab>cf.</ab> Persian {%yak;%} <ab>L.</ab> {%œquus%}].
+80453 new <>[<ab>cf.</ab> Persian {%yak%}; <ab>L.</ab> {%œquus%}].
+;
+; <L>9559<pc>0356-b<k1>etarhi<k2>etarhi
+81280 old <>{%Kṣipra;%} <ab>cf.</ab> {#idAnIM#}.
+81280 new <>{%Kṣipra%}; <ab>cf.</ab> {#idAnIM#}.
+;
+; <L>10256<pc>0377-a<k1>kapAlaH<k2>kapAlaH, --laM
+86069 old <><ab>L.</ab> {%caput;%} <ab>Gr.</ab> {%kephale%}]. {@--Comp.@}
+86069 new <><ab>L.</ab> {%caput%}; <ab>Gr.</ab> {%kephale%}]. {@--Comp.@}
+;
+; <L>10368<pc>0381-b<k1>karka<k2>karka
+87018 old <>Pers. {%kark;%} <ab>L.</ab> {%cancer;%} <ab>Gr.</ab>  <lbinfo n="kor+kinos"/>
+87018 new <>Pers. {%kark%}; <ab>L.</ab> {%cancer%}; <ab>Gr.</ab>  <lbinfo n="kor+kinos"/>
+;
+; <L>10456<pc>0385-b<k1>kal<k2>kal
+87880 old <>{#kalitalalitavanamAlaH; halaM kalayate#} {%<ab>ibid.</ab>;%}
+87880 new <>{#kalitalalitavanamAlaH; halaM kalayate#} {%<ab>ibid.</ab>%};
+;
+; <L>10805<pc>0398-a<k1>kArya<k2>kArya
+90796 old <><ab>Germ.</ab> {%kāra;%} Pers. {%kār;%} Prāk. {%kajja;%}
+90796 new <><ab>Germ.</ab> {%kāra%}; Pers. {%kār%}; Prāk. {%kajja%};
+;
+; <L>11485<pc>0423-b<k1>keliH<k2>keliH
+96418 old <>{#kelipare#} {%ibid;%} {#rADAmADavayorjayaMti yamunAkule#}
+96418 new <>{#kelipare#} {%ibid%}; {#rADAmADavayorjayaMti yamunAkule#}
+;
+; <L>11485<pc>0423-b<k1>keliH<k2>keliH
+96419 old <>{#rahaHkelayaH#} {%<ab>ibid.</ab>;%} <ls>Amaru. 7</ls>;  <lbinfo n="ls:Pt. 1.+ 175"/>
+96419 new <>{#rahaHkelayaH#} {%<ab>ibid.</ab>%}; <ls>Amaru. 7</ls>;  <lbinfo n="ls:Pt. 1.+ 175"/>
+;
+; <L>11682<pc>0429-b<k1>kratuH<k2>kratuH
+97851 old <>organ. [<ab>cf.</ab> <ab>Gr.</ab> {%kratos;%} Zend
+97851 new <>organ. [<ab>cf.</ab> <ab>Gr.</ab> {%kratos%}; Zend
+;
+; <L>11706<pc>0430-c<k1>kravyaM<k2>kravyaM
+98087 old <><ab>Gr.</ab> {%kreas;%} <ab>L.</ab> {%caro%}] {@--Comp.@} {#--ad#},
+98087 new <><ab>Gr.</ab> {%kreas%}; <ab>L.</ab> {%caro%}] {@--Comp.@} {#--ad#},
+;
+; <L>11757<pc>0432-b<k1>kroSaH<k2>kroSaH
+98483 old <>a {%Koss;%} {#kroSArDaM prakftipuraHsareRa gatvA#}  <lbinfo n="ls:R.+ 13. 79"/>
+98483 new <>a {%Koss%}; {#kroSArDaM prakftipuraHsareRa gatvA#}  <lbinfo n="ls:R.+ 13. 79"/>
+;
+; <L>12317<pc>0451-a<k1>gam<k2>gam
+102750 old <>{#gamizyati, gaMtuM, gata#} {%desid;%} {#jigamizati, jigAMsate#} <ab>Atm.</ab>;
+102750 new <>{#gamizyati, gaMtuM, gata#} {%desid%}; {#jigamizati, jigAMsate#} <ab>Atm.</ab>;
+;
+; <L>12958<pc>0478-c<k1>GftAcI<k2>GftAcI
+108737 old <>Sarasvatī. {@--3@} <ab>N.</ab> of an {%apsaras;%} <ab>N.</ab>
+108737 new <>Sarasvatī. {@--3@} <ab>N.</ab> of an {%apsaras%}; <ab>N.</ab>
+;
+; <L>12986<pc>0479-1<k1>ca<k2>ca
+108951 old <>{%copulation;%} {@1@} {#anvAcaya#} joining a <lbinfo n="sub+ordinate"/>
+108951 new <>{%copulation%}; {@1@} {#anvAcaya#} joining a <lbinfo n="sub+ordinate"/>
+;
+; <L>13055<pc>0482-c<k1>catur<k2>catur
+109559 old <><ls>Uṇ. 5. 58</ls>] (always in <ab>pl.</ab>; {#catvAraH#} {%<ab>m.</ab>;%}
+109559 new <><ls>Uṇ. 5. 58</ls>] (always in <ab>pl.</ab>; {#catvAraH#} {%<ab>m.</ab>%};
+;
+; <L>13055<pc>0482-c<k1>catur<k2>catur
+109560 old <>{#catasraH#} {%<ab>f.</ab>;%} {#catvAri#} {%<ab>n.</ab>%}) Four;  <lbinfo n="catvA#ro"/>
+109560 new <>{#catasraH#} {%<ab>f.</ab>%}; {#catvAri#} {%<ab>n.</ab>%}) Four;  <lbinfo n="catvA#ro"/>
+;
+; <L>13055<pc>0482-c<k1>catur<k2>catur
+109566 old <>{%chathru;%} <ab>Gr.</ab> {%tessares;%} <ab>L.</ab> {%quatuor%}].
+109566 new <>{%chathru%}; <ab>Gr.</ab> {%tessares%}; <ab>L.</ab> {%quatuor%}].
+;
+; <L>14095<pc>0519-b<k1>jyAyas<k2>jyAyas
+117858 old {#jyAyas#}¦ {%<ab>a.</ab>%} ({#sI#} {%<ab>f.</ab>;%} <ab>compar.</ab> of
+117858 new {#jyAyas#}¦ {%<ab>a.</ab>%} ({#sI#} {%<ab>f.</ab>%}; <ab>compar.</ab> of
+;
+; <L>14669<pc>0538-a<k1>timiMgilaH<k2>timiMgilaH
+121948 old <>swallows a {%timi;%} <ls>Bv. 1. 55.</ls> {#ºaSanaH#},
+121948 new <>swallows a {%timi%}; <ls>Bv. 1. 55.</ls> {#ºaSanaH#},
+;
+; <L>14669<pc>0538-a<k1>timiMgilaH<k2>timiMgilaH
+121950 old <>swallows even a {%timingila;%}  <lbinfo n="timiMgilagi#lo"/>
+121950 new <>swallows even a {%timingila%};  <lbinfo n="timiMgilagi#lo"/>
+;
+; <L>15023<pc>0548-c<k1>tri<k2>tri
+124436 old <>[Cf. <ab>L.</ab> {%tres;%} <ab>Gr.</ab> {%treis; <ab>A. S.</ab>,%}
+124436 new <>[Cf. <ab>L.</ab> {%tres%}; <ab>Gr.</ab> {%treis; <ab>A. S.</ab>,%}
+;
+; <L>15023<pc>0548-c<k1>tri<k2>tri
+124437 old <>Zend {%thri;%} <ab>Eng.</ab> {%three.%}] {@--Comp.@}
+124437 new <>Zend {%thri%}; <ab>Eng.</ab> {%three.%}] {@--Comp.@}
+;
+; <L>15626<pc>0578-a<k1>deva<k2>deva
+130718 old <>organ of sense. [<ab>cf.</ab> <ab>L.</ab> {%deus;%} <ab>Gr.</ab>
+130718 new <>organ of sense. [<ab>cf.</ab> <ab>L.</ab> {%deus%}; <ab>Gr.</ab>
+;
+; <L>15626<pc>0578-a<k1>deva<k2>deva
+130790 old <>gods. {#--gaRikA#} an {%apsaras;%} <ab>q. v.</ab>
+130790 new <>gods. {#--gaRikA#} an {%apsaras%}; <ab>q. v.</ab>
+;
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132803 old <>{%bis%} or {%bi%} in <ab>comp.</ab>; <ab>Gr.</ab> {%duo, dis;%} Zend
+132803 new <>{%bis%} or {%bi%} in <ab>comp.</ab>; <ab>Gr.</ab> {%duo, dis%}; Zend
+;
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132804 old <>{%dva;%} <ab>A. S.</ab> {%twi.%}]. {@--Comp.@} {#--akza#} {%<ab>a.</ab>%}
+132804 new <>{%dva%}; <ab>A. S.</ab> {%twi.%}]. {@--Comp.@} {#--akza#} {%<ab>a.</ab>%}
+;
+; <L>15944<pc>0591-a<k1>Danus<k2>Danus
+133565 old <>equal to four {%hastas;%}  <lbinfo n="ls:Y. 2.+ 167"/>
+133565 new <>equal to four {%hastas%};  <lbinfo n="ls:Y. 2.+ 167"/>
+;
+; <L>15952<pc>0591-c<k1>DanvaMtaraM<k2>DanvaMtaraM
+133648 old <>or length equal to four {%hastas;%}
+133648 new <>or length equal to four {%hastas%};
+;
+; <L>16837<pc>0625-b<k1>niyamaH<k2>niyamaH
+141201 old <>rule, would be {%optional;%}  <lbinfo n="viDiratyaMta#maprAptO"/>
+141201 new <>rule, would be {%optional%};  <lbinfo n="viDiratyaMta#maprAptO"/>
+;
+; <L>16985<pc>0633-c<k1>nirBid<k2>nirBid
+142917 old <>{#rahasyaM#} <ls>Dk.</ls>, {#vfttAMtEkadeSaM nirbiBeda#} {%<ab>ibid.</ab>;%}
+142917 new <>{#rahasyaM#} <ls>Dk.</ls>, {#vfttAMtEkadeSaM nirbiBeda#} {%<ab>ibid.</ab>%};
+;
+; <L>17319<pc>0646-a<k1>nIla<k2>nIla
+145689 old {#nIla#}¦ {%<ab>a.</ab>%} ({#lA-lI#} {%<ab>f.</ab>;%} the former
+145689 new {#nIla#}¦ {%<ab>a.</ab>%} ({#lA-lI#} {%<ab>f.</ab>%}; the former
+;
+; <L>17625<pc>0659-a<k1>pawu<k2>pawu
+148526 old {#pawu#}¦ {%<ab>a.</ab>%} ({#wu#} or {#wvI#} {%<ab>f.</ab>;%} <ab>compar.</ab>  <lbinfo n="pawI#yas"/>
+148526 new {#pawu#}¦ {%<ab>a.</ab>%} ({#wu#} or {#wvI#} {%<ab>f.</ab>%}; <ab>compar.</ab>  <lbinfo n="pawI#yas"/>
+;
+; <L>17642<pc>0659-c<k1>paRaH<k2>paRaH
+148690 old <>equal in value to 80 {%cowries;%}  <lbinfo n="a#SItiBirvarAwakEH"/>
+148690 new <>equal in value to 80 {%cowries%};  <lbinfo n="a#SItiBirvarAwakEH"/>
+;
+; <L>17659<pc>0660-b<k1>paMqita<k2>paMqita
+148809 old <>fancies himself to be a {%Paṇḍita;%}  <lbinfo n="ls:Pt. 4.+ 100."/>
+148809 new <>fancies himself to be a {%Paṇḍita%};  <lbinfo n="ls:Pt. 4.+ 100."/>
+;
+; <L>18655<pc>0692-c<k1>pAtraM<k2>pAtraM
+156348 old <>{%persona;%} {#tatpratipAtramADIyatAM yatnaH#} <lbinfo n="ls:Ś.+1"/>
+156348 new <>{%persona%}; {#tatpratipAtramADIyatAM yatnaH#} <lbinfo n="ls:Ś.+1"/>
+;
+; <L>19747<pc>0731-b<k1>praRavaH<k2>praRavaH
+165137 old {#praRavaH#}¦ {@1@} The sacred syllable {%om.;%}
+165137 new {#praRavaH#}¦ {@1@} The sacred syllable {%om.%};
+;
+; <L>20777<pc>0761-b<k1>pravfttiH<k2>pravfttiH
+172340 old <>{#kusumapravfttisamaye#} <ls>Ś. 4. 17</ls> {%v. l;%} <ls>R. 11. 43</ls>; <ls n="R.">14. 39</ls>;
+172340 new <>{#kusumapravfttisamaye#} <ls>Ś. 4. 17</ls> {%v. l%}; <ls>R. 11. 43</ls>; <ls n="R.">14. 39</ls>;
+;
+; <L>20799<pc>0762-a<k1>pravraj<k2>pravraj
+172472 old <>life, {%<ab>i. e.</ab>%} to become a {%Saṃnyāsin;%}
+172472 new <>life, {%<ab>i. e.</ab>%} to become a {%Saṃnyāsin%};
+;
+; <L>20856<pc>0763-c<k1>prasaMgaH<k2>prasaMgaH
+172893 old <>{#cAnavasTAprasaMgaH#} {%<ab>ibid.</ab>;%} {#tasyARutaraprasaMgAt#}
+172893 new <>{#cAnavasTAprasaMgaH#} {%<ab>ibid.</ab>%}; {#tasyARutaraprasaMgAt#}
+;
+; <L>21068<pc>0770-b<k1>prAc<k2>prAc, prAMc
+174492 old <>plea of a former trial, {%res judicata;%}
+174492 new <>plea of a former trial, {%res judicata%};
+;
+; <L>21648<pc>0791-c<k1>bahu<k2>bahu
+179215 old {#bahu#}¦ {%<ab>a.</ab>%} ({#hu#} or {#hvI#} {%<ab>f.</ab>;%} <ab>compar.</ab> {#BUyas#};
+179215 new {#bahu#}¦ {%<ab>a.</ab>%} ({#hu#} or {#hvI#} {%<ab>f.</ab>%}; <ab>compar.</ab> {#BUyas#};
+;
+; <L>21860<pc>0801-a<k1>brahman<k2>brahman
+181238 old <>The sacred and mystic syllable {%om;%}
+181238 new <>The sacred and mystic syllable {%om%};
+;
+; <L>22405<pc>0828-c<k1>BrAtf<k2>BrAtf
+187132 old <><ab>L.</ab> {%frater;%} Zend {%bratar,%} <ab>Eng.</ab> {%brother.%}]
+187132 new <><ab>L.</ab> {%frater%}; Zend {%bratar,%} <ab>Eng.</ab> {%brother.%}]
+;
+; <L>22542<pc>0833-c<k1>maMqala<k2>maMqala
+188234 old <>names; see <ls>Malli.</ls> {%ad <ab>loc.</ab>;%} <ab>cf.</ab> also
+188234 new <>names; see <ls>Malli.</ls> {%ad <ab>loc.</ab>%}; <ab>cf.</ab> also
+;
+; <L>22668<pc>0843-c<k1>maMTara<k2>maMTara
+190189 old <>{#pratyaBijYAnamaMTaro Bavat#} {%<ab>ibid.</ab>;%} {#sTAne#} <lbinfo n="Kalva#ya"/>
+190189 new <>{#pratyaBijYAnamaMTaro Bavat#} {%<ab>ibid.</ab>%}; {#sTAne#} <lbinfo n="Kalva#ya"/>
+;
+; <L>23432<pc>0877-a<k1>mfdu<k2>mfdu
+197444 old {#mfdu#}¦ {%<ab>a.</ab>%} [{#mfd-ku#}] ({#du#} or {#dvI#} {%<ab>f.</ab>;%} 
+197444 new {#mfdu#}¦ {%<ab>a.</ab>%} [{#mfd-ku#}] ({#du#} or {#dvI#} {%<ab>f.</ab>%}; 
+;
+; <L>23598<pc>0882-a<k1>mOsala<k2>mOsala
+198609 old <>clubs (as a {%parvan;%} in this {%parvan%}
+198609 new <>clubs (as a {%parvan%}; in this {%parvan%}
+;
+; <L>23852<pc>0895-c<k1>yuvan<k2>yuvan
+201464 old <><ls>Uṇ. 1. 154</ls>] ({#yuvatiH --tI#} or {#yUti#} {%<ab>f.</ab>;%} <ab>compar.</ab>
+201464 new <><ls>Uṇ. 1. 154</ls>] ({#yuvatiH --tI#} or {#yUti#} {%<ab>f.</ab>%}; <ab>compar.</ab>
+;
+; <L>23874<pc>0897-c<k1>yogin<k2>yogin
+201841 old <>adhyāya {%inter alia;%} {#sevADarmaH#} <lbinfo n="paramaga#hano"/>
+201841 new <>adhyāya {%inter alia%}; {#sevADarmaH#} <lbinfo n="paramaga#hano"/>
+;
+; <L>24072<pc>0907-c<k1>rAgaH<k2>rAgaH
+203959 old <>(there are six primary {%Rāgas;%} {#BEravaH#}
+203959 new <>(there are six primary {%Rāgas%}; {#BEravaH#}
+;
+; <L>24151<pc>0912-b<k1>rAhuH<k2>rAhuH
+204939 old <>and hence often called {%Saiṃhikeya;%}
+204939 new <>and hence often called {%Saiṃhikeya%};
+;
+; <L>24261<pc>0916-b<k1>rUpaka<k2>rUpaka
+205860 old <>{%upamāna;%} {#tadrUpakamaBedo ya#} <lbinfo n="upamAnopame#yayoH"/>
+205860 new <>{%upamāna%}; {#tadrUpakamaBedo ya#} <lbinfo n="upamAnopame#yayoH"/>
+;
+; <L>24374<pc>0919-c<k1>rOrava<k2>rOrava
+206555 old <>hide of {%Ruru;%} <ls>R. 3. 31.</ls> {@--2@} <lbinfo n="Dread+ful"/>
+206555 new <>hide of {%Ruru%}; <ls>R. 3. 31.</ls> {@--2@} <lbinfo n="Dread+ful"/>
+;
+; <L>24827<pc>0937-b<k1>vaktraM<k2>vaktraM
+210513 old <>similar to {%anushtubh;%} see  <lbinfo n="ls:S. D.+ 567"/>
+210513 new <>similar to {%anushtubh%}; see  <lbinfo n="ls:S. D.+ 567"/>
+;
+; <L>24929<pc>0940-c<k1>vatsaH<k2>vatsaH
+211318 old <>{%Vatsas;%} {#loke hAri ca vatsarAjacaritaM#}
+211318 new <>{%Vatsas%}; {#loke hAri ca vatsarAjacaritaM#}
+;
+; <L>25052<pc>0946-a<k1>varam<k2>varam
+212459 old <>{#punaraDamAnAmupagamaH#} {%<ab>ibid.</ab>;%} sometimes {#na#}
+212459 new <>{#punaraDamAnAmupagamaH#} {%<ab>ibid.</ab>%}; sometimes {#na#}
+;
+; <L>25060<pc>0946-b<k1>varAwakaH<k2>varAwakaH
+212498 old {#varAwakaH#}¦ {@1@} A {%cowrie;%} {#prAptaH#} <lbinfo n="kARavarA#wakopi"/>
+212498 new {#varAwakaH#}¦ {@1@} A {%cowrie%}; {#prAptaH#} <lbinfo n="kARavarA#wakopi"/>
+;
+; <L>25061<pc>0946-b<k1>varAwikA<k2>varAwikA
+212506 old {#varAwikA#}¦ A {%cowrie;%} <ls>Bv. 2. 42.</ls>
+212506 new {#varAwikA#}¦ A {%cowrie%}; <ls>Bv. 2. 42.</ls>
+;
+; <L>25191<pc>0950-c<k1>val<k2>val
+213517 old <>connect, unite with (mostly in {%<ab>p. p.</ab>;%}
+213517 new <>connect, unite with (mostly in {%<ab>p. p.</ab>%};
+;
+; <L>25920<pc>0974-a<k1>vid<k2>vid
+219023 old <>{#SnamSezvidaM kramAt ..#}). [<ab>cf.</ab> <ab>L.</ab> {%video;%} <ab>A. S.</ab> {%witan;%}
+219023 new <>{#SnamSezvidaM kramAt ..#}). [<ab>cf.</ab> <ab>L.</ab> {%video%}; <ab>A. S.</ab> {%witan%};
+;
+; <L>25957<pc>0975-b<k1>vidyA<k2>vidyA
+219318 old <>{%Nyāya%} and the {%Purāṇas;%} see {#caturdaSavidyA#}
+219318 new <>{%Nyāya%} and the {%Purāṇas%}; see {#caturdaSavidyA#}
+;
+; <L>26339<pc>0988-b<k1>virahaH<k2>virahaH
+222261 old <>{#kzaRamapi virahaH purA na sehe#} {%<ab>ibid.</ab>;%}  <lbinfo n="ls:Me.+ 8"/>
+222261 new <>{#kzaRamapi virahaH purA na sehe#} {%<ab>ibid.</ab>%};  <lbinfo n="ls:Me.+ 8"/>
+;
+; <L>26532<pc>0994-c<k1>viSAKaH<k2>viSAKaH
+223724 old <>and Patañjali along with {%Skanda;%}
+223724 new <>and Patañjali along with {%Skanda%};
+;
+; <L>26548<pc>0995-a<k1>viSeza<k2>viSeza
+223883 old <>nine {%dravyas;%} {#ayamasmAd vyAvftta iti#}
+223883 new <>nine {%dravyas%}; {#ayamasmAd vyAvftta iti#}
+;
+; <L>27060<pc>1013-b<k1>vEdarBaH<k2>vEdarBaH
+228047 old <>{%Gauḍīya;%} see <ls>Kāv. 1. 41-53</ls>. {@--4@}
+228047 new <>{%Gauḍīya%}; see <ls>Kāv. 1. 41-53</ls>. {@--4@}
+;
+; <L>27064<pc>1013-c<k1>vEdUrya<k2>vEdUrya
+228077 old <>[{#vidUre girO BavaM zyaY#}] {%Lapis lazuli;%}
+228077 new <>[{#vidUre girO BavaM zyaY#}] {%Lapis lazuli%};
+;
+; <L>27146<pc>1015-c<k1>vESyaH<k2>vESyaH
+228577 old <>of {%Puruṣa;%} <ab>cf.</ab> {#UrU tadasya yadvESyaH#}  <lbinfo n="ls:Rv.+10"/>
+228577 new <>of {%Puruṣa%}; <ab>cf.</ab> {#UrU tadasya yadvESyaH#}  <lbinfo n="ls:Rv.+10"/>
+;
+; <L>27266<pc>1018-c<k1>vyaBicAraH<k2>vyaBi(BI)cAraH
+229376 old <>the {%hetu%} without the {%sādhya;%} {#hetoH#}
+229376 new <>the {%hetu%} without the {%sādhya%}; {#hetoH#}
+;
+; <L>27429<pc>1024-c<k1>vyAhftiH<k2>vyAhftiH
+230727 old <>{#svar#} usually repeated after {%om;%} <ab>cf.</ab> 
+230727 new <>{#svar#} usually repeated after {%om%}; <ab>cf.</ab> 
+;
+; <L>27659<pc>1035-b<k1>Sarad<k2>Sarad
+232997 old <>festival called {%Kojāgara;%} <ab>q. v.</ab>
+232997 new <>festival called {%Kojāgara%}; <ab>q. v.</ab>
+;
+; <L>28147<pc>1052-b<k1>SUdraH<k2>SUdraH
+236834 old <>{%Puruṣa;%} {#padByAM SUdro ajAyata#}  <lbinfo n="ls:Rv.+ 10. 90. 12"/>
+236834 new <>{%Puruṣa%}; {#padByAM SUdro ajAyata#}  <lbinfo n="ls:Rv.+ 10. 90. 12"/>
+;
+; <L>28176<pc>1053-b<k1>SfMKalaH<k2>SfMKalaH --lA --laM
+237092 old <>{%Yamaka;%} see <ls>Ki. 15. 42.</ls>
+237092 new <>{%Yamaka%}; see <ls>Ki. 15. 42.</ls>
+;
+; <L>28229<pc>1055-b<k1>SElUzaH<k2>SElUzaH
+237511 old <>{#SElUzajanaMvyAharaMti#} {%ibid;%} {#avApya SElUza ivEza BUmikAM#}
+237511 new <>{#SElUzajanaMvyAharaMti#} {%ibid%}; {#avApya SElUza ivEza BUmikAM#}
+;
+; <L>28317<pc>1057-b<k1>Sman<k2>Sman
+238043 old <>The body. {@--3@} A dead body ({%<ab>m.</ab>;%}
+238043 new <>The body. {@--3@} A dead body ({%<ab>m.</ab>%};
+;
+; <L>28519<pc>1064-1<k1>zaz<k2>zaz
+239731 old <>the sixfold {%gayā;%} {#gayAgajo gayAdityo#}
+239731 new <>the sixfold {%gayā%}; {#gayAgajo gayAdityo#}
+;
+; <L>28559<pc>1067-a<k1>saMyamaH<k2>saMyamaH
+240128 old <>{%Yoga;%} {#DAraRADyAnasamADitrayamaMtaraMgaM#} <lbinfo n="saM#yamapadavAcyaM"/>
+240128 new <>{%Yoga%}; {#DAraRADyAnasamADitrayamaMtaraMgaM#} <lbinfo n="saM#yamapadavAcyaM"/>
+;
+; <L>28838<pc>1076-b<k1>sagara<k2>sagara
+242253 old <>{%Sāgara;%} <ab>cf.</ab> <ls>R. 13. 3.</ls> Meeting with the
+242253 new <>{%Sāgara%}; <ab>cf.</ab> <ls>R. 13. 3.</ls> Meeting with the
+;
+; <L>30054<pc>1115-c<k1>sADu<k2>sADu
+251421 old {#sADu#}¦ {%<ab>a.</ab>%} ({#Du#} or {#DvI#} {%<ab>f.</ab>;%} <ab>compar.</ab>  <lbinfo n="sADI#yas"/>
+251421 new {#sADu#}¦ {%<ab>a.</ab>%} ({#Du#} or {#DvI#} {%<ab>f.</ab>%}; <ab>compar.</ab>  <lbinfo n="sADI#yas"/>
+;
+; <L>30122<pc>1118-a<k1>sAmi<k2>sAmi
+251941 old <>contemptible. [Cf. <ab>L.</ab> {%semi;%} <ab>Gr.</ab> {%hemi%}].
+251941 new <>contemptible. [Cf. <ab>L.</ab> {%semi%}; <ab>Gr.</ab> {%hemi%}].
+;
+; <L>30202<pc>1120-b<k1>sArzwitA<k2>sArzwitA
+252490 old <>the four states or grades of {%Mukti;%}
+252490 new <>the four states or grades of {%Mukti%};
+;
+; <L>30353<pc>1126-a<k1>su<k2>su
+254298 old <>Nimba tree. ({%--<ab>f.</ab>, <ab>n.</ab>;%} said to be <ab>pl.</ab> only
+254298 new <>Nimba tree. ({%--<ab>f.</ab>, <ab>n.</ab>%}; said to be <ab>pl.</ab> only
+;
+; <L>30392<pc>1131-c<k1>suraH<k2>suraH
+254854 old <>damsel, an {%apsaras;%} <ls>R. 8. 79</ls>; {#--aDipaH#} 
+254854 new <>damsel, an {%apsaras%}; <ls>R. 8. 79</ls>; {#--aDipaH#} 
+;
+; <L>30529<pc>1137-b<k1>setuH<k2>setuH
+256092 old <>syllable {%om;%} {#maMtrARAM praRavaH setustatsetuH#} <lbinfo n="praRa#vaH"/>
+256092 new <>syllable {%om%}; {#maMtrARAM praRavaH setustatsetuH#} <lbinfo n="praRa#vaH"/>
+;
+; <L>30564<pc>1138-c<k1>sEMDava<k2>sEMDava
+256377 old <>bred in {%Sindhu;%} <ls>N. 1. 71.</ls> {@--2@} <ab>N.</ab> of
+256377 new <>bred in {%Sindhu%}; <ls>N. 1. 71.</ls> {@--2@} <ab>N.</ab> of
+;
+; <L>30672<pc>1142-a<k1>sOraBI<k2>sOraBI, sOraBeyI
+257157 old <>{%Surabhi;%} {#tAM sOraBeyIM suraBiryaSoBiH#}
+257157 new <>{%Surabhi%}; {#tAM sOraBeyIM suraBiryaSoBiH#}
+;
+; <L>31155<pc>1161-a<k1>svargaH<k2>svargaH
+261437 old <>nymph, an {%apsaras;%} {#svargastrIRAM#} <lbinfo n="pari#zvaMgaH"/>
+261437 new <>nymph, an {%apsaras%}; {#svargastrIRAM#} <lbinfo n="pari#zvaMgaH"/>
+;
+; <L>31187<pc>1162-a<k1>svAdu<k2>svAdu
+261662 old {#svAdu#}¦ {%<ab>a.</ab>%} [{#svad-uR#}] ({#du#} or {#dvI#} {%<ab>f.</ab>;%}
+261662 new {#svAdu#}¦ {%<ab>a.</ab>%} [{#svad-uR#}] ({#du#} or {#dvI#} {%<ab>f.</ab>%};
+;
+; <L>31501<pc>1175-a<k1>hfzIkaM<k2>hfzIkaM
+264457 old <>{%seq.;%} ({#hfzIkARIMdriyARyAhustezAmISo yato#} <lbinfo n="Ba#vAn"/>
+264457 new <>{%seq.%}; ({#hfzIkARIMdriyARyAhustezAmISo yato#} <lbinfo n="Ba#vAn"/>
+;
+; [Page1188-a+ 51]
+266179 old <>or {#viyoginI#} are usually treated as {%jātis;%} (see Section
+266179 new <>or {#viyoginI#} are usually treated as {%jātis%}; (see Section
+;

@@ -7,7 +7,7 @@ class Ap90Lexer(Lexer):
             LBRACKET, RBRACKET, BROKENBAR, LPAREN, RPAREN,
             XML0 ,EMPTYXML,  TEXT, PUNCT, 
             XML_LS, XML_AB, LBINFO,
-            PARENQ, EQ, AMP, SPECIAL
+            PARENQ, EQ, AMP, SPECIAL, SUBHW
             }
             
  # String containing ignored characters between tokens
@@ -19,12 +19,10 @@ class Ap90Lexer(Lexer):
   self.lineno += len(t.value)
 
  # Regular expression rules for tokens
- PAGE = r'\[Page.*?\]'   # the ordering of these rules is important!
+ ignore_PAGE = r'\[Page.*?\]'   # the ordering of these rules is important!
  BROKENBAR = '¦'
  BRACKETDEVA = r'\[{#[^#]*#}\]'
  PARENDEVA = r'\({#[^#]*#}\)'
- DEVA = r'{#[^#]*#}'
- ITALIC = r'{%.*?%}' 
  BOLD = r'{@.*?@}'
  MDASHNUM = r'--[0-9]+[.]?'
  TEXT = r'[a-zA-Z‘“ĀĪŪŚÆṚśḌṢ][a-zA-Z‘’āīūṛḍṭḌṣṅñṇṃśḥĀĪŪṚŚṢ,;. :\'?!œæüéè-]*'  
@@ -52,6 +50,20 @@ class Ap90Lexer(Lexer):
  @_(r'<ab>.*?</ab>')
  def XML_AB(self,t):
   ab = t.value[4:-5]
-  if ab in ['N.','Ved.']:
+  if ab in ['N.','Ved.','v. l.','q. v.']:
    t.type = 'TEXT'
   return t
+ #DEVA = r'{#[^#]*#}'
+ @_(r'{#[^#]*#}')
+ def DEVA(self,t):
+  if '--' in t.value:
+   t.type = 'SUBHW'
+  return t
+ SUBHW = r'{#[^#]*--[^#]*#}'
+ #ITALIC = r'{%.*?%}'
+ @_(r'{%.*?%}')
+ def ITALIC(self,t):
+  if t.value in ['{%<ab>i. e.</ab>%}']:
+   t.type = 'TEXT'
+  return t
+ 
