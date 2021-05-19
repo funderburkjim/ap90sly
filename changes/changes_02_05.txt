@@ -1,0 +1,72 @@
+; <L>213<pc>0010-c<k1>agniH<k2>agniH
+3518 old <>garment. ({%--n%}) a pure garment.  <lbinfo n="--vA#ha"/>
+3518 new <>garment. ({%--<ab>n.</ab>%}) a pure garment.  <lbinfo n="--vA#ha"/>
+;
+; <L>321<pc>0021-c<k1>acala<k2>acala
+5303 old <>or colour. ({%--m%}, {#ºw#}) a cuckoo ( <lbinfo n="bahuprakzA#lanenApi"/>
+5303 new <>or colour. ({%--<ab>m.</ab>%}, {#ºw#}) a cuckoo ( <lbinfo n="bahuprakzA#lanenApi"/>
+;
+; <L>2260<pc>0103-c<k1>apakarman<k2>apakarman
+23423 old <>{%--n%} ({#ºrma#}) {@1@} Discharge, paying off
+23423 new <>{%--<ab>n.</ab>%} ({#ºrma#}) {@1@} Discharge, paying off
+;
+; <L>2382<pc>0107-b<k1>apanAman<k2>apanAman
+24319 old <>{%--n%} ({#--ma#}) A bad name.
+24319 new <>{%--<ab>n.</ab>%} ({#--ma#}) A bad name.
+;
+; <L>3215<pc>0134-b<k1>aBiBUti<k2>aBiBUti
+30596 old <>predominant power. ({%--n%}). superior
+30596 new <>predominant power. ({%--<ab>n.</ab>%}). superior
+;
+; <L>7046<pc>0264-b<k1>ASu<k2>ASu
+60752 old <>{#--gAmin#} {%<ab>a.</ab>%} going quickly. ({%--m%}). the
+60752 new <>{#--gAmin#} {%<ab>a.</ab>%} going quickly. ({%--<ab>m.</ab>%}). the
+;
+; <L>12680<pc>0466-b<k1>gfhin<k2>gfhin
+106074 old <>house. {%--m%} The master of a house,
+106074 new <>house. {%--<ab>m.</ab>%} The master of a house,
+;
+; <L>13008<pc>0481-b<k1>cakzas<k2>cakzas
+109232 old <>epithet of Bṛhaspati. {%--n%} {@1@} <lbinfo n="Radi+ance"/>
+109232 new <>epithet of Bṛhaspati. {%--<ab>n.</ab>%} {@1@} <lbinfo n="Radi+ance"/>
+;
+; <L>13334<pc>0493-b<k1>citra<k2>citra
+112036 old <>astonishing, surprising. ({%--m%}) a painter.
+112036 new <>astonishing, surprising. ({%--<ab>m.</ab>%}) a painter.
+;
+; <L>15703<pc>0582-b<k1>dozA<k2>dozA
+131597 old <>{#nUnamahimAMSurasO kileti#} <ls>Śi. 4. 46</ls>; <ls n="Śi. 4.">62.</ls> {%--f%}
+131597 new <>{#nUnamahimAMSurasO kileti#} <ls>Śi. 4. 46</ls>; <ls n="Śi. 4.">62.</ls> {%--<ab>f.</ab>%}
+;
+; <L>16002<pc>0595-a<k1>DAtuH<k2>DAtuH
+134367 old <>as milk &c. {%--f%} A milch cow. {@--Comp.@}
+134367 new <>as milk &c. {%--<ab>f.</ab>%} A milch cow. {@--Comp.@}
+;
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+191817 old <>exalted, eminent. ({%--m%}) 1. the Supreme
+191817 new <>exalted, eminent. ({%--<ab>m.</ab>%}) 1. the Supreme
+;
+; <L>23833<pc>0895-a<k1>yuj<k2>yuj
+201311 old <>{%--m%} dual. {@1@} The sign {%Gemimi%} of the
+201311 new <>{%--<ab>m.</ab>%} dual. {@1@} The sign {%Gemimi%} of the
+;
+; <L>27614<pc>1032-c<k1>SabdaH<k2>SabdaH
+232526 old <>heard; see {#SabdapAtin#}. ({%--m%}) 1. a
+232526 new <>heard; see {#SabdapAtin#}. ({%--<ab>m.</ab>%}) 1. a
+;
+; <L>27936<pc>1044-a<k1>SiKAvat<k2>SiKAvat
+235025 old <>Flaming. {%--m%} {@1@} A lamp. {@--2@} Fire.
+235025 new <>Flaming. {%--<ab>m.</ab>%} {@1@} A lamp. {@--2@} Fire.
+;
+; <L>27997<pc>1046-a<k1>Silpin<k2>Silpin
+235493 old <>{%--m%} {@1@} An artisan, artist, a <lbinfo n="me+chanic"/>
+235493 new <>{%--<ab>m.</ab>%} {@1@} An artisan, artist, a <lbinfo n="me+chanic"/>
+;
+; <L>30552<pc>1138-b<k1>sevin<k2>sevin
+256291 old <>Inhabiting, dwelling. {%--m%} A <lbinfo n="ser+vant"/>
+256291 new <>Inhabiting, dwelling. {%--<ab>m.</ab>%} A <lbinfo n="ser+vant"/>
+;
+; <L>30879<pc>1150-a<k1>sTira<k2>sTira
+259005 old <>lasting. ({%--m%}) the silk-cotton tree.
+259005 new <>lasting. ({%--<ab>m.</ab>%}) the silk-cotton tree.
+;

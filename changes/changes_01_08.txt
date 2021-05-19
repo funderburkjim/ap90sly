@@ -1,0 +1,136 @@
+; [Page8-a+ 52]
+370 old <P>.{#kyac(ya)#}¦ a denominative ter. (P.); as in {#putrIyati#}.
+370 new <P>.{#kyac(ya)#}¦ a denominative ter. (<ab>P.</ab>); as in {#putrIyati#}.
+;
+; <L>928<pc>0046-c<k1>aDikf<k2>aDikf
+10931 old <>{@--6@} (A.) To bear, endure or <lbinfo n="over+power"/>
+10931 new <>{@--6@} (<ab>A.</ab>) To bear, endure or <lbinfo n="over+power"/>
+;
+; <L>2504<pc>0111-b<k1>apavad<k2>apavad
+25230 old <>disown, deny (A.); {#nyAyamapavadate#} <lbinfo n="ls:P. I.+3"/>
+25230 new <>disown, deny (<ab>A.</ab>); {#nyAyamapavadate#} <lbinfo n="ls:P. I.+3"/>
+;
+; <L>3723<pc>0148-a<k1>aByUh<k2>aByUh
+33954 old <>clothe. {@--2@} (A.) To watch for; form
+33954 new <>clothe. {@--2@} (<ab>A.</ab>) To watch for; form
+;
+; <L>3877<pc>0153-c<k1>aMb<k2>aMb
+35232 old {#aMb#}¦ 1 <ab>P.</ab> {@1@} To go. {@--2@} (A.) To
+35232 new {#aMb#}¦ 1 <ab>P.</ab> {@1@} To go. {@--2@} (<ab>A.</ab>) To
+;
+; <L>5796<pc>0223-b<k1>Akram<k2>Akram
+51191 old <>undertake, begin, commence {@--7@} (A.) To
+51191 new <>undertake, begin, commence {@--7@} (<ab>A.</ab>) To
+;
+; <L>6431<pc>0245-c<k1>Apfc<k2>Apfc
+56254 old <>or blend with. {@--3@} (A.) To satiate
+56254 new <>or blend with. {@--3@} (<ab>A.</ab>) To satiate
+;
+; <L>7158<pc>0269-a<k1>Asu<k2>Asu
+61734 old <>(P.) To excite, enliven (<ab>Ved.</ab>).
+61734 new <>(<ab>P.</ab>) To excite, enliven (<ab>Ved.</ab>).
+;
+; <L>7270<pc>0273-a<k1>Ahve<k2>Ahve
+62640 old <>liturgical sense). {@--3@} (A.) To provoke, <lbinfo n="chal+lenge"/>
+62640 new <>liturgical sense). {@--3@} (<ab>A.</ab>) To provoke, <lbinfo n="chal+lenge"/>
+;
+; <L>7476<pc>0282-c<k1>I<k2>I
+64654 old <>eat. {@--7@} To beg (A.). {@--8@} To become <lbinfo n="pre+gnant"/>
+64654 new <>eat. {@--7@} To beg (<ab>A.</ab>). {@--8@} To become <lbinfo n="pre+gnant"/>
+;
+; <L>7506<pc>0283-a<k1>Ir<k2>Ir
+64857 old <>raise oneself (A.).
+64857 new <>raise oneself (<ab>A.</ab>).
+;
+; <L>7645<pc>0288-a<k1>ucCri<k2>ucCri
+65950 old <>erected (A.). {@--2@} To raise, erect, lift
+65950 new <>erected (<ab>A.</ab>). {@--2@} To raise, erect, lift
+;
+; <L>7917<pc>0298-a<k1>utpucCayate<k2>utpucCayate
+68154 old <>tail. {@--2@} (P.) To make one raise the
+68154 new <>tail. {@--2@} (<ab>P.</ab>) To make one raise the
+;
+; <L>8358<pc>0313-b<k1>unnI<k2>unnI
+71671 old <>up (A.); {#daMqamunnayate#} <ls>Sk.</ls>; {#svadaMzwronnItaDaro#}
+71671 new <>up (<ab>A.</ab>); {#daMqamunnayate#} <ls>Sk.</ls>; {#svadaMzwronnItaDaro#}
+;
+; <L>9015<pc>0334-a<k1>upasTA<k2>upasTA
+76508 old <>{@--8@} To meet, join (as a river) (A.);
+76508 new <>{@--8@} To meet, join (as a river) (<ab>A.</ab>);
+;
+; <L>9015<pc>0334-a<k1>upasTA<k2>upasTA
+76525 old <>{#BojanamupasTitaM#} <ls>H. 1.</ls> {@--14@} To be present (A.);
+76525 new <>{#BojanamupasTitaM#} <ls>H. 1.</ls> {@--14@} To be present (<ab>A.</ab>);
+;
+; <L>9364<pc>0345-b<k1>Urjayati<k2>Urjayati
+79045 old <>strengthen, nourish. {@--2@} (A.) To <lbinfo n="be+come"/>
+79045 new <>strengthen, nourish. {@--2@} (<ab>A.</ab>) To <lbinfo n="be+come"/>
+;
+; <L>9538<pc>0355-c<k1>ej<k2>ej
+81126 old <>{#DftarAzwroyamejati#} <ls>Mb.</ls> {@--3@} To shine (P.). --WITH {#apa#}
+81126 new <>{#DftarAzwroyamejati#} <ls>Mb.</ls> {@--3@} To shine (<ab>P.</ab>). --WITH {#apa#}
+;
+; <L>11935<pc>0438-b<k1>kzud<k2>kzud
+99852 old <>{@--2@} To move, be agitated (A.).
+99852 new <>{@--2@} To move, be agitated (<ab>A.</ab>).
+;
+; <L>12390<pc>0455-a<k1>gal<k2>gal
+103581 old <>To flow (A.). {@--4@} To fuse, liquefy,
+103581 new <>To flow (<ab>A.</ab>). {@--4@} To fuse, liquefy,
+;
+; <L>13540<pc>0499-b<k1>cyu<k2>cyu
+113339 old <>agitate. {@--2@} (A.) To move oneself, be
+113339 new <>agitate. {@--2@} (<ab>A.</ab>) To move oneself, be
+;
+; <L>14373<pc>0529-b<k1>taMtr<k2>taMtr
+119876 old <>{@--4@} (A.) To support, maintain (as
+119876 new <>{@--4@} (<ab>A.</ab>) To support, maintain (as
+;
+; <L>15208<pc>0558-a<k1>daMB<k2>daMB
+126379 old <>strike down. {@--2@} (A.) To collect,
+126379 new <>strike down. {@--2@} (<ab>A.</ab>) To collect,
+;
+; <L>16613<pc>0618-b<k1>nikft<k2>nikft
+139545 old <>oneself (A.)
+139545 new <>oneself (<ab>A.</ab>)
+;
+; <L>16695<pc>0620-b<k1>nij<k2>nij
+140054 old <>to be purified (A.). {@--3@} To nourish.
+140054 new <>to be purified (<ab>A.</ab>). {@--3@} To nourish.
+;
+; <L>17820<pc>0669-c<k1>parABU<k2>parABU
+150768 old <>overcome. {@--2@} (A.) To vanish, <lbinfo n="disap+pear"/>
+150768 new <>overcome. {@--2@} (<ab>A.</ab>) To vanish, <lbinfo n="disap+pear"/>
+;
+; <L>22197<pc>0818-a<k1>BI<k2>BI
+184823 old <>or solicitous about (A.) {%--<ab>Caus.</ab>%}
+184823 new <>or solicitous about (<ab>A.</ab>) {%--<ab>Caus.</ab>%}
+;
+; <L>25647<pc>0966-a<k1>vikf<k2>vikf
+217054 old <>harm, injure (A.);  <lbinfo n="hInAnyanupakartF#Ri"/>
+217054 new <>harm, injure (<ab>A.</ab>);  <lbinfo n="hInAnyanupakartF#Ri"/>
+;
+; <L>25647<pc>0966-a<k1>vikf<k2>vikf
+217060 old <>for the worse, deteriorate (A.). {@--10@} To
+217060 new <>for the worse, deteriorate (<ab>A.</ab>). {@--10@} To
+;
+; <L>25647<pc>0966-a<k1>vikf<k2>vikf
+217061 old <>rejoice (A.). {@--11@} To feel aversion
+217061 new <>rejoice (<ab>A.</ab>). {@--11@} To feel aversion
+;
+; <L>25647<pc>0966-a<k1>vikf<k2>vikf
+217062 old <>(A.). {@--12@} To act in various ways
+217062 new <>(<ab>A.</ab>). {@--12@} To act in various ways
+;
+; <L>25647<pc>0966-a<k1>vikf<k2>vikf
+217063 old <>(A.). {@--13@} To decorate in various
+217063 new <>(<ab>A.</ab>). {@--13@} To decorate in various
+;
+; <L>25668<pc>0967-a<k1>vikram<k2>vikram
+217255 old <>split open (P.) {@--4@} To advance,
+217255 new <>split open (<ab>P.</ab>) {@--4@} To advance,
+;
+; <L>26364<pc>0989-a<k1>viruc<k2>viruc
+222438 old <>(P.). {@--5@} To please, delight.
+222438 new <>(<ab>P.</ab>). {@--5@} To please, delight.
+;

@@ -1,0 +1,28 @@
+; <L>1583<pc>0070-a<k1>anujYA<k2>anujYA
+16303 old <>{%--Caus%} ({#-jYApayati#}) {@1@} To ask or beg for,
+16303 new <>{%--<ab>Caus.</ab>%} ({#-jYApayati#}) {@1@} To ask or beg for,
+;
+; <L>1802<pc>0077-b<k1>anumA<k2>anumA
+17960 old <>reconcile, equal. {%--Caus%} ({#--mApayati#})
+17960 new <>reconcile, equal. {%--<ab>Caus.</ab>%} ({#--mApayati#})
+;
+; <L>19274<pc>0718-a<k1>pf<k2>pf
+161867 old <>{#vyapriyate#}; see {#vyApfta#}. {%--Caus%} ({#pArayati-te#})
+161867 new <>{#vyapriyate#}; see {#vyApfta#}. {%--<ab>Caus.</ab>%} ({#pArayati-te#})
+;
+; <L>19546<pc>0726-b<k1>prakxp<k2>prakxp
+163839 old <>be successful. {%--Caus%} {@1@} To invent,
+163839 new <>be successful. {%--<ab>Caus.</ab>%} {@1@} To invent,
+;
+; <L>21165<pc>0774-a<k1>prAp<k2>prAp
+175258 old <>present, be at hand (<ab>Ved.</ab>). {%--Caus%}
+175258 new <>present, be at hand (<ab>Ved.</ab>). {%--<ab>Caus.</ab>%}
+;
+; <L>21832<pc>0799-c<k1>bfMh<k2>bfMh
+180944 old <><ls>Bk. 3. 49.</ls> {@--2@} To roar. {%--Caus%} To cause to
+180944 new <><ls>Bk. 3. 49.</ls> {@--2@} To roar. {%--<ab>Caus.</ab>%} To cause to
+;
+; <L>28106<pc>1051-a<k1>SuB<k2>SuB
+236528 old <>or happy. {@--5@} To be victorious. {%--Caus%}
+236528 new <>or happy. {@--5@} To be victorious. {%--<ab>Caus.</ab>%}
+;

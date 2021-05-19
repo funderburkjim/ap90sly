@@ -1,0 +1,112 @@
+; <L>4404<pc>0176-c<k1>avakzi<k2>avakzi
+40346 old <>carry off, destroy. {%--Pass.%} To waste
+40346 new <>carry off, destroy. {%--<ab>Pass.</ab>%} To waste
+;
+; <L>4574<pc>0181-c<k1>avaDA<k2>avaDA
+41538 old <>{%--Pass.%} To be placed, applied,
+41538 new <>{%--<ab>Pass.</ab>%} To be placed, applied,
+;
+; <L>4636<pc>0183-c<k1>avapaw<k2>avapaw
+41999 old {#avapaw#}¦ 10 <ab>P.</ab> To split. {%--Pass.%}
+41999 new {#avapaw#}¦ 10 <ab>P.</ab> To split. {%--<ab>Pass.</ab>%}
+;
+; <L>7961<pc>0299-b<k1>utsic<k2>utsic
+68510 old <>{%--Pass.%} {@1@} To spout or foam up;
+68510 new <>{%--<ab>Pass.</ab>%} {@1@} To spout or foam up;
+;
+; <L>10163<pc>0373-b<k1>kaT<k2>kaT
+85269 old <>{%--Pass.%} ({#kaTyate#}) {@1@} To be called.
+85269 new <>{%--<ab>Pass.</ab>%} ({#kaTyate#}) {@1@} To be called.
+;
+; <L>11878<pc>0436-a<k1>kzi<k2>kzi
+99396 old <>{%--Pass.%} ({#kzIyate#}) {@1@} To waste, wane;
+99396 new <>{%--<ab>Pass.</ab>%} ({#kzIyate#}) {@1@} To waste, wane;
+;
+; <L>12218<pc>0445-c<k1>KyA<k2>KyA
+101638 old <><ab>dat.</ab> of person). {%--Pass.%} ({#KyAyate#})
+101638 new <><ab>dat.</ab> of person). {%--<ab>Pass.</ab>%} ({#KyAyate#})
+;
+; <L>14391<pc>0530-a<k1>tap<k2>tap
+120014 old <>{%--Pass.%} ({#tapyate#}) (regarded by some
+120014 new <>{%--<ab>Pass.</ab>%} ({#tapyate#}) (regarded by some
+;
+; <L>14910<pc>0545-b<k1>tF<k2>tF
+123654 old <>compete. {%--Pass.%} ({#tIryate#}) To be
+123654 new <>compete. {%--<ab>Pass.</ab>%} ({#tIryate#}) To be
+;
+; <L>15486<pc>0568-c<k1>du<k2>du
+128804 old <>{#mama manmaTena dutomi#} <ls>Gīt. 3.</ls> {%--Pass.%}
+128804 new <>{#mama manmaTena dutomi#} <ls>Gīt. 3.</ls> {%--<ab>Pass.</ab>%}
+;
+; <L>15596<pc>0576-b<k1>dfS<k2>dfS
+130349 old <>{%--Pass.%} ({#dfSyate#}) {@1@} To be seen or
+130349 new <>{%--<ab>Pass.</ab>%} ({#dfSyate#}) {@1@} To be seen or
+;
+; <L>15620<pc>0578-a<k1>dF<k2>dF
+130660 old <>{%--Pass.%} ({#dIryate#}) {@1@} To burst, break
+130660 new <>{%--<ab>Pass.</ab>%} ({#dIryate#}) {@1@} To burst, break
+;
+; <L>17565<pc>0655-b<k1>pac<k2>pac
+147790 old <>(for oneself) (<ab>Atm.</ab>). {%--Pass.%} ( <lbinfo n="pa#cyate"/>
+147790 new <>(for oneself) (<ab>Atm.</ab>). {%--<ab>Pass.</ab>%} ( <lbinfo n="pa#cyate"/>
+;
+; <L>17950<pc>0673-b<k1>parici<k2>parici
+151632 old <>search, seek for. {%--Pass.%} To grow,
+151632 new <>search, seek for. {%--<ab>Pass.</ab>%} To grow,
+;
+; <L>18039<pc>0676-a<k1>paridfS<k2>paridfS
+152262 old <>frequent. {%--Pass.%} To appear, become
+152262 new <>frequent. {%--<ab>Pass.</ab>%} To appear, become
+;
+; <L>18342<pc>0683-a<k1>parihA<k2>parihA
+154048 old <>{%--Pass.%} {@1@} To be wanting or <lbinfo n="defici+ent"/>
+154048 new <>{%--<ab>Pass.</ab>%} {@1@} To be wanting or <lbinfo n="defici+ent"/>
+;
+; <L>19531<pc>0725-c<k1>prakfz<k2>prakfz
+163722 old <>trouble. {%--Pass.%} To be enhanced or
+163722 new <>trouble. {%--<ab>Pass.</ab>%} To be enhanced or
+;
+; <L>19585<pc>0727-b<k1>praKyA<k2>praKyA
+164079 old <>{%--Pass.%} To be well-known or <lbinfo n="cele+brated"/>
+164079 new <>{%--<ab>Pass.</ab>%} To be well-known or <lbinfo n="cele+brated"/>
+;
+; <L>19654<pc>0729-a<k1>praci<k2>praci
+164528 old <>{%--Pass.%} {@1@} To grow, be developed;
+164528 new <>{%--<ab>Pass.</ab>%} {@1@} To grow, be developed;
+;
+; <L>20122<pc>0743-b<k1>pratI<k2>pratI(prati-i)
+167935 old <><ls>R. 3. 12</ls>; <ls n="R.">16. 23.</ls> {%--Pass.%} {@1@} To be <lbinfo n="re+cognized"/>
+167935 new <><ls>R. 3. 12</ls>; <ls n="R.">16. 23.</ls> {%--<ab>Pass.</ab>%} {@1@} To be <lbinfo n="re+cognized"/>
+;
+; <L>20299<pc>0748-b<k1>pradah<k2>pradah
+169113 old <>torment. {@--4@} To trouble, tease. {%--Pass.%}
+169113 new <>torment. {@--4@} To trouble, tease. {%--<ab>Pass.</ab>%}
+;
+; <L>20332<pc>0749-b<k1>pradfS<k2>pradfS
+169338 old <>look upon. {%--Pass.%} {@1@} To become
+169338 new <>look upon. {%--<ab>Pass.</ab>%} {@1@} To become
+;
+; <L>20433<pc>0751-c<k1>prapF<k2>prapF
+169970 old <>{%--Pass.%} To be filled or completed;
+169970 new <>{%--<ab>Pass.</ab>%} To be filled or completed;
+;
+; <L>20486<pc>0753-a<k1>praBid<k2>praBid
+170318 old <>see {#praBinna#}. {%--Pass.%} {@1@} To be broken
+170318 new <>see {#praBinna#}. {%--<ab>Pass.</ab>%} {@1@} To be broken
+;
+; <L>20566<pc>0756-a<k1>pramuc<k2>pramuc
+170953 old <>garland &c.). {%--Pass.%} {@1@} To be
+170953 new <>garland &c.). {%--<ab>Pass.</ab>%} {@1@} To be
+;
+; <L>20853<pc>0763-b<k1>prasaMj<k2>prasaMj
+172836 old <>{%--Pass.%} {@1@} To cling to or adhere to. 
+172836 new <>{%--<ab>Pass.</ab>%} {@1@} To cling to or adhere to. 
+;
+; <L>21001<pc>0768-b<k1>prahA<k2>prahA
+173970 old <>To depart from. {%--Pass.%} {@1@} To be
+173970 new <>To depart from. {%--<ab>Pass.</ab>%} {@1@} To be
+;
+; <L>22174<pc>0816-c<k1>Bid<k2>Bid
+184602 old <>distinguish, discriminate. {%--Pass.%}
+184602 new <>distinguish, discriminate. {%--<ab>Pass.</ab>%}
+;

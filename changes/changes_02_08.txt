@@ -1,0 +1,182 @@
+; <L>697<pc>0035-c<k1>atiSAyanaM<k2>atiSAyanaM
+8509 old <>{#tamabizWanO#} (superlative affixes) P.  <lbinfo n="ls:V.+ 3. 55."/>
+8509 new <>{#tamabizWanO#} (superlative affixes) <lbinfo n="ls:P. V.+ 3. 55."/>
+;
+8510 old <><ls>V. 3. 55.</ls>
+8510 new <><ls>P. V. 3. 55.</ls>
+;
+; <L>878<pc>0042-c<k1>adya<k2>adya
+10136 old <>{#prasozyate vA, adya-Svas-Ka wilopaH#} P.  <lbinfo n="ls:V. 2.+ 13"/>
+10136 new <>{#prasozyate vA, adya-Svas-Ka wilopaH#} <lbinfo n="ls:P. V. 2.+ 13"/>
+;
+10137 old <><ls>V. 2. 13</ls>] likely to happen to-day or <lbinfo n="to+morrow"/>
+10137 new <><ls>P. V. 2. 13</ls>] likely to happen to-day or <lbinfo n="to+morrow"/>
+;
+; <L>958<pc>0048-b<k1>aDityakA<k2>aDityakA
+11281 old {#aDityakA#}¦ [{#aDi-tyakan#} P.  <lbinfo n="ls:V.+ 2. 34"/>
+11281 new {#aDityakA#}¦ [{#aDi-tyakan#} <lbinfo n="ls:P. V.+ 2. 34"/>
+;
+11282 old <><ls>V. 2. 34</ls>; {#parvatasya ArUQasTalamaDityakA#} <ls>Sk.</ls>]
+11282 new <><ls>P. V. 2. 34</ls>; {#parvatasya ArUQasTalamaDityakA#} <ls>Sk.</ls>]
+;
+; <L>1415<pc>0063-c<k1>anitya<k2>anitya
+14871 old <>extraordinary; {#varRe cAnitye#} P.  <lbinfo n="ls:V. 4.+ 30"/>
+14871 new <>extraordinary; {#varRe cAnitye#} <lbinfo n="ls:P. V. 4.+ 30"/>
+;
+14872 old <><ls>V. 4. 30</ls> ({#lohitakaH kopena anyaTA tu SvetavarRa iti#}
+14872 new <><ls>P. V. 4. 30</ls> ({#lohitakaH kopena anyaTA tu SvetavarRa iti#}
+;
+; <L>1687<pc>0073-b<k1>anupadin<k2>anupadin
+17033 old {#anupadin#}¦ {%<ab>a.</ab>%} [{#anupad-ini#} P.  <lbinfo n="ls:V. 2.+ 90"/>
+17033 new {#anupadin#}¦ {%<ab>a.</ab>%} [{#anupad-ini#} <lbinfo n="ls:P. V. 2.+ 90"/>
+;
+17034 old <><ls>V. 2. 90</ls>] Following, seeking after or
+17034 new <><ls>P. V. 2. 90</ls>] Following, seeking after or
+;
+; <L>1866<pc>0079-c<k1>anuloma<k2>anuloma
+18483 old {#anuloma#}¦ {%<ab>a.</ab>%} [{#anugataH loma#} P.  <lbinfo n="ls:V.+ 4. 75."/>
+18483 new {#anuloma#}¦ {%<ab>a.</ab>%} [{#anugataH loma#} <lbinfo n="ls:P. V.+ 4. 75."/>
+;
+18484 old <><ls>V. 4. 75.</ls>] {@1@} ‘With the hair,’ regular,
+18484 new <><ls>P. V. 4. 75.</ls>] {@1@} ‘With the hair,’ regular,
+;
+; <L>2056<pc>0086-a<k1>anfc<k2>anfc-ca
+19983 old <>from the Ṛgveda; {#anfk sAma#} P.  <lbinfo n="ls:V.+ 4. 74"/>
+19983 new <>from the Ṛgveda; {#anfk sAma#} <lbinfo n="ls:P. V.+ 4. 74"/>
+;
+19984 old <><ls>V. 4. 74</ls> <ls>Sk.</ls> {@--2@} [{#nAsti fk aByastatayA#} <lbinfo n="ya#sya"/>
+19984 new <><ls>P. V. 4. 74</ls> <ls>Sk.</ls> {@--2@} [{#nAsti fk aByastatayA#} <lbinfo n="ya#sya"/>
+;
+; <L>2171<pc>0099-b<k1>anyaTA<k2>anyaTA
+22606 old <>{#bahUnAM vyaktInAmekadeSenAnyaTABAvaH#} P.  <lbinfo n="ls:V.+ 4. 53"/>
+22606 new <>{#bahUnAM vyaktInAmekadeSenAnyaTABAvaH#} <lbinfo n="ls:P. V.+ 4. 53"/>
+;
+22607 old <><ls>V. 4. 53</ls>; change of view or mind; {#mayi#} <lbinfo n="ºBA#vo"/>
+22607 new <><ls>P. V. 4. 53</ls>; change of view or mind; {#mayi#} <lbinfo n="ºBA#vo"/>
+;
+; <L>2177<pc>0100-a<k1>anyedyuH<k2>anyedyuH
+22669 old {#anyedyuH#}¦ {%<ab>ind.</ab>%} [{#anya-edyus#} P.  <lbinfo n="ls:V. 3+ 22"/>
+22669 new {#anyedyuH#}¦ {%<ab>ind.</ab>%} [{#anya-edyus#} <lbinfo n="ls:P. V. 3+ 22"/>
+;
+22670 old <><ls>V. 3 22</ls>] {@1@} On the other or following day;
+22670 new <><ls>P. V. 3 22</ls>] {@1@} On the other or following day;
+;
+; <L>2252<pc>0103-a<k1>ap<k2>ap
+23316 old <>of {#ap#} at the end of <ab>comp.</ab> see P.  <lbinfo n="ls:V.+ 4. 74"/>
+23316 new <>of {#ap#} at the end of <ab>comp.</ab> see <lbinfo n="ls:P. V.+ 4. 74"/>
+;
+23317 old <><ls>V. 4. 74</ls>, VI. 3. 97-98. [<ab>cf.</ab> <ab>L.</ab> {%aqua%},
+23317 new <><ls>P. V. 4. 74</ls>, VI. 3. 97-98. [<ab>cf.</ab> <ab>L.</ab> {%aqua%},
+;
+; <L>2385<pc>0107-c<k1>apanayanaM<k2>apanayanaM
+24358 old <>(disease &c.); {#rogAccApanayane#} P.  <lbinfo n="ls:V.+ 4. 49."/>
+24358 new <>(disease &c.); {#rogAccApanayane#} <lbinfo n="ls:P. V.+ 4. 49."/>
+;
+24359 old <><ls>V. 4. 49.</ls> {@--3@} Discharge or acquittance
+24359 new <><ls>P. V. 4. 49.</ls> {@--3@} Discharge or acquittance
+;
+; <L>3667<pc>0146-b<k1>aByAvfttiH<k2>aByAvfttiH
+33591 old <>recurrence (so many times); see P.  <lbinfo n="ls:V.+ 4. 17"/>
+33591 new <>recurrence (so many times); see <lbinfo n="ls:P. V.+ 4. 17"/>
+;
+33592 old <><ls>V. 4. 17</ls>, and <ls>Sk.</ls> thereon; see
+33592 new <><ls>P. V. 4. 17</ls>, and <ls>Sk.</ls> thereon; see
+;
+; <L>4179<pc>0168-c<k1>arDa<k2>arDa
+38564 old <>kind of measure, half a Khāri; P.  <lbinfo n="ls:V.+ 4. 101."/>
+38564 new <>kind of measure, half a Khāri; <lbinfo n="ls:P. V.+ 4. 101."/>
+;
+38565 old <><ls>V. 4. 101.</ls> {#--gaMgA#} <ab>N.</ab> of the river Kāverī;
+38565 new <><ls>P. V. 4. 101.</ls> {#--gaMgA#} <ab>N.</ab> of the river Kāverī;
+;
+; <L>4344<pc>0175-b<k1>avakawa<k2>avakawa
+40000 old {#avakawa#}¦ {%<ab>a.</ab>%} [{#ava-svArTe-kawac#} P.  <lbinfo n="ls:V.+2. 30"/>
+40000 new {#avakawa#}¦ {%<ab>a.</ab>%} [{#ava-svArTe-kawac#} <lbinfo n="ls:P. V.+2. 30"/>
+;
+40002 old <ls>V. 2. 30</ls>] {@1@} Downwards; backwards.
+40002 new <><ls>P. V. 2. 30</ls>] {@1@} Downwards; backwards.
+;
+; <L>4726<pc>0186-b<k1>avarahasa<k2>avarahasa
+42619 old {#avarahasa#}¦ {%<ab>a.</ab>%} [{#avatataM rahaH ac#} P.  <lbinfo n="ls:V. 4.+ 81"/>
+42619 new {#avarahasa#}¦ {%<ab>a.</ab>%} [{#avatataM rahaH ac#} <lbinfo n="ls:P. V. 4.+ 81"/>
+;
+42620 old <><ls>V. 4. 81</ls>] Having no people, desolate.
+42620 new <><ls>P. V. 4. 81</ls>] Having no people, desolate.
+;
+; <L>4867<pc>0190-c<k1>avasAmaM<k2>avasAmaM
+43658 old {#avasAmaM#}¦ [{#avaraM sAma acsamAº#} P.  <lbinfo n="ls:V.+ 4. 75"/>
+43658 new {#avasAmaM#}¦ [{#avaraM sAma acsamAº#} <lbinfo n="ls:P. V.+ 4. 75"/>
+;
+43659 old <><ls>V. 4. 75</ls>] A bad song.
+43659 new <><ls>P. V. 4. 75</ls>] A bad song.
+;
+; <L>4990<pc>0194-a<k1>avikaH<k2>avikaH
+44464 old {#avikaH#}¦ [{#avireva avikaH, avi-ka#} P.  <lbinfo n="ls:V.+ 4. 28"/>
+44464 new {#avikaH#}¦ [{#avireva avikaH, avi-ka#} <lbinfo n="ls:P. V.+ 4. 28"/>
+;
+44465 old <><ls>V. 4. 28</ls>] A sheep. {#--kA#} An ewe. {#--kaM#}
+44465 new <><ls>P. V. 4. 28</ls>] A sheep. {#--kA#} An ewe. {#--kaM#}
+;
+; <L>5362<pc>0207-a<k1>azwakya<k2>azwakya
+47459 old {#azwakya#}¦ {%<ab>a.</ab>%} [{#azwakena krItaH yat#} P.  <lbinfo n="ls:V.+ 1. 2"/>
+47459 new {#azwakya#}¦ {%<ab>a.</ab>%} [{#azwakena krItaH yat#} <lbinfo n="ls:P. V.+ 1. 2"/>
+;
+47460 old <><ls>V. 1. 2</ls>] Bought for eight.
+47460 new <><ls>P. V. 1. 2</ls>] Bought for eight.
+;
+; <L>5514<pc>0212-b<k1>asahAya<k2>asahAya
+48686 old <>solitary; {#ekamasahAyamagAraM#} P.  <lbinfo n="ls:V. 1.+ 113"/>
+48686 new <>solitary; {#ekamasahAyamagAraM#} <lbinfo n="ls:P. V. 1.+ 113"/>
+;
+48687 old <><ls>V. 1. 113</ls> <ab>Com.</ab> {@--2@} Without companions
+48687 new <><ls>P. V. 1. 113</ls> <ab>Com.</ab> {@--2@} Without companions
+;
+; <L>6034<pc>0231-b<k1>AMjanikyaM<k2>AMjanikyaM
+53020 old {#AMjanikyaM#}¦ [{#purohitAdigaRa#} P.  <lbinfo n="ls:V. 1.+ 128"/>
+53020 new {#AMjanikyaM#}¦ [{#purohitAdigaRa#} <lbinfo n="ls:P. V. 1.+ 128"/>
+;
+53021 old <><ls>V. 1. 128</ls>] That which is used to <lbinfo n="pre+pare"/>
+53021 new <><ls>P. V. 1. 128</ls>] That which is used to <lbinfo n="pre+pare"/>
+;
+; <L>6557<pc>0249-a<k1>AmayAvin<k2>AmayAvin
+57095 old {#AmayAvin#}¦ {%<ab>a.</ab>%} [{#Amaya-vin-nipAtaH#} P.  <lbinfo n="ls:V.+ 2. 122"/>
+57095 new {#AmayAvin#}¦ {%<ab>a.</ab>%} [{#Amaya-vin-nipAtaH#} <lbinfo n="ls:P. V.+ 2. 122"/>
+;
+57096 old <><ls>V. 2. 122</ls> Vāit.] Sick, dyspeptic, <lbinfo n="af+fected"/>
+57096 new <><ls>P. V. 2. 122</ls> Vāit.] Sick, dyspeptic, <lbinfo n="af+fected"/>
+;
+; <L>9993<pc>0368-a<k1>kacCura<k2>kacCura
+84032 old {#kacCura#}¦ {%<ab>a.</ab>%} [{#kacCu ra TasvaSca#} P.  <lbinfo n="ls:V.+ 2. 107"/>
+84032 new {#kacCura#}¦ {%<ab>a.</ab>%} [{#kacCu ra TasvaSca#} <lbinfo n="ls:P. V.+ 2. 107"/>
+;
+84033 old <><ls>V. 2. 107</ls> <ab>Vārt.</ab>] {@1@} Scabby, itchy. {@--2@}
+84033 new <><ls>P. V. 2. 107</ls> <ab>Vārt.</ab>] {@1@} Scabby, itchy. {@--2@}
+;
+; <L>11439<pc>0421-b<k1>kfzIvalaH<k2>kfzIvalaH
+95971 old {#kfzIvalaH#}¦ [{#kfzi-valac dIrGaH#}; <ab>cf.</ab> P.  <lbinfo n="ls:V.+ 2. 112"/>
+95971 new {#kfzIvalaH#}¦ [{#kfzi-valac dIrGaH#}; <ab>cf.</ab> <lbinfo n="ls:P. V.+ 2. 112"/>
+;
+95972 old <><ls>V. 2. 112</ls>] One who lives by <lbinfo n="husban+dry"/>
+95972 new <><ls>P. V. 2. 112</ls>] One who lives by <lbinfo n="husban+dry"/>
+;
+; <L>15827<pc>0585-c<k1>drumaH<k2>drumaH
+132395 old {#drumaH#}¦ [{#druH SAKAstyasya-maH#}; <ab>cf.</ab> P.  <lbinfo n="ls:V.+ 2. 108"/>
+132395 new {#drumaH#}¦ [{#druH SAKAstyasya-maH#}; <ab>cf.</ab> <lbinfo n="ls:P. V.+ 2. 108"/>
+;
+132396 old <><ls>V. 2. 108</ls>] {@1@} A tree; {#yatra drumA api mfgA#}
+132396 new <><ls>P. V. 2. 108</ls>] {@1@} A tree; {#yatra drumA api mfgA#}
+;
+; <L>18673<pc>0693-b<k1>pAdaH<k2>pAdaH
+156461 old <>other than {#hasti#} &c.; see P.  <lbinfo n="ls:V. 4.+ 138"/>
+156461 new <>other than {#hasti#} &c.; see <lbinfo n="ls:P. V. 4.+ 138"/>
+;
+156462 old <><ls>V. 4. 138-140</ls> {%<ab>e. g.</ab>%} {#vyAGrapAd#}. The nom. <ab>pl.</ab>
+156462 new <><ls>P. V. 4. 138-140</ls> {%<ab>e. g.</ab>%} {#vyAGrapAd#}. The nom. <ab>pl.</ab>
+;
+; <L>23710<pc>0890-a<k1>yarhi<k2>yarhi
+200160 old {#yarhi#}¦ {%<ab>ind.</ab>%} [{#yad-rhil#}, <ab>cf.</ab> P.  <lbinfo n="ls:V. 3.+ 21"/>
+200160 new {#yarhi#}¦ {%<ab>ind.</ab>%} [{#yad-rhil#}, <ab>cf.</ab> <lbinfo n="ls:P. V. 3.+ 21"/>
+;
+200161 old <><ls>V. 3. 21</ls>] {@1@} When, while, whenever. {@--2@}
+200161 new <><ls>P. V. 3. 21</ls>] {@1@} When, while, whenever. {@--2@}
+;

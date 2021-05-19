@@ -20,6 +20,7 @@ class Change(object):
   self.iline1 = iline1
   self.line1 = line1
   self.new1 = new1
+  
 def change1(line):
  reason = 'marked'
  if '</ls>' not in line:
@@ -65,6 +66,77 @@ def change7(line):
  newline = re.sub(r';%}',r'%};',line)
  return reason,newline
  
+def change8(line):
+ reason = ''
+ newline = re.sub(r'\(([AP])[.]\)',r'(<ab>\1.</ab>)',line)
+ return reason,newline
+
+def change9(line):
+ reason = ''
+ newline = re.sub(r'\(([AP])[.]\)',r'(<ab>\1.</ab>)',line)
+ newline = line.replace(',%}','%},')
+ newline = newline.replace('.%}','%}.') 
+ return reason,newline
+
+def change10(line):
+ reason = ''
+ newline = re.sub(r'{%-<ab>(n|ind|f|m)\.</ab>%}',r'{%--<ab>\1.</ab>%}',line)
+ return reason,newline
+
+def change11(line):
+ reason = ''
+ newline = re.sub(r'{%--Caus%}',r'{%--<ab>Caus.</ab>%}',line)
+ return reason,newline
+
+def change12(line):
+ reason = ''
+ newline = re.sub(r'{%--Pass[.]%}',r'{%--<ab>Pass.</ab>%}',line)
+ return reason,newline
+
+def change13(line):
+ reason = ''
+ newline = re.sub(r'{%--(f|m|n|m),?%}',r'{%--<ab>\1.</ab>%}',line)
+ return reason,newline
+def change13a(line):
+ reason = ''
+ newline = re.sub(r'{%m%}',r'{%<ab>m.</ab>%}',line)
+ return reason,newline
+
+def change14(line):
+ reason = ''
+ changes = [
+  ('{%<ab>m.</ab> <ab>du.</ab>%}' , '{%<ab>m.</ab>%} {%<ab>du.</ab>%}'),
+  ('{%<ab>m.</ab> <ab>f.</ab>%}' , '{%<ab>m.</ab>%} {%<ab>f.</ab>%}'),
+  ('{%<ab>m.</ab> <ab>n.</ab>%}' , '{%<ab>m.</ab>%} {%<ab>n.</ab>%}'),
+  ('{%18 <ab>m.</ab> <ab>pl.</ab>%}' , '{%18 <ab>m.</ab>%} {%<ab>pl.</ab>%}'),
+  ('{%<ab>m.</ab>, <ab>f.</ab>%}' , '{%<ab>m.</ab>%}, {%<ab>f.</ab>%}'),
+  ('{%<ab>m.</ab>, <ab>n.</ab>%}' , '{%<ab>m.</ab>%}, {%<ab>n.</ab>%}'),
+ ]
+ newline = line
+ for old,new in changes:
+  newline = newline.replace(old,new)
+ return reason,newline
+
+def change15(line):
+ reason = ''
+ newline = line.replace(r'{%ad. <ab>loc.</ab>%}','{%ad <ab>loc.</ab>%}')
+ return reason,newline
+
+def change16(line):
+ reason = ''
+ newline = re.sub(r' P[.] +<lbinfo n="ls:',' <lbinfo n="ls:P. ',line)
+ return reason,newline
+
+def change16a(line):
+ reason = ''
+ newline = re.sub(r'<ab>N[.]</ab> *$',' <lbinfo n="ls:N.+',line)
+ return reason,newline
+
+def change17(line):
+ reason = ''
+ newline = re.sub(r'([^.ā]) ([PA][.]) ',r'\1 <ab>\2</ab> ',line)
+ return reason,newline
+
 def reasons_update(reasons,reason):
  if reason not in reasons:
   reasons[reason] = 0
@@ -74,7 +146,8 @@ def init_changes(lines):
  changes = [] # array of Change objects
  metaline = None
  page = None
- change_fcns = [change7]
+ change_fcns = [change16a]
+ line1_fcns = [change16a]
  reasons = {} # counts
  for iline,line in enumerate(lines):
   line = line.rstrip('\r\n')
@@ -91,36 +164,19 @@ def init_changes(lines):
   for f in change_fcns:
    reason,newline = f(oldline)
    if newline != oldline:
-    iline1 = None
-    line1 = None
-    newline1 = None
+    if f in line1_fcns:
+     iline1 = iline + 1
+     line1 = lines[iline1]
+     newline1 = line1
+     if (f == change16a) and (line1.startswith('<>of ')):
+      continue  # not of interest
+    else:
+     iline1 = None
+     line1 = None
+     newline1 = None
     change = Change(metaline,page,iline,oldline,newline,reason,iline1,line1,newline1)
     changes.append(change)
     continue
-    m = re.search(r'<lbinfo n="ls:(.*?)[+]"/>',newline)
-    pfx = m.group(1)
-    # get preceding line
-    iline1 = iline + 1
-    line1 = lines[iline1]
-    if line1.startswith('[Page'):
-     iline1 = iline1 + 1
-     line1 = lines[iline1]
-    m1 = re.search(r'<>([0-9]+)([.] [0-9]+[.]?)',line1)
-    if m1:
-     a = m1.group(1)
-     b = m1.group(2)
-     c = a+b
-     newline1 = re.sub(r'[0-9]+)([.] [0-9]+[.]?)',r'<><ls>%s \1\2</ls>'%c,line1)
-     newline = re.sub(r'(<lbinfo n="ls:.*?[+])("/>)',r'\1%s\2'%a,newline)
-    else:
-     newline1 = re.sub(r'<>',r'<x>',line1)
-    #if not m:
-    # continue
-    #newline1 = re.sub(r'<>([0-9]+[.] [0-9]+[.]?)',r'<><ls n=".">\1</ls>',line1)
-    change = Change(metaline,page,iline,oldline,newline,reason,iline1,line1,newline1)
-    changes.append(change)
-    reasons_update(reasons,reason)
-   oldline = newline
  print(len(changes),'potential changes found')
  return changes,reasons
 
@@ -138,14 +194,14 @@ def change_out(change,ichange):
  outarr.append('%s old %s' % (lnum,line))
  outarr.append('%s new %s' % (lnum,new))
  outarr.append(';')
- #
- """
- lnum1 = change.iline1 + 1
- outarr.append('%s old %s' % (lnum1,change.line1))
- outarr.append('%s new %s' % (lnum1,change.new1))
- outarr.append(';')
- """
- # dummy next line
+ if change.iline1 != None:
+  # write a second change
+  lnum = change.iline1 + 1
+  line = change.line1
+  new = change.new1
+  outarr.append('%s old %s' % (lnum,line))
+  outarr.append('%s new %s' % (lnum,new))
+  outarr.append(';')
  return outarr
 
 def write_changes(fileout,changes):

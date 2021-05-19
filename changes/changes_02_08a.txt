@@ -1,0 +1,21 @@
+; <L>6071<pc>0232-c<k1>AtatAyin<k2>AtatAyin  ??
+;53298 old <>{#kzetradAraharaScEtAn zaq vidyAdAtatAyinaH ..#} Śukra <ab>N.</ab>
+;53298 new <>{#kzetradAraharaScEtAn zaq vidyAdAtatAyinaH ..#} Śukra <ab>N.</ab>
+;
+;53299 old <>{#ºtA, --tvaM#} murdering, stealing, <lbinfo n="destroy+ing"/>
+;53299 new <>{#ºtA, --tvaM#} murdering, stealing, <lbinfo n="destroy+ing"/>
+;
+; <L>12958<pc>0478-c<k1>GftAcI<k2>GftAcI
+108737 old <>Sarasvatī. {@--3@} <ab>N.</ab> of an {%apsaras%}; <ab>N.</ab>
+108737 new <>Sarasvatī. {@--3@} <ab>N.</ab> of an {%apsaras%};  <lbinfo n="ls:N.+2"/>
+;
+108738 old <>2. 109 (the following are the <lbinfo n="prin+cipal"/>
+108738 new <><ls>N. 2. 109</ls> (the following are the <lbinfo n="prin+cipal"/>
+;
+; <L>15892<pc>0589-b<k1>dvIpaH<k2>dvIpaH, --paM
+133173 old <>other by a distinct ocean. In <ab>N.</ab>
+133173 new <>other by a distinct ocean. In  <lbinfo n="ls:N.+1."/>
+;
+133174 old <>1. 5 the Dvīpas are said to be
+133174 new <><ls>N. 1. 5</ls> the Dvīpas are said to be
+;

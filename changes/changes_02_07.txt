@@ -1,0 +1,20 @@
+; <L>2981<pc>0126-b<k1>aBavat<k2>aBavat
+28756 old <>examples see <ls>S. D. 575</ls> {%ad. <ab>loc.</ab>%}
+28756 new <>examples see <ls>S. D. 575</ls> {%ad <ab>loc.</ab>%}
+;
+; <L>8753<pc>0326-b<k1>upamA<k2>upamA
+74687 old <>see <ls>K. P. 10</ls> {%ad. <ab>loc.</ab>%} also. {@--3@}
+74687 new <>see <ls>K. P. 10</ls> {%ad <ab>loc.</ab>%} also. {@--3@}
+;
+; <L>9274<pc>0342-c<k1>ullAsaH<k2>ullAsaH
+78446 old <>for examples, see <ls>R. G.</ls> {%ad. <ab>loc.</ab>%}; <ab>cf.</ab>
+78446 new <>for examples, see <ls>R. G.</ls> {%ad <ab>loc.</ab>%}; <ab>cf.</ab>
+;
+; <L>15613<pc>0577-b<k1>dfzwa<k2>dfzwa
+130565 old <><ls>K. P. 10</ls> and <ls>R. G.</ls> {%ad. <ab>loc.</ab>%}). --3.
+130565 new <><ls>K. P. 10</ls> and <ls>R. G.</ls> {%ad <ab>loc.</ab>%}). --3.
+;
+; <L>17733<pc>0664-b<k1>padma<k2>padma
+149729 old <>a lotus-flower; see <ls>K. P. 9</ls> {%ad. <ab>loc.</ab>%}
+149729 new <>a lotus-flower; see <ls>K. P. 9</ls> {%ad <ab>loc.</ab>%}
+;

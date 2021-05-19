@@ -1,0 +1,164 @@
+; [Page-6+ 39]
+249 old <P>11. ({%a%}). In the case of verbs, the Arabic figure before P., A. and U. denotes the conjugation
+249 new <P>11. ({%a%}). In the case of verbs, the Arabic figure before P., <ab>A.</ab> and U. denotes the conjugation
+;
+; [Page-6+ 39]
+250 old <>to which the root belongs; P. denoting Parasmaipada, A. Ātmanepada, and U. Ubhayapada (P. and A.).
+250 new <>to which the root belongs; <ab>P.</ab> denoting Parasmaipada, <ab>A.</ab> Ātmanepada, and U. Ubhayapada (P. and A.).
+;
+; <L>310<pc>0021-b<k1>aMG<k2>aMG
+5212 old {#aMG#}¦ A. ({#aMGate, AnaMGe#}) {@1@} To go. {@--2@} To
+5212 new {#aMG#}¦ <ab>A.</ab> ({#aMGate, AnaMGe#}) {@1@} To go. {@--2@} To
+;
+; <L>914<pc>0044-c<k1>aDarmaH<k2>aDarmaH
+10534 old <>{#Darma#} and {#aDarma#} See <ls>Tarka K.</ls> P. 19.
+10534 new <>{#Darma#} and {#aDarma#} See <ls>Tarka K.</ls> <ab>P.</ab> 19.
+;
+; <L>1911<pc>0081-b<k1>anuvft<k2>anuvft
+18840 old {#anuvft#}¦ 1 <ab>A.</ab> (sometimes P. also)
+18840 new {#anuvft#}¦ 1 <ab>A.</ab> (sometimes <ab>P.</ab> also)
+;
+; <L>2061<pc>0086-b<k1>anfta<k2>anfta
+20056 old <>Viṣṇu P. {@--2@} Agriculture (<ab>opp.</ab>
+20056 new <>Viṣṇu <ab>P.</ab> {@--2@} Agriculture (<ab>opp.</ab>
+;
+; <L>2093<pc>0087-c<k1>aMta<k2>aMta
+20357 old <>{#puMso yamAMtaM vrajataH#} P. 2. 115 going <lbinfo n="in+to"/>
+20357 new <>{#puMso yamAMtaM vrajataH#} <ab>P.</ab> 2. 115 going <lbinfo n="in+to"/>
+;
+; <L>2444<pc>0109-c<k1>aparAjita<k2>aparAjita
+24857 old <>{#pUjitA jayavarDinI#} Skanda P. {@--2@} <ab>N.</ab> of <lbinfo n="se+veral"/>
+24857 new <>{#pUjitA jayavarDinI#} Skanda <ab>P.</ab> {@--2@} <ab>N.</ab> of <lbinfo n="se+veral"/>
+;
+; <L>2686<pc>0117-a<k1>api<k2>api
+26690 old <>{#padArTasaMBAvanAnvavasargagarhAsamuccayezu#} P. 1. 4. 96.
+26690 new <>{#padArTasaMBAvanAnvavasargagarhAsamuccayezu#} <ab>P.</ab> 1. 4. 96.
+;
+; <L>2746<pc>0119-b<k1>apAyaH<k2>apAyaH
+27081 old <>{#pAdAnaM#} P. 1. 4. 24 ({#apAyo viSlezaH#} Sk);
+27081 new <>{#pAdAnaM#} <ab>P.</ab> 1. 4. 24 ({#apAyo viSlezaH#} Sk);
+;
+; <L>3206<pc>0133-c<k1>aBiBAz<k2>aBiBAz
+30494 old {#aBiBAz#}¦ A. (P. in epic <lbinfo n="poe+try"/>
+30494 new {#aBiBAz#}¦ <ab>A.</ab> (P. in epic <lbinfo n="poe+try"/>
+;
+; <L>3914<pc>0155-c<k1>ay<k2>ay
+35686 old {#ay#}¦ 1 <ab>A.</ab> (sometimes P. also, <lbinfo n="es+pecially"/>
+35686 new {#ay#}¦ 1 <ab>A.</ab> (sometimes <ab>P.</ab> also, <lbinfo n="es+pecially"/>
+;
+; <L>4220<pc>0171-a<k1>arh<k2>arh
+38965 old <>(epic A. as {#rAvaRo nArhate pUjAM#} <ls>Rām.</ls>) {@1@}
+38965 new <>(epic <ab>A.</ab> as {#rAvaRo nArhate pUjAM#} <ls>Rām.</ls>) {@1@}
+;
+; <L>4762<pc>0187-b<k1>avalaMb<k2>avalaMb
+42893 old <><ls>Mk. 9</ls>; Bhāṣa P. 167. {@--5@} To have
+42893 new <><ls>Mk. 9</ls>; Bhāṣa <ab>P.</ab> 167. {@--5@} To have
+;
+; <L>5030<pc>0194-c<k1>avitaTa<k2>avitaTa
+44686 old <>{#avitaTamAha priyaMvadA#} <ls>Ś. 3</ls>, P. is right, what
+44686 new <>{#avitaTamAha priyaMvadA#} <ls>Ś. 3</ls>, <ab>P.</ab> is right, what
+;
+; <L>5552<pc>0214-a<k1>asura<k2>asura
+49079 old <>breath. The Vāyu P. says that Asuras
+49079 new <>breath. The Vāyu <ab>P.</ab> says that Asuras
+;
+; <L>7844<pc>0295-b<k1>uttij<k2>uttij
+67567 old {#uttij#}¦ {%<ab>Caus.</ab>%} P. To excite,
+67567 new {#uttij#}¦ {%<ab>Caus.</ab>%} <ab>P.</ab> To excite,
+;
+; <L>8261<pc>0310-c<k1>udyuj<k2>udyuj
+71016 old {#udyuj#}¦ 7 <ab>U.</ab> (Usually A. only)
+71016 new {#udyuj#}¦ 7 <ab>U.</ab> (Usually <ab>A.</ab> only)
+;
+; <L>8801<pc>0328-b<k1>uparam<k2>uparam
+75060 old {#uparam#}¦ 1 <ab>P.</ab> (Sometimes A. also).
+75060 new {#uparam#}¦ 1 <ab>P.</ab> (Sometimes <ab>A.</ab> also).
+;
+; <L>8919<pc>0331-c<k1>upaSuB<k2>upaSuB
+75871 old {#upaSuB#}¦ {%<ab>Caus.</ab>%} P. To adorn, <lbinfo n="or+nament"/>
+75871 new {#upaSuB#}¦ {%<ab>Caus.</ab>%} <ab>P.</ab> To adorn, <lbinfo n="or+nament"/>
+;
+; <L>9456<pc>0348-c<k1>ft<k2>ft
+79806 old {#ft#}¦ A. {#ftIyate#} (a Sautra root)
+79806 new {#ft#}¦ <ab>A.</ab> {#ftIyate#} (a Sautra root)
+;
+; <L>11784<pc>0433-a<k1>kliS<k2>kliS
+98680 old {#kliS#}¦ 4 <ab>A.</ab> (also P. according
+98680 new {#kliS#}¦ 4 <ab>A.</ab> (also <ab>P.</ab> according
+;
+; <L>11894<pc>0437-a<k1>kzip<k2>kzip
+99556 old {#kzip#}¦ 6 <ab>U.</ab> (but only P. when
+99556 new {#kzip#}¦ 6 <ab>U.</ab> (but only <ab>P.</ab> when
+;
+; <L>12187<pc>0445-a<k1>KuMgAhaH<k2>KuMgAhaH
+101490 old {#KuMgAhaH#}¦ A. tawny (or black)
+101490 new {#KuMgAhaH#}¦ <ab>A.</ab> tawny (or black)
+;
+; <L>12741<pc>0470-a<k1>gOqaH<k2>gOqaH
+106860 old <>{#gOqI#}) <ls>M.</ls> P. 7; {#ojaHprakASakErvarRErbaMDa#}
+106860 new <>{#gOqI#}) <ls>M.</ls> <ab>P.</ab> 7; {#ojaHprakASakErvarRErbaMDa#}
+;
+; <L>13972<pc>0514-c<k1>jImUtaH<k2>jImUtaH
+116875 old <>{#--vAhin#} A. smoke.
+116875 new <>{#--vAhin#} <ab>A.</ab> smoke.
+;
+; <L>14162<pc>0521-b<k1>Jaz<k2>Jaz
+118307 old <>kill (only P. in this sense).
+118307 new <>kill (only <ab>P.</ab> in this sense).
+;
+; <L>14487<pc>0533-a<k1>tarj<k2>tarj
+120723 old {#tarj#}¦ 1 <ab>P.</ab>, 10 <ab>A.</ab> (often P. also)
+120723 new {#tarj#}¦ 1 <ab>P.</ab>, 10 <ab>A.</ab> (often <ab>P.</ab> also)
+;
+; <L>14887<pc>0544-c<k1>tfpat<k2>tfpat
+123513 old {#tfpat#}¦ A. <ab>Ved.</ab> {@1@} The moon. {@--2@} A
+123513 new {#tfpat#}¦ <ab>A.</ab> <ab>Ved.</ab> {@1@} The moon. {@--2@} A
+;
+; <L>16348<pc>0608-a<k1>nam<k2>nam
+137246 old {#nam#}¦ 1 <ab>P.</ab>, sometimes A. ({#namati-te#},
+137246 new {#nam#}¦ 1 <ab>P.</ab>, sometimes <ab>A.</ab> ({#namati-te#},
+;
+; <L>16473<pc>0613-c<k1>nAT<k2>nAT
+138475 old <>sometimes A. also) {@1@} To ask, beg,
+138475 new <>sometimes <ab>A.</ab> also) {@1@} To ask, beg,
+;
+; <L>21999<pc>0809-c<k1>Barts<k2>Barts
+183021 old {#Barts#}¦ 10 <ab>A.</ab> ({#Bartsa yate#}; P. also <lbinfo n="some+times"/>
+183021 new {#Barts#}¦ 10 <ab>A.</ab> ({#Bartsa yate#}; <ab>P.</ab> also <lbinfo n="some+times"/>
+;
+; <L>22300<pc>0825-a<k1>BfmaH<k2>BfmaH
+186264 old {#BfmaH#}¦ <ab>Ved.</ab> A. mistake, an error.
+186264 new {#BfmaH#}¦ <ab>Ved.</ab> <ab>A.</ab> mistake, an error.
+;
+; <L>23385<pc>0875-a<k1>mf<k2>mf
+197004 old {#mf#}¦ 6 <ab>A.</ab> (but P. in the Perfect,
+197004 new {#mf#}¦ 6 <ab>A.</ab> (but <ab>P.</ab> in the Perfect,
+;
+; <L>24878<pc>0939-c<k1>vaMc<k2>vaMc
+211008 old <>A. only, but often P. also);  <lbinfo n="mUrKA#stvAmavavaMcaMta"/>
+211008 new <>A. only, but often <ab>P.</ab> also);  <lbinfo n="mUrKA#stvAmavavaMcaMta"/>
+;
+; <L>25679<pc>0967-b<k1>vikrayikaH<k2>vikrayikaH, vikrayin
+217343 old {#vikrayikaH, vikrayin#}¦ {%<ab>m.</ab>%} A. dealer,
+217343 new {#vikrayikaH, vikrayin#}¦ {%<ab>m.</ab>%} <ab>A.</ab> dealer,
+;
+; <L>26181<pc>0983-b<k1>vipraSnikA<k2>vipraSnikA
+221095 old <>fortuneteller; A. 64.
+221095 new <>fortuneteller; <ab>A.</ab> 64.
+;
+; <L>27593<pc>1032-a<k1>Sad<k2>Sad
+232241 old {#Sad#}¦ I. 1 <ab>P.</ab> (but A. in <lbinfo n="conjuga+tional"/>
+232241 new {#Sad#}¦ I. 1 <ab>P.</ab> (but <ab>A.</ab> in <lbinfo n="conjuga+tional"/>
+;
+; <L>27834<pc>1040-c<k1>SAMBava<k2>SAMBava
+234233 old <>{#gaRapaterAKuM kzuDArtaH PaRI#} P. 1. 159. {#--vaH#}
+234233 new <>{#gaRapaterAKuM kzuDArtaH PaRI#} <ab>P.</ab> 1. 159. {#--vaH#}
+;
+; <L>28789<pc>1075-a<k1>saMhf<k2>saMhf
+241915 old {#saMhf#}¦ 1 <ab>P.</ab> (sometimes A. also)
+241915 new {#saMhf#}¦ 1 <ab>P.</ab> (sometimes <ab>A.</ab> also)
+;
+; <L>30048<pc>1115-c<k1>sADarmyaM<k2>sADarmyaM
+251371 old <><ls>K. P. 10</ls>; <ls>Bg. 14. 2</ls>, Bhāṣa P. 12. {@--3@}
+251371 new <><ls>K. P. 10</ls>; <ls>Bg. 14. 2</ls>, Bhāṣa <ab>P.</ab> 12. {@--3@}
+;
