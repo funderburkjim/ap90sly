@@ -1,28 +1,30 @@
 #-*- coding:utf-8 -*-
-"""ap90_03d.py  for ap90
+"""ap90_04a.py  for ap90
  
  
 """
 from __future__ import print_function
 import sys, re,codecs
 from parseheadline import parseheadline
-from ap90lexer1b import Ap90Lexer
+from ap90lexer1c import Ap90Lexer
 from sly import Parser
 
-parserrfile = 'ap90_03a_err.txt'
+parserrfile = 'ap90_04a_err.txt'
 ferr = codecs.open(parserrfile,"w","utf-8")
+
 class Ap90Parser(Parser):
  tokens = Ap90Lexer.tokens
  #debugfile = 'ap90_03_dbg.txt'
  def __init__(self):
   self.rawtokens = []
   self.errtokens = []
-  
+ nparse_err = 0
  def error(self,t):
   #print('parse error',t)
   ferr.write('entry err: ' + entry.metaline + '\n')
   out = '%s' %t
   ferr.write(out+'\n')
+  Ap90Parser.nparse_err = Ap90Parser.nparse_err +1
  
  # Grammar rules and actions
  # entry : header expr
@@ -273,37 +275,100 @@ def merge_result1(arr):
   else:
    barr.append(a)
  return barr
+
+def out_method1(entry,results,d):
+ outarr = []
+ outarr.append(entry.metaline)
+ for item in results:
+  kind,val = item
+  if kind == 'BOLD':
+   outarr.append('%s: %s' %item)
+   if val not in d:
+    d[val] = 0
+   d[val] = d[val] + 1
+ outarr.append(entry.lend)
+ return outarr
+
+def check_bold(items):
+ # items is list of 2-types
+ if len(items) == 0:
+  return
+ if items[0][1] not in ['{@1@}','{@--Comp.@}']:
+  items[0] = (items[0][0]+'?',items[0][1])
+
+def out_method1a_err(entry):
+ outarr = []
+ outarr.append('; ' +entry.metaline)
+ lines = entry.datalines
+ iline0 = entry.linenum1
+ flag = False
+ for i in [0,1]:
+  if not (i < len(lines)):
+   continue
+  if ']' in lines[i]:
+   iline = iline0 + i
+   line = lines[i]
+   lnum = iline + 1
+   newline = line.replace(']','] {@1@}')
+   outarr.append('%s old %s' %(lnum,line))
+   outarr.append('%s new %s' %(lnum,newline))
+   outarr.append(';')
+   flag = True
+ if not flag:
+  outarr[0] = '; TODO ' + entry.metaline
+  for i in [0,1]:
+   if not (i < len(lines)):
+    continue
+   line = lines[i]
+   iline = iline0 + i
+   lnum = iline + 1
+   newline = line
+   outarr.append('%s old %s' %(lnum,line))
+   outarr.append('%s new %s' %(lnum,newline))
+   outarr.append(';')
+ for out in outarr:
+  ferr.write(out+'\n')
+ Ap90Parser.nparse_err = Ap90Parser.nparse_err + 1
+def out_method1a(entry,results):
+ outarr = []
+ bolds = [item for item in results if item[0] == 'BOLD']
+ check_bold(bolds)
+ outarr.append(entry.metaline)
+ for item in bolds:
+  #kind,val = item
+  #if kind == 'BOLD':
+  outarr.append('%s: %s' %item)
+  if item[0] == 'BOLD?':
+   out_method1a_err(entry)  # change records to ferr
+ outarr.append(entry.lend)
+ return outarr
+
+def flatten_result(result):
+ result1 = []
+ for itemlist in result:
+  for item in itemlist:
+   # item is [(type,val)]
+   result1.append(item)
+ return result1
+
 def write(fileout,entries):
  with codecs.open(fileout,"w","utf-8") as f:
   nout = 0
   nerr = 0
   merr = 10000
+  d = {}  # catch bold errors
   for entry in entries:
    nout = nout + 1
-   outarr = []
-   outarr.append(entry.metaline)
-   result1 = []
-   for itemlist in entry.result:
-    for item in itemlist:
-     # item is [(type,val)]
-     result1.append(item)
-     kind = item[0]
-     if kind == 'RPAREN':
-      print('; ----------------------------')
-      print('; ' + entry.metaline)
-      print(' old ')
-      print(' new ')
-   #for item in result1:
-   # outarr.append('%s: %s' %item)
-   result2 = merge_result1(result1)
-   for item in result2:
-    outarr.append('%s: %s' %item)
-   # lend
-   outarr.append(entry.lend)
+   result1 = flatten_result(entry.result)
+   #outarr = out_method1(entry,result1,d)
+   outarr = out_method1a(entry,result1)
    for out in outarr:
     f.write(out+'\n')
  print(nout,"entries to",fileout)
-
+ #for k in d.keys():
+ # if re.search(r'{@(
+ # print('%s # %s' %(k,d[k]))
+  
 def write_dbg1(fileout,entries):
  # distinct {%X%}
  d = {}
@@ -367,4 +432,6 @@ if __name__=="__main__":
  #write_dbg1(fileout,entries)
  
  write(fileout,entries)
-
+ ferr.close()
+ print(Ap90Parser.nparse_err,'Parse errors written to',parserrfile)
+  

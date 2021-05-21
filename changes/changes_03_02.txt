@@ -1,0 +1,76 @@
+; <L>24<pc>0002-c<k1>aMhas<k2>aMhas
+1155 old <>{%agos; ahos%}]. {#ºmuc#} {%<ab>a.</ab>%} freeing from
+1155 new <>{%agos%}; {%ahos%}]. {#ºmuc#} {%<ab>a.</ab>%} freeing from
+;
+; <L>28<pc>0002-c<k1>aMhu<k2>aMhu
+1176 old <>{%angustus, anxius%}; <ab>Goth.</ab> {%aggvus%}].
+1176 new <>{%angustus%}, {%anxius%}; <ab>Goth.</ab> {%aggvus%}].
+;
+; <L>141<pc>0008-a<k1>akzi<k2>akzi
+2368 old <><ab>Gr.</ab> {%okos, okkos%}, Zend {%ashi%}.] {@--Comp.@}
+2368 new <><ab>Gr.</ab> {%okos%}, {%okkos%}, Zend {%ashi%}.] {@--Comp.@}
+;
+; <L>2991<pc>0126-c<k1>aBi<k2>aBi
+28884 old <>{%aibi%} or {%aiwi%}, <ab>Goth.</ab> {%bi%}; also {%umbi; um%}].
+28884 new <>{%aibi%} or {%aiwi%}, <ab>Goth.</ab> {%bi%}; also {%umbi%}; {%um%}].
+;
+; <L>430<pc>0026-b<k1>aMj<k2>aMj
+6338 old <>{%unctum, ungo%}.] --With {#aDi#} to fit
+6338 new <>{%unctum%}, {%ungo%}.] --With {#aDi#} to fit
+;
+; <L>2150<pc>0097-a<k1>aMDaka<k2>aMDaka
+22054 old <>is called {%Andhakaripu, -ari, -dvish%} &c. <lbinfo n="Ac+cording"/>
+22054 new <>is called {%Andhakaripu%}, {%-ari%}, {%-dvish%} &c. <lbinfo n="Ac+cording"/>
+;
+; <L>3727<pc>0148-a<k1>aBraM<k2>aBraM
+33992 old <>{%imber%}; <ab>Gr.</ab> {%ombros, appros%}; Zend
+33992 new <>{%imber%}; <ab>Gr.</ab> {%ombros%}, {%appros%}; Zend
+;
+; <L>3852<pc>0152-a<k1>amfta<k2>amfta
+34996 old <>{%ambrotos, ambrosia%}; <ab>L.</ab> {%immortalis%}]. {@--Comp.@}  <lbinfo n="--aM#SuH"/>
+34996 new <>{%ambrotos%}, {%ambrosia%}; <ab>L.</ab> {%immortalis%}]. {@--Comp.@}  <lbinfo n="--aM#SuH"/>
+;
+; <L>3938<pc>0156-c<k1>ayas<k2>ayas
+35903 old <>{%--<ab>m.</ab>%} Fire. [cf <ab>L.</ab> {%aes, aeris%}; <ab>Goth.</ab>
+35903 new <>{%--<ab>m.</ab>%} Fire. [cf <ab>L.</ab> {%aes%}, {%aeris%}; <ab>Goth.</ab>
+;
+; <L>3938<pc>0156-c<k1>ayas<k2>ayas
+35904 old <>{%ais, eisarn%}; Ger. {%eisin%}]. {@--Comp.@}
+35904 new <>{%ais%}, {%eisarn%}; Ger. {%eisin%}]. {@--Comp.@}
+;
+; <L>5345<pc>0205-b<k1>aSvin<k2>aSvin
+47143 old <>{%Svarvaidyau, Dasrau, Nāsatyau, Vādaveyau%},
+47143 new <>{%Svarvaidyau%}, {%Dasrau%}, {%Nāsatyau%}, {%Vādaveyau%},
+;
+; <L>6115<pc>0233-c<k1>Atman<k2>Atman
+53602 old <><ls>Mb.</ls> [<ab>cf.</ab> <ab>Gr.</ab> {%atmos, aitmen%}]
+53602 new <><ls>Mb.</ls> [<ab>cf.</ab> <ab>Gr.</ab> {%atmos%}, {%aitmen%}]
+;
+; <L>10389<pc>0382-a<k1>karRa<k2>karRa
+87176 old <>often called {%Sūtaputra, Rādheya%} &c.
+87176 new <>often called {%Sūtaputra%}, {%Rādheya%} &c.
+;
+; <L>15023<pc>0548-c<k1>tri<k2>tri
+124565 old <>to {%Soma, Gandharva%} and {%Agni%}
+124565 new <>to {%Soma%}, {%Gandharva%} and {%Agni%}
+;
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132803 old <>{%bis%} or {%bi%} in <ab>comp.</ab>; <ab>Gr.</ab> {%duo, dis%}; Zend
+132803 new <>{%bis%} or {%bi%} in <ab>comp.</ab>; <ab>Gr.</ab> {%duo%}, {%dis%}; Zend
+;
+; <L>22707<pc>0845-b<k1>mamatA<k2>mamatA
+190542 old <>of {%‘meum,’%} the sense of ownership,
+190542 new <>of {%‘meum’%}, the sense of ownership,
+;
+; <L>25957<pc>0975-b<k1>vidyA<k2>vidyA
+219317 old <>{%Dharma, Mīmāṃsā, Tarka%} or  <lbinfo n="Nyā+ya"/>
+219317 new <>{%Dharma%}, {%Mīmāṃsā%}, {%Tarka%} or  <lbinfo n="Nyā+ya"/>
+;
+; <L>26605<pc>0997-b<k1>viSvAmitraH<k2>viSvAmitraH
+224389 old <>titles {%Rājarṣi, Ṛṣi, Maharṣi%}, and
+224389 new <>titles {%Rājarṣi%}, {%Ṛṣi%}, {%Maharṣi%}, and
+;
+; <L>30879<pc>1150-a<k1>sTira<k2>sTira
+258986 old <>certain zodiacal signs ({%Taurus, Leo%},
+258986 new <>certain zodiacal signs ({%Taurus%}, {%Leo%},
+;

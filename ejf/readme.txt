@@ -34,3 +34,8 @@ Use Ap90Lexer class of ap90lexer1b.py
 Also begins use of an Ap90Parser class to 'rewrite'.
 
 python ap90_03d.py ../changes/ap90.txt temp_ap90_parse_03d.txt
+
+python ap90_04a.py ../changes/ap90.txt temp_ap90_parse_04a.txt
+# work on entry sections
+# Use Ap90Lexer class of ap90lexer1c.py
+

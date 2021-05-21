@@ -1,8 +1,0 @@
-entry err: <L>1938<pc>0082-c<k1>anuSAsaka<k2>anuSAsaka, --SAsin, --SAstf,
-Token(type='TEXT', value='or ', lineno=1, index=33)
-entry err: <L>2069<pc>0087-a<k1>anekIkf<k2>anekIkf
-Token(type='TEXT', value='or ', lineno=1, index=12)
-entry err: <L>9349<pc>0344-1<k1>UDanyaM<k2>UDanyaM
-Token(type='TEXT', value='or ', lineno=1, index=12)
-entry err: <L>9453<pc>0348-c<k1>fRavat<k2>fRavat, --van,
-Token(type='TEXT', value='or ', lineno=1, index=19)

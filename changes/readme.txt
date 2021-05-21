@@ -84,5 +84,16 @@ python change_misc1_02.py ap90.txt changes_02_09.txt
  abbreviations ' P. ' -> ' <ab>P.</ab> ',  and also for A.
  
 
-python updateByLine.py ap90_1.txt changes_02.txt ap90.txt
+python updateByLine.py ap90_1.txt changes_02.txt ap90_2.txt
+
+# ap90_2.txt copied to csl-orig/v02/ap90/ap90.txt
+  commit 9256711b47279c15b4200c1f20d33034422fb0b7
+
+python change_misc1_02.py ap90.txt changes_03_01.txt
+python change_misc1_02.py ap90.txt changes_03_02.txt
+
+python change_misc1_02.py ap90_2.txt changes_03_03.txt
+ regularize bold text.  390 changes
+ 
+python updateByLine.py ap90_2.txt changes_03.txt ap90.txt
 

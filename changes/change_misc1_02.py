@@ -117,6 +117,40 @@ def change14(line):
   newline = newline.replace(old,new)
  return reason,newline
 
+def change14a(line):
+ reason = ''
+ changes = [
+  ('{%<ab>m.</ab> <ab>pl.</ab>%}' , '{%<ab>m.</ab>%} {%<ab>pl.</ab>%}'),
+  ('{%<ab>m.</ab> dual%}' , '{%<ab>m.</ab>%} {%dual%}'),
+  ('{%ad <ab>loc.</ab>%}' , '{%ad loc.%}'),
+  ('{%<ab>Gr.</ab>%}' ,  '<ab>Gr.</ab>'),
+  ('{%Śiva-linga%}', '{%Śiva-liṅga%}'),
+  ]
+ newline = line
+ for old,new in changes:
+  newline = newline.replace(old,new)
+ return reason,newline
+
+def change14b(line):
+ reason = ''
+ def f(m):
+  x = m.group(0)
+  y = m.group(1)
+  if (',' not in y) and (';' not in y):
+   return x
+  parts = re.split('([,; ]+)',y)
+  newparts = []
+  for part in parts:
+   if re.search(r'[,; ]',part):
+    newparts.append(part)
+   else:
+    newpart = '{%' + part + '%}'
+    newparts.append(newpart)
+  z = ''.join(newparts)
+  return z
+ newline = re.sub(r'{%([^%]*[,;][^%]*)%}',f,line)
+ return reason,newline
+
 def change15(line):
  reason = ''
  newline = line.replace(r'{%ad. <ab>loc.</ab>%}','{%ad <ab>loc.</ab>%}')
@@ -137,6 +171,48 @@ def change17(line):
  newline = re.sub(r'([^.ā]) ([PA][.]) ',r'\1 <ab>\2</ab> ',line)
  return reason,newline
 
+def change18(line):
+ reason = ''
+ if '{@' not in line:
+  return reason,line
+ changes = [
+  ('{@--2.@}' , '{@--2@}'), # 67
+  ('{@--3.@}' , '{@--3@}'), # 16
+  ('{@1.@}' , '{@1@}'), # 51
+  ('{@2@}' , '{@--2@}'), # 24
+  ('{@--Comp@}' , '{@--Comp.@}'), # 57
+  ('{@--Cmop.@}' , '{@--Comp.@}'), # 1
+  ('{@Comp.@}' , '{@--Comp.@}'), # 6
+  ('{@--6.@}' , '{@--6@}'), # 2
+  ('{@1,@}' , '{@1@}'), # 1
+  ('{@10@}' , '{@--10@}'), # 1
+  ('{@6@}' , '{@--6@}'), # 3
+  ('{@5@}' , '{@--5@}'), # 3
+  ('{@4@}' , '{@--4@}'), # 5
+  ('{@--12.@}' , '{@--12@}'), # 1
+  ('{@7@}' , '{@--7@}'), # 2
+  ('{@--9,@}' , '{@--9@}'), # 1
+  ('{@3@}' , '{@--3@}'), # 3
+  ('{@9@}' , '{@--9@}'), # 2
+  ('{@--II.@}' , '-II.'), # 1
+  ('{@--5.@}' , '{@--5@}'), # 2
+  ('{@--7.@}' , '{@--7@}'), # 1
+  ('{@--8.@}' , '{@--8@}'), # 3
+  ('{@--10.@}' , '{@--10@}'), # 1
+  ('{@--4.@}' , '{@--4@}'), # 1
+  ('{@--9.@}' , '{@--9@}'), # 1
+  ('{@--COMP.@}' , '{@--Comp.@}'), # 2
+  ('{@1;@}' , '{@1@}'), # 2
+  ('{@=4@}' , '{@--4@}'), # 1
+  ('{@--Comp,@}' , '{@--Comp.@}'), # 1
+  ('{@--21.@}' , '{@--21@}'), # 1
+   ('{@--1@}' , '{@1@}'), # 127
+ ]
+ newline = line
+ for old,new in changes:
+  newline = newline.replace(old,new)
+ return reason,newline
+
 def reasons_update(reasons,reason):
  if reason not in reasons:
   reasons[reason] = 0
@@ -146,7 +222,7 @@ def init_changes(lines):
  changes = [] # array of Change objects
  metaline = None
  page = None
- change_fcns = [change16a]
+ change_fcns = [change18]
  line1_fcns = [change16a]
  reasons = {} # counts
  for iline,line in enumerate(lines):
