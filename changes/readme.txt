@@ -94,6 +94,15 @@ python change_misc1_02.py ap90.txt changes_03_02.txt
 
 python change_misc1_02.py ap90_2.txt changes_03_03.txt
  regularize bold text.  390 changes
- 
+
+changes_03_04.txt  Bold markup for first section: {@1@}  600+
+changes_03_05.txt  No bold markup AFTER {@--Comp.@}  155 cases
+  Also, 5 'double' {@--Comp.@} e.g. L=3946, ayAta  Removed 2nd
+changes_03_06.txt  ;{@1@} as last BOLD markup. 115 cases  {@1@} removed
+changes_03_07.txt Further correct {@1@} anomalies
+  a-  @1@ not followed by @2@
+
+python make_change1.py ap90.txt ap90_04e_err.txt changes_03_08.txt
+
 python updateByLine.py ap90_2.txt changes_03.txt ap90.txt
 

@@ -36,6 +36,22 @@ Also begins use of an Ap90Parser class to 'rewrite'.
 python ap90_03d.py ../changes/ap90.txt temp_ap90_parse_03d.txt
 
 python ap90_04a.py ../changes/ap90.txt temp_ap90_parse_04a.txt
-# work on entry sections
+# work on entry sections.  Check initial BOLD {@1@}
 # Use Ap90Lexer class of ap90lexer1c.py
 
+python ap90_04b.py ../changes/ap90.txt temp_ap90_parse_04b.txt
+# work on entry sections.  
+# Use Ap90Lexer class of ap90lexer1c.py
+  Check {@--Comp.@} occurs only as last bold item
+   155 errors
+   The subsections after Comp should not be BOLD.
+
+python ap90_04c.py ../changes/ap90.txt temp_ap90_parse_04c.txt
+ {@1@} as last BOLD markup.  Remove {@1@}.
+
+python ap90_04d.py ../changes/ap90.txt temp_ap90_parse_04d.txt
+ Check that any bold {@1@} is followed by {@--2@}, 
+
+python ap90_04e.py ../changes/ap90.txt temp_ap90_parse_04e.txt
+ Check that {@--n@} is followed by either {@--Comp.@} or by {@--m@}, where
+   m == n+1
