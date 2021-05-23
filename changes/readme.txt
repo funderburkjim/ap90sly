@@ -106,3 +106,15 @@ python make_change1.py ap90.txt ap90_04e_err.txt changes_03_08.txt
 
 python updateByLine.py ap90_2.txt changes_03.txt ap90.txt
 
+# handle multiple changes within changes_03, so final results easier to interpret.
+python simplify_changes.py changes_03.txt changes_03_rev.txt
+143 duplicates (lines changed more than once in changes_03.txt).
+# check
+# 1. apply changes_03_rev
+python updateByLine.py ap90_2.txt changes_03_rev.txt ap90_rev.txt
+# 2. confirm ap90.txt and ap90_rev.txt are the same
+diff ap90.txt ap90_rev.txt | wc -l
+0  # there are no differences, as desired
+# ap90_rev.txt no long needed.
+rm ap90_rev.txt
+
