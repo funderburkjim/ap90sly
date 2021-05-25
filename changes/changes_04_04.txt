@@ -1,0 +1,844 @@
+; <L>117<pc>0005-c<k1>akz<k2>akz
+1898 old {#akz#}¦ 1. 5. <ab>P.</ab> [{#akzati, akzRoti,#} <lbinfo n="Ana#kza"/>
+1898 new {#akz#}¦ {©1.©} {©5.©} <ab>P.</ab> [{#akzati, akzRoti,#} <lbinfo n="Ana#kza"/>
+;
+; <L>1787<pc>0076-c<k1>anuBf<k2>anuBf
+17843 old {#anuBf#}¦ 1. 3. <ab>P.</ab> To praise <lbinfo n="conform+ably"/>
+17843 new {#anuBf#}¦ {©1.©} {©3.©} <ab>P.</ab> To praise <lbinfo n="conform+ably"/>
+;
+; <L>2271<pc>0104-b<k1>apakF<k2>apakF
+23571 old {#apakF#}¦ 6. <ab>P.</ab> {@1@} To scatter, spout out
+23571 new {#apakF#}¦ {©6.©} <ab>P.</ab> {@1@} To scatter, spout out
+;
+; <L>2282<pc>0104-c<k1>apakzi<k2>apakzi
+23637 old {#apakzi#}¦ 1. 5. 9. <ab>P.</ab> To bring to
+23637 new {#apakzi#}¦ {©1.©} {©5.©} {©9.©} <ab>P.</ab> To bring to
+;
+; <L>2446<pc>0110-a<k1>aparAD<k2>aparAD
+24877 old {#aparAD#}¦ 4. 5. <ab>P.</ab> {@1@} To offend, wrong,
+24877 new {#aparAD#}¦ {©4.©} {©5.©} <ab>P.</ab> {@1@} To offend, wrong,
+;
+; <L>3176<pc>0133-a<k1>aBipF<k2>aBipF
+30331 old {#aBipF#}¦ 3. 9. <ab>P.</ab> To fill. {%--<ab>pass.</ab>%} To
+30331 new {#aBipF#}¦ {©3.©} {©9.©} <ab>P.</ab> To fill. {%--<ab>pass.</ab>%} To
+;
+; <L>3297<pc>0137-b<k1>aBilaMG<k2>aBilaMG
+31271 old {#aBilaMG#}¦ 1. 10. <ab>P.</ab> {@1@} To jump
+31271 new {#aBilaMG#}¦ 1. 1{©0.©} <ab>P.</ab> {@1@} To jump
+;
+; <L>3301<pc>0137-b<k1>aBilaz<k2>aBilaz
+31296 old {#aBilaz#}¦ 1. 4. <ab>P.</ab> To desire or
+31296 new {#aBilaz#}¦ {©1.©} {©4.©} <ab>P.</ab> To desire or
+;
+; <L>3587<pc>0144-b<k1>aByarc<k2>aByarc
+33082 old {#aByarc#}¦ 1. 10. <ab>P.</ab> {@1@} To honour,
+33082 new {#aByarc#}¦ 1. 1{©0.©} <ab>P.</ab> {@1@} To honour,
+;
+; <L>3597<pc>0144-c<k1>aByarh<k2>aByarh
+33139 old {#aByarh#}¦ 1. 10. <ab>P.</ab> To salute,
+33139 new {#aByarh#}¦ 1. 1{©0.©} <ab>P.</ab> To salute,
+;
+; <L>3678<pc>0146-c<k1>aByukz<k2>aByukz
+33643 old {#aByukz#}¦ 1. 6. <ab>U.</ab> To sprinkle over.
+33643 new {#aByukz#}¦ {©1.©} {©6.©} <ab>U.</ab> To sprinkle over.
+;
+; <L>4352<pc>0175-c<k1>avakAS<k2>avakAS
+40036 old {#avakAS#}¦ 1. 4. <ab>A.</ab> To be visible,
+40036 new {#avakAS#}¦ {©1.©} {©4.©} <ab>A.</ab> To be visible,
+;
+; <L>4404<pc>0176-c<k1>avakzi<k2>avakzi
+40345 old {#avakzi#}¦ 1. 5. 9. <ab>P.</ab> To remove,
+40345 new {#avakzi#}¦ {©1.©} {©5.©} {©9.©} <ab>P.</ab> To remove,
+;
+; <L>4834<pc>0189-b<k1>avazwaMB<k2>avazwaMB
+43369 old {#avazwaMB#}¦ 5. 9. <ab>P.</ab> {@1@} To lean or
+43369 new {#avazwaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> {@1@} To lean or
+;
+; <L>5821<pc>0224-b<k1>Akzi<k2>Akzi
+51369 old {#Akzi#}¦ 2. 6. <ab>P.</ab> <ab>Ved.</ab> {@1@} To abide,
+51369 new {#Akzi#}¦ {©2.©} {©6.©} <ab>P.</ab> <ab>Ved.</ab> {@1@} To abide,
+;
+; <L>6231<pc>0239-c<k1>ADf<k2>ADf
+54874 old {#ADf#}¦ 1. 10. <ab>P.</ab> {@1@} ({%a%}) To hold,
+54874 new {#ADf#}¦ 1. 1{©0.©} <ab>P.</ab> {@1@} ({%a%}) To hold,
+;
+; <L>6724<pc>0254-a<k1>ArAD<k2>ArAD
+58306 old {#ArAD#}¦ 5. 10. <ab>P.</ab> {@1@} To propitiate,
+58306 new {#ArAD#}¦ 5. 1{©0.©} <ab>P.</ab> {@1@} To propitiate,
+;
+; <L>6968<pc>0261-c<k1>Avf<k2>Avf
+60096 old {#Avf#}¦ 5. 9. 10. <ab>U.</ab> {@1@} To cover, hide,
+60096 new {#Avf#}¦ 5. 9. 1{©0.©} <ab>U.</ab> {@1@} To cover, hide,
+;
+; <L>7180<pc>0269-c<k1>Astf<k2>Astf --stF
+61900 old {#Astf --stF#}¦ 5. 9. <ab>U.</ab> To spread
+61900 new {#Astf --stF#}¦ {©5.©} {©9.©} <ab>U.</ab> To spread
+;
+; <L>7354<pc>0276-c<k1>in<k2>in
+63396 old {#in#}¦ 6. 8. <ab>P.</ab> <ab>Ved.</ab> {@1@} To go. {@--2@} To
+63396 new {#in#}¦ {©6.©} {©8.©} <ab>P.</ab> <ab>Ved.</ab> {@1@} To go. {@--2@} To
+;
+; <L>7556<pc>0285-a<k1>ukz<k2>ukz
+65277 old {#ukz#}¦ 1. 6. <ab>U.</ab> ({#ukzati, ukzAMcakAra,#}
+65277 new {#ukz#}¦ {©1.©} {©6.©} <ab>U.</ab> ({#ukzati, ukzAMcakAra,#}
+;
+; <L>7695<pc>0289-c<k1>uqqI<k2>uqqI
+66303 old {#uqqI#}¦ 1. 4. <ab>A.</ab> To fly up, soar.
+66303 new {#uqqI#}¦ {©1.©} {©4.©} <ab>A.</ab> To fly up, soar.
+;
+; <L>7826<pc>0293-c<k1>uttaMB<k2>uttaMB
+67245 old {#uttaMB#}¦ 5. 9. <ab>P.</ab> [{#ud-staMB#}] To
+67245 new {#uttaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> [{#ud-staMB#}] To
+;
+; <L>7866<pc>0296-a<k1>uttras<k2>uttras
+67718 old {#uttras#}¦ 1. 4. <ab>P.</ab> To be afraid.
+67718 new {#uttras#}¦ {©1.©} {©4.©} <ab>P.</ab> To be afraid.
+;
+; <L>8116<pc>0306-a<k1>udgraMT<k2>udgraMT
+69946 old {#udgraMT#}¦ 1. 9. <ab>U.</ab> {@1@} To bind up, tie
+69946 new {#udgraMT#}¦ {©1.©} {©9.©} <ab>U.</ab> {@1@} To bind up, tie
+;
+; <L>8192<pc>0308-b<k1>udDU<k2>udDU
+70491 old {#udDU#}¦ 5. 9. <ab>U.</ab> {@1@} To shake, move up,
+70491 new {#udDU#}¦ {©5.©} {©9.©} <ab>U.</ab> {@1@} To shake, move up,
+;
+; <L>8240<pc>0310-a<k1>udBram<k2>udBram
+70876 old {#udBram#}¦ 1. 4. <ab>P.</ab> To wander, roam
+70876 new {#udBram#}¦ {©1.©} {©4.©} <ab>P.</ab> To wander, roam
+;
+; <L>8312<pc>0312-a<k1>udvIj<k2>udvIj
+71355 old {#udvIj#}¦ 10. <ab>P.</ab> {@1@} To fan. {@--2@} To blow
+71355 new {#udvIj#}¦ 1{©0.©} <ab>P.</ab> {@1@} To fan. {@--2@} To blow
+;
+; <L>8334<pc>0312-c<k1>uDras<k2>uDras
+71501 old {#uDras#}¦ 9. 10. <ab>P.</ab> ({#uDrasnAti#}, <lbinfo n="uDrAsa#yati"/>
+71501 new {#uDras#}¦ 9. 1{©0.©} <ab>P.</ab> ({#uDrasnAti#}, <lbinfo n="uDrAsa#yati"/>
+;
+; <L>8367<pc>0313-c<k1>unmaT<k2>unmaT, unmaMT
+71733 old {#unmaT, unmaMT#}¦ 1. 9. <ab>P.</ab> {@1@} To
+71733 new {#unmaT, unmaMT#}¦ {©1.©} {©9.©} <ab>P.</ab> {@1@} To
+;
+; <L>8471<pc>0317-a<k1>upakzi<k2>upakzi
+72535 old <>disappear. {@--2@} (2. 6. <ab>P.</ab>) To dwell near
+72535 new <>disappear. {@--2@} ({©2.©} {©6.©} <ab>P.</ab>) To dwell near
+;
+; <L>8508<pc>0318-b<k1>upaGuz<k2>upaGuz
+72811 old {#upaGuz#}¦ 1. 10. <ab>P.</ab> To fill with
+72811 new {#upaGuz#}¦ 1. 1{©0.©} <ab>P.</ab> To fill with
+;
+; <L>8632<pc>0322-c<k1>upaDf<k2>upaDf
+73789 old {#upaDf#}¦ 1. 10. <ab>P.</ab> {@1@} To hold up,
+73789 new {#upaDf#}¦ 1. 1{©0.©} <ab>P.</ab> {@1@} To hold up,
+;
+; <L>8752<pc>0326-b<k1>upamA<k2>upamA
+74663 old {#upamA#}¦ {©2©} <ab>P.</ab>, 3. 4. <ab>A.</ab> {@1@} To <lbinfo n="com+pare"/>
+74663 new {#upamA#}¦ {©2©} <ab>P.</ab>, {©3.©} {©4.©} <ab>A.</ab> {@1@} To <lbinfo n="com+pare"/>
+;
+; <L>9003<pc>0334-a<k1>upastaMB<k2>upastaMB
+76429 old {#upastaMB#}¦ 5. 9. <ab>P.</ab> To prop, <lbinfo n="sup+port"/>
+76429 new {#upastaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> To prop, <lbinfo n="sup+port"/>
+;
+; <L>9011<pc>0334-a<k1>upastf<k2>upastf, --stF
+76462 old {#upastf, --stF#}¦ 5. 9. <ab>U.</ab> {@1@} To spread
+76462 new {#upastf, --stF#}¦ {©5.©} {©9.©} <ab>U.</ab> {@1@} To spread
+;
+; <L>9173<pc>0339-c<k1>uB<k2>uB, uMB
+77722 old {#uB, uMB#}¦ 6. 9. 7. <ab>P.</ab> ({#uBati#} or  <lbinfo n="uMBa#ti"/>
+77722 new {#uB, uMB#}¦ {©6.©} {©9.©} {©7.©} <ab>P.</ab> ({#uBati#} or  <lbinfo n="uMBa#ti"/>
+;
+; <L>9225<pc>0341-b<k1>urj<k2>urj
+78127 old {#urj#}¦ 1. 10. <ab>P.</ab> To leave.
+78127 new {#urj#}¦ 1. 1{©0.©} <ab>P.</ab> To leave.
+;
+; <L>9479<pc>0350-a<k1>fD<k2>fD
+80057 old {#fD#}¦ 4. 5. <ab>P.</ab> ({#fDyati, fDnoti,#}
+80057 new {#fD#}¦ {©4.©} {©5.©} <ab>P.</ab> ({#fDyati, fDnoti,#}
+;
+; <L>9704<pc>0360-a<k1>oj<k2>oj
+82150 old {#oj#}¦ 1. 10. <ab>U.</ab> ({#ojati, ojayati,#}
+82150 new {#oj#}¦ 1. 1{©0.©} <ab>U.</ab> ({#ojati, ojayati,#}
+;
+; <L>10112<pc>0371-c<k1>kaMW<k2>kaMW
+84880 old {#kaMW#}¦ 1. 10. <ab>U.</ab> ({#kaMWati-te, kaMWayati-te,#} <lbinfo n="kaM#Wita"/>
+84880 new {#kaMW#}¦ 1. 1{©0.©} <ab>U.</ab> ({#kaMWati-te, kaMWayati-te,#} <lbinfo n="kaM#Wita"/>
+;
+; <L>10289<pc>0378-b<k1>kam<k2>kam
+86329 old {#kam#}¦ 1. 10. <ab>A.</ab> ({#kAmayate, kAmita,#} <lbinfo n="caka#Be"/>
+86329 new {#kam#}¦ 1. 1{©0.©} <ab>A.</ab> ({#kAmayate, kAmita,#} <lbinfo n="caka#Be"/>
+;
+; <L>10856<pc>0401-b<k1>kAS<k2>kAS
+91413 old {#kAS#}¦ 1. 4. <ab>A.</ab> ({#kASa-Sya-te, kASita#})
+91413 new {#kAS#}¦ {©1.©} {©4.©} <ab>A.</ab> ({#kASa-Sya-te, kASita#})
+;
+; <L>10987<pc>0406-a<k1>kuMS<k2>kuMS(s)
+92491 old {#kuMS(s)#}¦ 1. 10. <ab>P.</ab> {@1@} To shine.
+92491 new {#kuMS(s)#}¦ 1. 1{©0.©} <ab>P.</ab> {@1@} To shine.
+;
+; <L>11128<pc>0409-c<k1>kuMT<k2>kuMT
+93342 old {#kuMT#}¦ 1. 9. <ab>P.</ab> ({#kuMTati, kuTnAti,#} <lbinfo n="kuMTi#ta"/>
+93342 new {#kuMT#}¦ {©1.©} {©9.©} <ab>P.</ab> ({#kuMTati, kuTnAti,#} <lbinfo n="kuMTi#ta"/>
+;
+; <L>11134<pc>0409-c<k1>kup<k2>kup
+93374 old {#kup#}¦ I. 4. <ab>P.</ab> ({#kupyati, cukopa, akupat,#}
+93374 new {#kup#}¦ I. {©4.©} <ab>P.</ab> ({#kupyati, cukopa, akupat,#}
+;
+; <L>11325<pc>0415-c<k1>kUj<k2>kUj
+94757 old {#kUj#}¦ 1. <ab>P.</ab> ({#kUjati, kUjita#}) {@1@} To
+94757 new {#kUj#}¦ {©1.©} <ab>P.</ab> ({#kUjati, kUjita#}) {@1@} To
+;
+; <L>11677<pc>0429-b<k1>knaT<k2>knaT
+97811 old {#knaT#}¦ 1. 10. <ab>P.</ab> To hurt, injure,
+97811 new {#knaT#}¦ 1. 1{©0.©} <ab>P.</ab> To hurt, injure,
+;
+; <L>11678<pc>0429-b<k1>knas<k2>knas
+97815 old {#knas#}¦ 4. 10. <ab>P.</ab> {@1@} To be crooked.
+97815 new {#knas#}¦ 4. 1{©0.©} <ab>P.</ab> {@1@} To be crooked.
+;
+; <L>11717<pc>0431-b<k1>krI<k2>krI
+98224 old {#krI#}¦ 9. <ab>U.</ab> ({#krIRAti, krIRIte, krIta#}) {@1@}
+98224 new {#krI#}¦ {©9.©} <ab>U.</ab> ({#krIRAti, krIRIte, krIta#}) {@1@}
+;
+; <L>11768<pc>0432-c<k1>klaT<k2>klaT
+98592 old {#klaT#}¦ 1. 9. <ab>P.</ab> {@1@} To kill, hurt. {@--2@}
+98592 new {#klaT#}¦ {©1.©} {©9.©} <ab>P.</ab> {@1@} To kill, hurt. {@--2@}
+;
+; <L>11770<pc>0433-a<k1>klam<k2>klam
+98603 old {#klam#}¦ 1. 4. <ab>P.</ab> ({#klAmati, klAmyati, klAMta#})
+98603 new {#klam#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#klAmati, klAmyati, klAMta#})
+;
+; <L>11878<pc>0436-a<k1>kzi<k2>kzi
+99385 old <>9. <ab>P.</ab> ({#kzayati, kziRoti, kziRAti#}) {@1@} To
+99385 new <>{©9.©} <ab>P.</ab> ({#kzayati, kziRoti, kziRAti#}) {@1@} To
+;
+; <L>11915<pc>0437-c<k1>kziv<k2>kziv
+99717 old {#kziv#}¦ 1. 4. <ab>P.</ab> ({#kzevati#} or {#kzIvyati#}) To
+99717 new {#kziv#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#kzevati#} or {#kzIvyati#}) To
+;
+; <L>11926<pc>0438-a<k1>kzIv<k2>kzIv
+99805 old {#kzIv#}¦ 1. 4. <ab>P.</ab> [{#kzIvati, kzIvyati#}] {@1@}
+99805 new {#kzIv#}¦ {©1.©} {©4.©} <ab>P.</ab> [{#kzIvati, kzIvyati#}] {@1@}
+;
+; <L>11955<pc>0438-c<k1>kzuB<k2>kzuB
+99984 old {#kzuB#}¦ {©1©} <ab>A.</ab>, 4. 9. <ab>P.</ab> ({#kzoBate#}, <lbinfo n="kzuBya#ti"/>
+99984 new {#kzuB#}¦ {©1©} <ab>A.</ab>, {©4.©} {©9.©} <ab>P.</ab> ({#kzoBate#}, <lbinfo n="kzuBya#ti"/>
+;
+; <L>12017<pc>0441-a<k1>Kac<k2>Kac
+100488 old {#Kac#}¦ I. 1. 9. <ab>P.</ab> ({#Kacati, KacnAti,#} <lbinfo n="Kaci#ta"/>
+100488 new {#Kac#}¦ I. {©1.©} {©9.©} <ab>P.</ab> ({#Kacati, KacnAti,#} <lbinfo n="Kaci#ta"/>
+;
+; <L>12385<pc>0454-c<k1>garh<k2>garh
+103535 old {#garh#}¦ 1. 10. <ab>A.</ab> (sometimes <ab>P.</ab>
+103535 new {#garh#}¦ 1. 1{©0.©} <ab>A.</ab> (sometimes <ab>P.</ab>
+;
+; <L>12592<pc>0462-b<k1>guMdr<k2>guMdr
+105236 old {#guMdr#}¦ 10. <ab>P.</ab> ({#guMdrayati#}) To lie.
+105236 new {#guMdr#}¦ 1{©0.©} <ab>P.</ab> ({#guMdrayati#}) To lie.
+;
+; <L>12775<pc>0471-a<k1>graMT<k2>graMT
+107089 old {#graMT#}¦ 1. 9. <ab>P.</ab>, {©10©} <ab>U.</ab>, {©1©} <ab>A.</ab> ({#graMTati#},
+107089 new {#graMT#}¦ {©1.©} {©9.©} <ab>P.</ab>, {©10©} <ab>U.</ab>, {©1©} <ab>A.</ab> ({#graMTati#},
+;
+; <L>12869<pc>0476-a<k1>GaMw<k2>GaMw
+108102 old {#GaMw#}¦ 1. 10. <ab>P.</ab> ({#GaMwati, GaMwayati#}) {@1@}
+108102 new {#GaMw#}¦ 1. 1{©0.©} <ab>P.</ab> ({#GaMwati, GaMwayati#}) {@1@}
+;
+; <L>12891<pc>0477-b<k1>Gas<k2>Gas
+108338 old {#Gas#}¦ 1. 2. <ab>P.</ab> ({#Gasati, Gasti, Gasta#})
+108338 new {#Gas#}¦ {©1.©} {©2.©} <ab>P.</ab> ({#Gasati, Gasti, Gasta#})
+;
+; <L>13070<pc>0484-a<k1>can<k2>can
+109837 old {#can#}¦ 1. 6. <ab>P.</ab> [{#canati#}] {@1@} To sound,
+109837 new {#can#}¦ {©1.©} {©6.©} <ab>P.</ab> [{#canati#}] {@1@} To sound,
+;
+; <L>13140<pc>0487-a<k1>carc<k2>carc
+110507 old {#carc#}¦ I. 10. <ab>U.</ab> ({#carvayati-te carcita#}).
+110507 new {#carc#}¦ I. 1{©0.©} <ab>U.</ab> ({#carvayati-te carcita#}).
+;
+; <L>13384<pc>0495-c<k1>cIk<k2>cIk
+112452 old {#cIk#}¦ 1. 10. <ab>P.</ab> ({#cIkati, cIkayati#})
+112452 new {#cIk#}¦ 1. 1{©0.©} <ab>P.</ab> ({#cIkati, cIkayati#})
+;
+; <L>13411<pc>0496-b<k1>cuw<k2>cuw
+112609 old {#cuw#}¦ I. 6. 10. <ab>P.</ab> ({#cuwati, cowayati#})
+112609 new {#cuw#}¦ I. 6. 1{©0.©} <ab>P.</ab> ({#cuwati, cowayati#})
+;
+; <L>13411<pc>0496-b<k1>cuw<k2>cuw
+112610 old <>To cut off, divide. --II. 1. 10. <ab>P.</ab>
+112610 new <>To cut off, divide. --II. 1. 1{©0.©} <ab>P.</ab>
+;
+; <L>13415<pc>0496-b<k1>cuR<k2>cuR
+112628 old {#cuR#}¦ 6. <ab>P.</ab> ({#cuRati#}) To cut off,
+112628 new {#cuR#}¦ {©6.©} <ab>P.</ab> ({#cuRati#}) To cut off,
+;
+; <L>13416<pc>0496-b<k1>cuMw<k2>cuMw
+112632 old {#cuMw#}¦ I. 1. 10. <ab>P.</ab> ({#cuMwati, cuMwayati#}) To
+112632 new {#cuMw#}¦ I. 1. 1{©0.©} <ab>P.</ab> ({#cuMwati, cuMwayati#}) To
+;
+; <L>13416<pc>0496-b<k1>cuMw<k2>cuMw
+112633 old <>cut off. --II. 1. <ab>P.</ab> To become small.
+112633 new <>cut off. --II. {©1.©} <ab>P.</ab> To become small.
+;
+; <L>13433<pc>0496-c<k1>cuMb<k2>cuMb
+112727 old {#cuMb#}¦ I. 1. 10. <ab>U.</ab> ({#cuMbati-te, cuMbayati-te,#}
+112727 new {#cuMb#}¦ I. 1. 1{©0.©} <ab>U.</ab> ({#cuMbati-te, cuMbayati-te,#}
+;
+; <L>13581<pc>0500-c<k1>CaMp<k2>CaMp
+113638 old {#CaMp#}¦ 1. 10. <ab>P.</ab> ({#CaMpati, CaMpayati#}) To
+113638 new {#CaMp#}¦ 1. 1{©0.©} <ab>P.</ab> ({#CaMpati, CaMpayati#}) To
+;
+; <L>13638<pc>0502-b<k1>Cuw<k2>Cuw
+114051 old {#Cuw#}¦ 6. 10. <ab>P.</ab> ({#Cuwati, Cowayati#}) To
+114051 new {#Cuw#}¦ 6. 1{©0.©} <ab>P.</ab> ({#Cuwati, Cowayati#}) To
+;
+; <L>13796<pc>0508-b<k1>jarc<k2>jarc
+115362 old {#jarc rC, rj#}¦ 1. 6. <ab>P.</ab> {@1@} To say,
+115362 new {#jarc rC, rj#}¦ {©1.©} {©6.©} <ab>P.</ab> {@1@} To say,
+;
+; <L>13833<pc>0510-a<k1>jas<k2>jas
+115760 old <>tired. {@--3@} To go. --II. 1. 10. <ab>P.</ab>
+115760 new <>tired. {@--3@} To go. --II. 1. 1{©0.©} <ab>P.</ab>
+;
+; <L>14008<pc>0516-b<k1>jur<k2>jur
+117215 old {#jur#}¦ 6. 4. <ab>P.</ab> ({#jurati, jUryati#}) <ab>Ved.</ab>
+117215 new {#jur#}¦ {©6.©} {©4.©} <ab>P.</ab> ({#jurati, jUryati#}) <ab>Ved.</ab>
+;
+; <L>14045<pc>0517-b<k1>jF<k2>jF
+117454 old {#jF#}¦ I. 1. 4. 9. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#jarati, jIryati,#}
+117454 new {#jF#}¦ I. {©1.©} {©4.©} {©9.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#jarati, jIryati,#}
+;
+; <L>14184<pc>0521-c<k1>JF<k2>JF
+118418 old {#JF#}¦ 4. 9. <ab>P.</ab> ({#JIryati#} or {#JfRAti#}) To
+118418 new {#JF#}¦ {©4.©} {©9.©} <ab>P.</ab> ({#JIryati#} or {#JfRAti#}) To
+;
+; <L>14250<pc>0523-b<k1>qip<k2>qip, --qiMp
+118749 old <>heap together. --II. 4. 6. 10. <ab>P.</ab> ({#qipyati#},
+118749 new <>heap together. --II. 4. 6. 1{©0.©} <ab>P.</ab> ({#qipyati#},
+;
+; <L>14257<pc>0523-c<k1>qI<k2>qI
+118791 old {#qI#}¦ 1. 4. <ab>A.</ab> ({#qayate, qIyate, qiqye,#}
+118791 new {#qI#}¦ {©1.©} {©4.©} <ab>A.</ab> ({#qayate, qIyate, qiqye,#}
+;
+; <L>14280<pc>0525-a<k1>tak<k2>tak
+118926 old {#tak#}¦ 1. 2. <ab>P.</ab> <ab>Ved.</ab> ({#takati, takti#}) {@1@}
+118926 new {#tak#}¦ {©1.©} {©2.©} <ab>P.</ab> <ab>Ved.</ab> ({#takati, takti#}) {@1@}
+;
+; <L>14287<pc>0525-a<k1>takz<k2>takz
+118956 old {#takz#}¦ 1. 5. <ab>P.</ab> ({#takzati, takzRoti, tazwa#})
+118956 new {#takz#}¦ {©1.©} {©5.©} <ab>P.</ab> ({#takzati, takzRoti, tazwa#})
+;
+; <L>14391<pc>0530-a<k1>tap<k2>tap
+119993 old {#tap#}¦ I. {©1©} <ab>P.</ab> rarely A., 4. <ab>P.</ab> ({#tapati#},
+119993 new {#tap#}¦ I. {©1©} <ab>P.</ab> rarely A., {©4.©} <ab>P.</ab> ({#tapati#},
+;
+; <L>14744<pc>0541-a<k1>tuw<k2>tuw
+122582 old {#tuw#}¦ 6. <ab>P.</ab> ({#tuwati#}) {@1@} To dispute,
+122582 new {#tuw#}¦ {©6.©} <ab>P.</ab> ({#tuwati#}) {@1@} To dispute,
+;
+; <L>14747<pc>0541-a<k1>tuq<k2>tuq
+122592 old {#tuq#}¦ 1. 6. <ab>P.</ab> ({#toqati, tuqati#}) {@1@} To
+122592 new {#tuq#}¦ {©1.©} {©6.©} <ab>P.</ab> ({#toqati, tuqati#}) {@1@} To
+;
+; <L>14773<pc>0541-b<k1>tup<k2>tup, --tuMp, --tuMPa
+122724 old {#tup, --tuMp, --tuMPa#}¦ 1. 6. <ab>P.</ab> ({#topati#}, <lbinfo n="tupa#ti"/>
+122724 new {#tup, --tuMp, --tuMPa#}¦ {©1.©} {©6.©} <ab>P.</ab> ({#topati#}, <lbinfo n="tupa#ti"/>
+;
+; <L>14774<pc>0541-b<k1>tuB<k2>tuB
+122728 old {#tuB#}¦ 4. 9. <ab>P.</ab> ({#tuByati, tuBnAti#}) To
+122728 new {#tuB#}¦ {©4.©} {©9.©} <ab>P.</ab> ({#tuByati, tuBnAti#}) To
+;
+; <L>14883<pc>0544-c<k1>tfp<k2>tfp
+123471 old {#tfp#}¦ I. 4. 5. 6. <ab>P.</ab> ({#tfpyati, tfpnoti,#}
+123471 new {#tfp#}¦ I. {©4.©} {©5.©} {©6.©} <ab>P.</ab> ({#tfpyati, tfpnoti,#}
+;
+; <L>15012<pc>0548-b<k1>tras<k2>tras
+124355 old {#tras#}¦ I. 1. 4. <ab>P.</ab> ({#trasati, trasyati,#}
+124355 new {#tras#}¦ I. {©1.©} {©4.©} <ab>P.</ab> ({#trasati, trasyati,#}
+;
+; <L>15033<pc>0551-b<k1>truw<k2>truw
+124928 old {#truw#}¦ 4. 6. <ab>P.</ab> ({#truwyati, truwati, truwita#})
+124928 new {#truw#}¦ {©4.©} {©6.©} <ab>P.</ab> ({#truwyati, truwati, truwita#})
+;
+; <L>15115<pc>0553-1<k1>daMS<k2>daMS
+125374 old {#daMS#}¦ I. 1. <ab>P.</ab> ({#daSati, dazwa#}; {%<ab>desid.</ab>%}  <lbinfo n="di#daMkzati"/>
+125374 new {#daMS#}¦ I. {©1.©} <ab>P.</ab> ({#daSati, dazwa#}; {%<ab>desid.</ab>%}  <lbinfo n="di#daMkzati"/>
+;
+; <L>15189<pc>0557-a<k1>daB<k2>daB, daMB
+126198 old {#daB, daMB#}¦ I. 1. 5. <ab>P.</ab> ({#daBati#} or
+126198 new {#daB, daMB#}¦ I. {©1.©} {©5.©} <ab>P.</ab> ({#daBati#} or
+;
+; <L>15299<pc>0561-a<k1>dA<k2>dA
+127114 old <>2. <ab>P.</ab> ({#dAti#},) To cut; {#dadAti#} <lbinfo n="dra#viRaM"/>
+127114 new <>{©2.©} <ab>P.</ab> ({#dAti#},) To cut; {#dadAti#} <lbinfo n="dra#viRaM"/>
+;
+; <L>15299<pc>0561-a<k1>dA<k2>dA
+127116 old <>4. <ab>P.</ab> ({#dAyati#}) To bind (?). --IV.
+127116 new <>{©4.©} <ab>P.</ab> ({#dAyati#}) To bind (?). --IV.
+;
+; <L>15394<pc>0564-a<k1>dAS<k2>dAS
+127810 old {#dAS#}¦ I. 1. 10. <ab>U.</ab> ({#dASati-te#}, <lbinfo n="dASa#yati"/>
+127810 new {#dAS#}¦ I. 1. 1{©0.©} <ab>U.</ab> ({#dASati-te#}, <lbinfo n="dASa#yati"/>
+;
+; <L>15591<pc>0576-b<k1>dfB<k2>dfB
+130310 old {#dfB#}¦ I. 1. 6. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#darBati#}, <lbinfo n="dfBa#ti"/>
+130310 new {#dfB#}¦ I. {©1.©} {©6.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#darBati#}, <lbinfo n="dfBa#ti"/>
+;
+; <L>15620<pc>0578-a<k1>dF<k2>dF
+130656 old {#dF#}¦ I. 4. 9. <ab>P.</ab> ({#dIryaMti, dfRAti, dIrRa#})
+130656 new {#dF#}¦ I. {©4.©} {©9.©} <ab>P.</ab> ({#dIryaMti, dfRAti, dIrRa#})
+;
+; <L>15821<pc>0585-b<k1>druq<k2>druq
+132346 old {#druq#}¦ 1. 6. <ab>P.</ab> ({#droqati, druqati#}) To
+132346 new {#druq#}¦ {©1.©} {©6.©} <ab>P.</ab> ({#droqati, druqati#}) To
+;
+; <L>15840<pc>0586-a<k1>drU<k2>drU
+132477 old {#drU#}¦ 5. 9. <ab>P.</ab> ({#drURo-RA-ti#},) {@1@} To hurt,
+132477 new {#drU#}¦ {©5.©} {©9.©} <ab>P.</ab> ({#drURo-RA-ti#},) {@1@} To hurt,
+;
+; <L>15873<pc>0588-c<k1>dvitIyAkf<k2>dvitIyAkf
+133044 old {#dvitIyAkf#}¦ 8. <ab>U.</ab> To plough twice.
+133044 new {#dvitIyAkf#}¦ {©8.©} <ab>U.</ab> To plough twice.
+;
+; <L>15882<pc>0589-a<k1>dviz<k2>dviz
+133102 old {#dviz#}¦ 2. <ab>U.</ab> ({#dvezwi, dvizwe; dvizwa#}) To
+133102 new {#dviz#}¦ {©2.©} <ab>U.</ab> ({#dvezwi, dvizwe; dvizwa#}) To
+;
+; <L>16059<pc>0597-b<k1>Dikkf<k2>Dikkf
+134850 old {#Dikkf#}¦ 8. <ab>U.</ab> To despise, disregard,
+134850 new {#Dikkf#}¦ {©8.©} <ab>U.</ab> To despise, disregard,
+;
+; <L>16103<pc>0599-a<k1>DU<k2>DU
+135210 old {#DU#}¦ {©6©} <ab>P.</ab>, 1. 5. 9. 10. <ab>U.</ab> ({#Duvati#}, <lbinfo n="Dava#ti"/>
+135210 new {#DU#}¦ {©6©} <ab>P.</ab>, 1. 5. 9. 1{©0.©} <ab>U.</ab> ({#Duvati#}, <lbinfo n="Dava#ti"/>
+;
+; <L>16140<pc>0600-a<k1>Df<k2>Df
+135488 old <>{@--3@} To resolve upon. --II. 1. <ab>P.</ab> 10. <ab>U.</ab>
+135488 new <>{@--3@} To resolve upon. --II. {©1.©} <ab>P.</ab> 1{©0.©} <ab>U.</ab>
+;
+; <L>16214<pc>0602-b<k1>Dru<k2>Dru
+136037 old {#Dru#}¦ 1. 6. <ab>P.</ab> ({#Dravati, Druvati#}) {@1@} To
+136037 new {#Dru#}¦ {©1.©} {©6.©} <ab>P.</ab> ({#Dravati, Druvati#}) {@1@} To
+;
+; <L>16616<pc>0618-b<k1>nikfz<k2>nikfz
+139560 old {#nikfz#}¦ 1. 6. <ab>P.</ab> {@1@} To lessen, <lbinfo n="dimi+nish"/>
+139560 new {#nikfz#}¦ {©1.©} {©6.©} <ab>P.</ab> {@1@} To lessen, <lbinfo n="dimi+nish"/>
+;
+; <L>16968<pc>0633-b<k1>nirDU<k2>nirDU
+142810 old {#nirDU#}¦ 5. 9. <ab>U.</ab> {@1@} To shake or
+142810 new {#nirDU#}¦ {©5.©} {©9.©} <ab>U.</ab> {@1@} To shake or
+;
+; <L>17233<pc>0641-b<k1>nizWiv<k2>nizWiv
+144728 old {#nizWiv#}¦ 1. 4. <ab>P.</ab> {@1@} To eject, emit,
+144728 new {#nizWiv#}¦ {©1.©} {©4.©} <ab>P.</ab> {@1@} To eject, emit,
+;
+; <L>17463<pc>0650-b<k1>nyakkf<k2>nyakkf
+146707 old {#nyakkf#}¦ 8. <ab>U.</ab> To insult, contemn,
+146707 new {#nyakkf#}¦ {©8.©} <ab>U.</ab> To insult, contemn,
+;
+; <L>17896<pc>0671-c<k1>parikzi<k2>parikzi
+151244 old {#parikzi#}¦ 5. 9. <ab>P.</ab> {@1@} To decay,
+151244 new {#parikzi#}¦ {©5.©} {©9.©} <ab>P.</ab> {@1@} To decay,
+;
+; <L>18035<pc>0676-a<k1>paridiv<k2>paridiv --dev
+152239 old {#paridiv --dev#}¦ I. 1. 10. <ab>P.</ab> To <lbinfo n="la+ment"/>
+152239 new {#paridiv --dev#}¦ I. 1. 1{©0.©} <ab>P.</ab> To <lbinfo n="la+ment"/>
+;
+; <L>18049<pc>0676-b<k1>pariDAv<k2>pariDAv
+152338 old {#pariDAv#}¦ 1. <ab>P.</ab> {@1@} To flow or
+152338 new {#pariDAv#}¦ {©1.©} <ab>P.</ab> {@1@} To flow or
+;
+; <L>18140<pc>0678-b<k1>pariBram<k2>pariBram
+152872 old {#pariBram#}¦ 1. 4. <ab>P.</ab> {@1@} To rove, <lbinfo n="wan+der"/>
+152872 new {#pariBram#}¦ {©1.©} {©4.©} <ab>P.</ab> {@1@} To rove, <lbinfo n="wan+der"/>
+;
+; <L>18149<pc>0678-c<k1>parimA<k2>parimA
+152936 old {#parimA#}¦ {©2©} <ab>P.</ab>, 3. 4. <ab>A.</ab> {@1@} To <lbinfo n="mea+sure"/>
+152936 new {#parimA#}¦ {©2©} <ab>P.</ab>, {©3.©} {©4.©} <ab>A.</ab> {@1@} To <lbinfo n="mea+sure"/>
+;
+; <L>18232<pc>0680-b<k1>parivf<k2>parivf
+153382 old {#parivf#}¦ 5. 9. 10. <ab>U.</ab> To encircle,
+153382 new {#parivf#}¦ 5. 9. 1{©0.©} <ab>U.</ab> To encircle,
+;
+; <L>18417<pc>0685-a<k1>paryavazwaMB<k2>paryavazwaMB
+154550 old {#paryavazwaMB#}¦ 5. 9. <ab>P.</ab> To besiege,
+154550 new {#paryavazwaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> To besiege,
+;
+; <L>19026<pc>0704-b<k1>pis<k2>pis
+159046 old {#pis#}¦ I. 1. <ab>P.</ab> ({#pesati#}) To go,
+159046 new {#pis#}¦ I. {©1.©} <ab>P.</ab> ({#pesati#}) To go,
+;
+; <L>19167<pc>0712-b<k1>pul<k2>pul
+160679 old {#pul#}¦ 1. 6. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#polati, pulati,#}
+160679 new {#pul#}¦ {©1.©} {©6.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#polati, pulati,#}
+;
+; <L>19186<pc>0712-c<k1>puz<k2>puz
+160789 old {#puz#}¦ 1. 4. 9. <ab>P.</ab> ({#pozati, puzyati,#} <lbinfo n="pu#zRAti"/>
+160789 new {#puz#}¦ {©1.©} {©4.©} {©9.©} <ab>P.</ab> ({#pozati, puzyati,#} <lbinfo n="pu#zRAti"/>
+;
+; <L>19215<pc>0714-b<k1>pU<k2>pU
+161142 old {#pU#}¦ 1. 4. <ab>A.</ab>, {©9©} <ab>U.</ab> ({#pavate, pUyate,#} <lbinfo n="pu#nAti"/>
+161142 new {#pU#}¦ {©1.©} {©4.©} <ab>A.</ab>, {©9©} <ab>U.</ab> ({#pavate, pUyate,#} <lbinfo n="pu#nAti"/>
+;
+; <L>19274<pc>0718-a<k1>pf<k2>pf
+161881 old <>--III. 9. <ab>P.</ab> ({#pfRAti#}) To protect. --IV.
+161881 new <>--III. {©9.©} <ab>P.</ab> ({#pfRAti#}) To protect. --IV.
+;
+; <L>19325<pc>0720-a<k1>pF<k2>pF
+162339 old {#pF#}¦ 3. 9. <ab>P.</ab> ({#pirpIMta, pfRAti, papAra, apArIt,#}
+162339 new {#pF#}¦ {©3.©} {©9.©} <ab>P.</ab> ({#pirpIMta, pfRAti, papAra, apArIt,#}
+;
+; <L>19570<pc>0727-a<k1>prakzi<k2>prakzi
+163997 old {#prakzi#}¦ 5. 9. <ab>P.</ab> {@1@} To decay, wane.
+163997 new {#prakzi#}¦ {©5.©} {©9.©} <ab>P.</ab> {@1@} To decay, wane.
+;
+; <L>19711<pc>0730-c<k1>prajAgf<k2>prajAgf
+164911 old {#prajAgf#}¦ 2. <ab>P.</ab> {@1@} To keep watch,
+164911 new {#prajAgf#}¦ {©2.©} <ab>P.</ab> {@1@} To keep watch,
+;
+; <L>19773<pc>0732-c<k1>praRu<k2>praRu
+165409 old {#praRu#}¦ 2. 6. <ab>P.</ab> {@1@} To praise. {@--2@} To
+165409 new {#praRu#}¦ {©2.©} {©6.©} <ab>P.</ab> {@1@} To praise. {@--2@} To
+;
+; <L>19981<pc>0740-b<k1>pratimA<k2>pratimA
+167108 old {#pratimA#}¦ 3. 4. <ab>A.</ab> To compare,
+167108 new {#pratimA#}¦ {©3.©} {©4.©} <ab>A.</ab> To compare,
+;
+; <L>20212<pc>0746-a<k1>pratyAKyA<k2>pratyAKyA
+168539 old {#pratyAKyA#}¦ 2. <ab>P.</ab> {@1@} To deny (as a
+168539 new {#pratyAKyA#}¦ {©2.©} <ab>P.</ab> {@1@} To deny (as a
+;
+; <L>20516<pc>0754-b<k1>pramaT<k2>pramaT --maMT
+170561 old {#pramaT --maMT#}¦ 1. 9. <ab>P.</ab>, {@1@} To churn;
+170561 new {#pramaT --maMT#}¦ {©1.©} {©9.©} <ab>P.</ab>, {@1@} To churn;
+;
+; <L>20650<pc>0758-b<k1>pralaMbIkf<k2>pralaMbIkf
+171556 old {#pralaMbIkf#}¦ 8. <ab>U.</ab> To cause to hang
+171556 new {#pralaMbIkf#}¦ {©8.©} <ab>U.</ab> To cause to hang
+;
+; <L>20849<pc>0763-b<k1>pras<k2>pras
+172814 old {#pras#}¦ 1. 4. <ab>A.</ab> ({#prasa-sya-te#}) {@1@} To
+172814 new {#pras#}¦ {©1.©} {©4.©} <ab>A.</ab> ({#prasa-sya-te#}) {@1@} To
+;
+; <L>20895<pc>0765-b<k1>prasu<k2>prasu-sU
+173224 old {#prasu-sU#}¦ {©1©} <ab>P.</ab>, 2. 4. <ab>A.</ab> {@1@} To beget,
+173224 new {#prasu-sU#}¦ {©1©} <ab>P.</ab>, {©2.©} {©4.©} <ab>A.</ab> {@1@} To beget,
+;
+; <L>21436<pc>0782-c<k1>pluz<k2>pluz
+177203 old {#pluz#}¦ I. 1. 4. 9. <ab>P.</ab> ({#plozati, pluzyati,#}
+177203 new {#pluz#}¦ I. {©1.©} {©4.©} {©9.©} <ab>P.</ab> ({#plozati, pluzyati,#}
+;
+; <L>21832<pc>0799-c<k1>bfMh<k2>bfMh
+180942 old {#bfMh#}¦ I. 1. 6. <ab>P.</ab> ({#bfMhati, bfMhita#}) {@1@} To
+180942 new {#bfMh#}¦ I. {©1.©} {©6.©} <ab>P.</ab> ({#bfMhati, bfMhita#}) {@1@} To
+;
+; <L>21835<pc>0799-c<k1>bfh<k2>bfh
+180963 old {#bfh#}¦ 1. 6. <ab>P.</ab> ({#barhati, bfhati#}) {@1@} To
+180963 new {#bfh#}¦ {©1.©} {©6.©} <ab>P.</ab> ({#barhati, bfhati#}) {@1@} To
+;
+; <L>22275<pc>0823-c<k1>Bf<k2>Bf
+186006 old {#Bf#}¦ 1 3. <ab>U.</ab> ({#Barati-te; biBarti, biBfte,#}
+186006 new {#Bf#}¦ 1 {©3.©} <ab>U.</ab> ({#Barati-te; biBarti, biBfte,#}
+;
+; <L>22385<pc>0828-a<k1>Bram<k2>Bram
+186947 old {#Bram#}¦ 1. 4. <ab>P.</ab> ({#Bramati, Bramyati, BrAmyati,#}
+186947 new {#Bram#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#Bramati, Bramyati, BrAmyati,#}
+;
+; <L>22397<pc>0828-c<k1>Brasj<k2>Brasj
+187082 old {#Brasj#}¦ 6. <ab>U.</ab> ({#Bfjjati, Bfzwa#}; {%<ab>caus.</ab>%}
+187082 new {#Brasj#}¦ {©6.©} <ab>U.</ab> ({#Bfjjati, Bfzwa#}; {%<ab>caus.</ab>%}
+;
+; <L>22421<pc>0829-b<k1>BrAS<k2>BrA(BlA)S
+187263 old {#BrA(BlA)S#}¦ 1. 4. <ab>A.</ab> ({#BrASate#},
+187263 new {#BrA(BlA)S#}¦ {©1.©} {©4.©} <ab>A.</ab> ({#BrASate#},
+;
+; <L>22629<pc>0840-a<k1>man<k2>man
+189502 old <>proud. {@--2@} To worship. --II. 10. <ab>A.</ab>
+189502 new <>proud. {@--2@} To worship. --II. 1{©0.©} <ab>A.</ab>
+;
+; <L>22665<pc>0843-b<k1>maMT<k2>maMT, maT
+190138 old {#maMT, maT#}¦ 1. 9. <ab>P.</ab> ({#maTati, maTati, maTnAti,#}
+190138 new {#maMT, maT#}¦ {©1.©} {©9.©} <ab>P.</ab> ({#maTati, maTati, maTnAti,#}
+;
+; <L>22884<pc>0856-a<k1>mA<k2>mA<h>3
+192742 old 3 {#mA#}¦ {©2©} <ab>P.</ab>, 3. 4. <ab>A.</ab> ({#mAti, mimIte#} or
+192742 new 3 {#mA#}¦ {©2©} <ab>P.</ab>, {©3.©} {©4.©} <ab>A.</ab> ({#mAti, mimIte#} or
+;
+; <L>22982<pc>0859-c<k1>mAn<k2>mAn
+193556 old {#mAn#}¦ I 1. <ab>A.</ab> ({#mImAMsate#} = <ab>desid.</ab> of
+193556 new {#mAn#}¦ I {©1.©} <ab>A.</ab> ({#mImAMsate#} = <ab>desid.</ab> of
+;
+; <L>23165<pc>0866-a<k1>mid<k2>mid
+195010 old {#mid#}¦ I. {©1©} <ab>A.</ab>, 4. 10. <ab>U.</ab> ({#medate#}, <lbinfo n="me#dyati"/>
+195010 new {#mid#}¦ I. {©1©} <ab>A.</ab>, 4. 1{©0.©} <ab>U.</ab> ({#medate#}, <lbinfo n="me#dyati"/>
+;
+; <L>23401<pc>0876-b<k1>mfq<k2>mfq
+197225 old {#mfq#}¦ 6. 9. <ab>P.</ab> ({#mfqati#}. {#mfqnAti#}) {@1@}
+197225 new {#mfq#}¦ {©6.©} {©9.©} <ab>P.</ab> ({#mfqati#}. {#mfqnAti#}) {@1@}
+;
+; <L>23442<pc>0877-c<k1>mfz<k2>mfz
+197533 old <>sprinkle --III. 4. 10. <ab>U.</ab> ({#mfzyati te#}, <lbinfo n="marzaya#ti"/>
+197533 new <>sprinkle --III. 4. 1{©0.©} <ab>U.</ab> ({#mfzyati te#}, <lbinfo n="marzaya#ti"/>
+;
+; <L>23685<pc>0888-b<k1>yaMtr<k2>yaMtr
+199844 old {#yaMtr#}¦ 1. 10. <ab>U.</ab> ({#yaMtrati-te, yaMtrayati-te#})
+199844 new {#yaMtr#}¦ 1. 1{©0.©} <ab>U.</ab> ({#yaMtrati-te, yaMtrayati-te#})
+;
+; <L>23735<pc>0891-a<k1>yas<k2>yas
+200390 old {#yas#}¦ 1. 4. <ab>P.</ab> ({#yasati, yasyati, yasta#})
+200390 new {#yas#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#yasati, yasyati, yasta#})
+;
+; <L>23832<pc>0894-c<k1>yuj<k2>yuj
+201294 old <>--II. 1. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#yIjati, yojayati-te#}) To
+201294 new <>--II. {©1.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#yIjati, yojayati-te#}) To
+;
+; <L>23967<pc>0902-a<k1>raMj<k2>raMj
+202735 old {#raMj#}¦ 1. 4. <ab>U.</ab> ({#rajati-te, rajyati-te,#}
+202735 new {#raMj#}¦ {©1.©} {©4.©} <ab>U.</ab> ({#rajati-te, rajyati-te,#}
+;
+; <L>24165<pc>0913-a<k1>ric<k2>ric
+205060 old <>in {%<ab>p. p.</ab>%}, see {#rikta#}). --II. 1. 10. <ab>P.</ab>
+205060 new <>in {%<ab>p. p.</ab>%}, see {#rikta#}). --II. 1. 1{©0.©} <ab>P.</ab>
+;
+; <L>24182<pc>0913-b<k1>riz<k2>riz
+205143 old {#riz#}¦ 1. 4. <ab>P.</ab> ({#rezati, rizyati, rizwa#})
+205143 new {#riz#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#rezati, rizyati, rizwa#})
+;
+; <L>24527<pc>0926-b<k1>laz<k2>laz
+208055 old {#laz#}¦ I. 1. 4. <ab>P.</ab> ({#lazati-te, lazyati-te#})
+208055 new {#laz#}¦ I. {©1.©} {©4.©} <ab>P.</ab> ({#lazati-te, lazyati-te#})
+;
+; <L>24668<pc>0930-c<k1>luw<k2>luw
+209069 old <>4. <ab>P.</ab> ({#lowati, luwyati#}) {@1@} To roll,
+209069 new <>{©4.©} <ab>P.</ab> ({#lowati, luwyati#}) {@1@} To roll,
+;
+; <L>24673<pc>0930-c<k1>luq<k2>luq
+209110 old <><ls>Śi. 11. 8</ls>, <ls n="Śi.">19. 69.</ls> --II. 6. <ab>P.</ab> ({#luqati#})
+209110 new <><ls>Śi. 11. 8</ls>, <ls n="Śi.">19. 69.</ls> --II. {©6.©} <ab>P.</ab> ({#luqati#})
+;
+; <L>24967<pc>0942-b<k1>van<k2>van
+211624 old <>--III. 1. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#vanati, vAnayati-te#})
+211624 new <>--III. {©1.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#vanati, vAnayati-te#})
+;
+; <L>25325<pc>0955-b<k1>vA<k2>vA
+214569 old {#vA#}¦ I. 2. <ab>P.</ab> ({#vAti, vAta#} or {#vAna#}) {@1@}
+214569 new {#vA#}¦ I. {©2.©} <ab>P.</ab> ({#vAti, vAta#} or {#vAna#}) {@1@}
+;
+; <L>25325<pc>0955-b<k1>vA<k2>vA
+214581 old <>--II. 4. <ab>P.</ab> ({#vAyati#}) {@1@} To be dried
+214581 new <>--II. {©4.©} <ab>P.</ab> ({#vAyati#}) {@1@} To be dried
+;
+; <L>25697<pc>0967-c<k1>vikzuB<k2>vikzuB
+217461 old {#vikzuB#}¦ {©1©} <ab>A.</ab>, 4. 9. <ab>P.</ab> {@1@} To be
+217461 new {#vikzuB#}¦ {©1©} <ab>A.</ab>, {©4.©} {©9.©} <ab>P.</ab> {@1@} To be
+;
+; <L>25755<pc>0969-b<k1>vic<k2>vic
+217851 old {#vic#}¦ 3. 7. <ab>U.</ab> ({#vevokti, vevikte,#} <lbinfo n="vina#kti"/>
+217851 new {#vic#}¦ {©3.©} {©7.©} <ab>U.</ab> ({#vevokti, vevikte,#} <lbinfo n="vina#kti"/>
+;
+; <L>25773<pc>0970-a<k1>vici<k2>vici
+217986 old {#vici#}¦ 5. <ab>U.</ab> {@1@} To collect, gather,
+217986 new {#vici#}¦ {©5.©} <ab>U.</ab> {@1@} To collect, gather,
+;
+; <L>25801<pc>0970-c<k1>vicCur<k2>vicCur
+218192 old {#vicCur#}¦ 6. <ab>P.</ab> {@1@} To smear, anoint,
+218192 new {#vicCur#}¦ {©6.©} <ab>P.</ab> {@1@} To smear, anoint,
+;
+; <L>25915<pc>0974-a<k1>vitras<k2>vitras
+218955 old {#vitras#}¦ 1. 4. <ab>P.</ab> To be <lbinfo n="frighten+ed"/>
+218955 new {#vitras#}¦ {©1.©} {©4.©} <ab>P.</ab> To be <lbinfo n="frighten+ed"/>
+;
+; <L>26246<pc>0985-c<k1>viBram<k2>viBram
+221605 old {#viBram#}¦ 1. 4. <ab>P.</ab> {@1@} To roam, <lbinfo n="wan+der"/>
+221605 new {#viBram#}¦ {©1.©} {©4.©} <ab>P.</ab> {@1@} To roam, <lbinfo n="wan+der"/>
+;
+; <L>26327<pc>0987-c<k1>viraMj<k2>viraMj
+222144 old {#viraMj#}¦ 1. 4. <ab>U.</ab> {@1@} To grow
+222144 new {#viraMj#}¦ {©1.©} {©4.©} <ab>U.</ab> {@1@} To grow
+;
+; <L>26488<pc>0993-a<k1>vivic<k2>vivic
+223340 old {#vivic#}¦ 3. 7. <ab>U.</ab> {@1@} To separate,
+223340 new {#vivic#}¦ {©3.©} {©7.©} <ab>U.</ab> {@1@} To separate,
+;
+; <L>26523<pc>0994-b<k1>viSada<k2>viSada
+223672 old <>colour. ({#viSadIkf#} 8. <ab>U.</ab> ‘to <lbinfo n="ex+plain"/>
+223672 new <>colour. ({#viSadIkf#} {©8.©} <ab>U.</ab> ‘to <lbinfo n="ex+plain"/>
+;
+; <L>26608<pc>0997-c<k1>viz<k2>viz
+224424 old <>{#vizRAti#}) To separate, disjoin. --III. 1. <ab>P.</ab>
+224424 new <>{#vizRAti#}) To separate, disjoin. --III. {©1.©} <ab>P.</ab>
+;
+; <L>26642<pc>0999-c<k1>vizkaMB<k2>vizkaMB
+224812 old {#vizkaMB#}¦ 5. 9. <ab>P.</ab> {@1@} To impede,
+224812 new {#vizkaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> {@1@} To impede,
+;
+; <L>26650<pc>1000-a<k1>vizwaMB<k2>vizwaMB
+224868 old {#vizwaMB#}¦ 5. 9. <ab>P.</ab> {@1@} To stop, <lbinfo n="ob+struct"/>
+224868 new {#vizwaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> {@1@} To stop, <lbinfo n="ob+struct"/>
+;
+; <L>26835<pc>1005-a<k1>vf<k2>vf
+226139 old {#vf#}¦ I. 1. 5. 9. <ab>U.</ab> ({#varati-te#}, <lbinfo n="vfRoti#vfRute"/>
+226139 new {#vf#}¦ I. {©1.©} {©5.©} {©9.©} <ab>U.</ab> ({#varati-te#}, <lbinfo n="vfRoti#vfRute"/>
+;
+; <L>26847<pc>1005-c<k1>vfj<k2>vfj
+226263 old {#vfj#}¦ I. 2. <ab>A.</ab> ({#vfkte#}) To avoid,
+226263 new {#vfj#}¦ I. {©2.©} <ab>A.</ab> ({#vfkte#}) To avoid,
+;
+; <L>27221<pc>1017-c<k1>vyatyas<k2>vyatyas
+229086 old <>{#tu mamApi DarmaH#} <ls>Bk. 2. 35.</ls> --II. 4. <ab>P.</ab>
+229086 new <>{#tu mamApi DarmaH#} <ls>Bk. 2. 35.</ls> --II. {©4.©} <ab>P.</ab>
+;
+; <L>27354<pc>1022-b<k1>vyAdiS<k2>vyAdiS
+230156 old {#vyAdiS#}¦ 6. <ab>P.</ab> {@1@} To order, <lbinfo n="com+mand"/>
+230156 new {#vyAdiS#}¦ {©6.©} <ab>P.</ab> {@1@} To order, <lbinfo n="com+mand"/>
+;
+; <L>27438<pc>1025-a<k1>vyutpad<k2>vyutpad
+230778 old {#vyutpad#}¦ 4. <ab>A.</ab> {@1@} To be produced
+230778 new {#vyutpad#}¦ {©4.©} <ab>A.</ab> {@1@} To be produced
+;
+; <L>27507<pc>1027-1<k1>Sak<k2>Sak
+231288 old {#Sak#}¦ I. 5. <ab>P.</ab> ({#Saknoti, Sakta#}) {@1@} To
+231288 new {#Sak#}¦ I. {©5.©} <ab>P.</ab> ({#Saknoti, Sakta#}) {@1@} To
+;
+; <L>27593<pc>1032-a<k1>Sad<k2>Sad
+232249 old <>({%b%}) To kill, destroy. --II. 1. <ab>P.</ab> ( <lbinfo n="Sada#ti"/>
+232249 new <>({%b%}) To kill, destroy. --II. {©1.©} <ab>P.</ab> ( <lbinfo n="Sada#ti"/>
+;
+; <L>27604<pc>1032-b<k1>Sap<k2>Sap
+232325 old {#Sap#}¦ 1. 4. <ab>U.</ab> ({#Sapati-te, Sapyati-te, Sapta#})
+232325 new {#Sap#}¦ {©1.©} {©4.©} <ab>U.</ab> ({#Sapati-te, Sapyati-te, Sapta#})
+;
+; <L>27945<pc>1044-b<k1>SiMj<k2>SiMj
+235080 old {#SiMj#}¦ 1. 2. <ab>A.</ab>, {©10©} <ab>U.</ab> ({#SiMjate#},
+235080 new {#SiMj#}¦ {©1.©} {©2.©} <ab>A.</ab>, {©10©} <ab>U.</ab> ({#SiMjate#},
+;
+; <L>28048<pc>1048-c<k1>SIl<k2>SIl
+236002 old {#SIl#}¦ I. 1. <ab>P.</ab> ({#SIlati#}) {@1@} To <lbinfo n="me+ditate"/>
+236002 new {#SIl#}¦ I. {©1.©} <ab>P.</ab> ({#SIlati#}) {@1@} To <lbinfo n="me+ditate"/>
+;
+; <L>28102<pc>1050-c<k1>SuMD<k2>SuMD
+236500 old {#SuMD#}¦ 1. 10. <ab>U.</ab> ({#SuMDati-te, SuMDayati-te#})
+236500 new {#SuMD#}¦ 1. 1{©0.©} <ab>U.</ab> ({#SuMDati-te, SuMDayati-te#})
+;
+; <L>28118<pc>1051-b<k1>Sur<k2>Su(SU)r
+236633 old {#Su(SU)r#}¦  4. <ab>A.</ab> ({#SUryate#}) {@1@} To
+236633 new {#Su(SU)r#}¦  {©4.©} <ab>A.</ab> ({#SUryate#}) {@1@} To
+;
+; <L>28196<pc>1054-a<k1>SfD<k2>SfD
+237255 old <>downwards. --II. 1. <ab>U.</ab> ({#SarDati-te#}) {@1@}
+237255 new <>downwards. --II. {©1.©} <ab>U.</ab> ({#SarDati-te#}) {@1@}
+;
+; <L>28348<pc>1058-b<k1>SraT<k2>SraT
+238259 old {#SraT#}¦ I. 1. 9. <ab>P.</ab> ({#SraTati, SraTnAti#}) To
+238259 new {#SraT#}¦ I. {©1.©} {©9.©} <ab>P.</ab> ({#SraTati, SraTnAti#}) To
+;
+; <L>28545<pc>1066-c<k1>zWiv<k2>zWiv
+240009 old {#zWiv#}¦ 1 4. <ab>P.</ab> ({#zWIvati, zWIvyati,#} <lbinfo n="zWyU#ta"/>
+240009 new {#zWiv#}¦ 1 {©4.©} <ab>P.</ab> ({#zWIvati, zWIvyati,#} <lbinfo n="zWyU#ta"/>
+;
+; <L>28658<pc>1070-a<k1>saMvf<k2>saMvf
+240805 old {#saMvf#}¦ 1. 5. 9. <ab>U.</ab> {@1@} To hide,
+240805 new {#saMvf#}¦ {©1.©} {©5.©} {©9.©} <ab>U.</ab> {@1@} To hide,
+;
+; <L>28713<pc>1071-c<k1>saMsad<k2>saMsad
+241224 old {#saMsad#}¦ 1. 6. <ab>P.</ab> {@1@} To sit down,
+241224 new {#saMsad#}¦ {©1.©} {©6.©} <ab>P.</ab> {@1@} To sit down,
+;
+; <L>28746<pc>1073-b<k1>saMstaMB<k2>saMstaMB
+241556 old {#saMstaMB#}¦ 5. 9. <ab>P.</ab> ({%<ab>caus.</ab>%} also) {@1@}
+241556 new {#saMstaMB#}¦ {©5.©} {©9.©} <ab>P.</ab> ({%<ab>caus.</ab>%} also) {@1@}
+;
+; <L>28892<pc>1078-a<k1>saMkzi<k2>saMkzi
+242682 old {#saMkzi#}¦ 1. 5. 9. <ab>P.</ab> {@1@} To decay, 
+242682 new {#saMkzi#}¦ {©1.©} {©5.©} {©9.©} <ab>P.</ab> {@1@} To decay, 
+;
+; <L>28899<pc>1078-b<k1>saMkzuB<k2>saMkzuB
+242737 old {#saMkzuB#}¦ {©1©} <ab>A.</ab>, 4. 9. <ab>P.</ab> To tremble,
+242737 new {#saMkzuB#}¦ {©1©} <ab>A.</ab>, {©4.©} {©9.©} <ab>P.</ab> To tremble,
+;
+; <L>29154<pc>1087-b<k1>saMtras<k2>saMtras
+244796 old {#saMtras#}¦ 1. 4. <ab>P.</ab> To fear, be <lbinfo n="a+fraid"/>
+244796 new {#saMtras#}¦ {©1.©} {©4.©} <ab>P.</ab> To fear, be <lbinfo n="a+fraid"/>
+;
+; <L>29610<pc>1101-c<k1>samfD<k2>samfD
+248171 old {#samfD#}¦ 4. 5. <ab>P.</ab> To thrive, prosper, 
+248171 new {#samfD#}¦ {©4.©} {©5.©} <ab>P.</ab> To thrive, prosper, 
+;
+; <L>29758<pc>1106-a<k1>saMBram<k2>saMBram
+249183 old {#saMBram#}¦ 1. 4. <ab>P.</ab> {@1@} To roam, rove.
+249183 new {#saMBram#}¦ {©1.©} {©4.©} <ab>P.</ab> {@1@} To roam, rove.
+;
+; <L>29797<pc>1107-a<k1>saMmfd<k2>saMmfd
+249424 old {#saMmfd#}¦ 1. 9. <ab>P.</ab> {@1@} To press or
+249424 new {#saMmfd#}¦ {©1.©} {©9.©} <ab>P.</ab> {@1@} To press or
+;
+; <L>30260<pc>1122-b<k1>si<k2>si
+252948 old {#si#}¦ 5. 9. <ab>U.</ab> ({#sinoti, sinute,#} <lbinfo n="sinA#ti"/>
+252948 new {#si#}¦ {©5.©} {©9.©} <ab>U.</ab> ({#sinoti, sinute,#} <lbinfo n="sinA#ti"/>
+;
+; <L>30352<pc>1125-c<k1>su<k2>su
+253732 old <>--II. 1. 2. <ab>P.</ab> ({#savati, sOti#}) To <lbinfo n="pos+sess"/>
+253732 new <>--II. {©1.©} {©2.©} <ab>P.</ab> ({#savati, sOti#}) To <lbinfo n="pos+sess"/>
+;
+; <L>30358<pc>1131-a<k1>suKAkf<k2>suKAkf
+254628 old {#suKAkf#}¦ 8. <ab>U.</ab> To make happy,
+254628 new {#suKAkf#}¦ {©8.©} <ab>U.</ab> To make happy,
+;
+; <L>30417<pc>1133-a<k1>sU<k2>sU
+255135 old {#sU#}¦ I. 2. 4. <ab>A.</ab> ({#sUte, sUyate, sUta#}) To 
+255135 new {#sU#}¦ I. {©2.©} {©4.©} <ab>A.</ab> ({#sUte, sUyate, sUta#}) To 
+;
+; <L>30473<pc>1135-c<k1>sUrkz<k2>sUrkz(rkzy)
+255681 old {#sUrkz(rkzy)#}¦ 1. 4. <ab>P.</ab> ({#sUrkzati#}, <lbinfo n="sUrkzya#ti"/>
+255681 new {#sUrkz(rkzy)#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#sUrkzati#}, <lbinfo n="sUrkzya#ti"/>
+;
+; <L>30483<pc>1136-b<k1>sf<k2>sf
+255811 old {#sf#}¦ 1. 3. <ab>P.</ab> ({#sarati, sasarti,#} also {#DAvati#}; <lbinfo n="sa#sAra"/>
+255811 new {#sf#}¦ {©1.©} {©3.©} <ab>P.</ab> ({#sarati, sasarti,#} also {#DAvati#}; <lbinfo n="sa#sAra"/>
+;
+; <L>30708<pc>1142-c<k1>skaMd<k2>skaMd
+257345 old {#skaMd#}¦ I. 1. <ab>P.</ab> ({#skaMdati, skanna#}) {@1@}
+257345 new {#skaMd#}¦ I. {©1.©} <ab>P.</ab> ({#skaMdati, skanna#}) {@1@}
+;
+; <L>30718<pc>1143-a<k1>skaMB<k2>skaMB
+257463 old {#skaMB#}¦ {©1©} <ab>A.</ab>, 5. 9. <ab>P.</ab> ({#skaMBate#}, <lbinfo n="ska#Bnoti"/>
+257463 new {#skaMB#}¦ {©1©} <ab>A.</ab>, {©5.©} {©9.©} <ab>P.</ab> ({#skaMBate#}, <lbinfo n="ska#Bnoti"/>
+;
+; <L>30723<pc>1143-b<k1>sku<k2>sku
+257489 old {#sku#}¦ 5. 9. <ab>U.</ab> ({#skunoti, skunute,#} <lbinfo n="sku#nAti"/>
+257489 new {#sku#}¦ {©5.©} {©9.©} <ab>U.</ab> ({#skunoti, skunute,#} <lbinfo n="sku#nAti"/>
+;
+; <L>30725<pc>1143-b<k1>skuMB<k2>skuMB
+257501 old {#skuMB#}¦ 5. 9. <ab>P.</ab> ({#skuBnA-Bno-ti#}) To
+257501 new {#skuMB#}¦ {©5.©} {©9.©} <ab>P.</ab> ({#skuBnA-Bno-ti#}) To
+;
+; <L>30751<pc>1144-b<k1>staMB<k2>staMB
+257751 old {#staMB#}¦ {©1©} <ab>A.</ab>, 5. 9. <ab>P.</ab> ({#staMBate#}, <lbinfo n="staBno#ti"/>
+257751 new {#staMB#}¦ {©1©} <ab>A.</ab>, {©5.©} {©9.©} <ab>P.</ab> ({#staMBate#}, <lbinfo n="staBno#ti"/>
+;
+; <L>30785<pc>1145-b<k1>stuMB<k2>stuMB
+257996 old {#stuMB#}¦ 5. 9. <ab>P.</ab> ({#stuBnoti; stuBnAti#})
+257996 new {#stuMB#}¦ {©5.©} {©9.©} <ab>P.</ab> ({#stuBnoti; stuBnAti#})
+;
+; <L>30902<pc>1151-a<k1>snas<k2>snas
+259209 old {#snas#}¦ 1 4. <ab>P.</ab> ({#snasati, snasyati#}) {@1@}
+259209 new {#snas#}¦ 1 {©4.©} <ab>P.</ab> ({#snasati, snasyati#}) {@1@}
+;
+; <L>30981<pc>1153-c<k1>sPaMq<k2>sPaMq
+259814 old {#sPaMq#}¦ 1. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#sPaMqati, sPaMqa#}
+259814 new {#sPaMq#}¦ {©1.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#sPaMqati, sPaMqa#}
+;
+; <L>31115<pc>1158-a<k1>srek<k2>srek
+260830 old {#srek#}¦ 1. <ab>A.</ab> ({#srekate#}) To go, move.
+260830 new {#srek#}¦ {©1.©} <ab>A.</ab> ({#srekate#}) To go, move.
+;
+; <L>31216<pc>1163-b<k1>svf<k2>svf
+261889 old {#svf#}¦ 1. <ab>P.</ab> ({#svarati#}; {%<ab>desid.</ab>%}  <lbinfo n="sisvariza#ti"/>
+261889 new {#svf#}¦ {©1.©} <ab>P.</ab> ({#svarati#}; {%<ab>desid.</ab>%}  <lbinfo n="sisvariza#ti"/>
+;
+; <L>31399<pc>1171-a<k1>hiMs<k2>hiMs
+263591 old {#hiMs#}¦ 1. 7. <ab>P.</ab>, {©10©} <ab>U.</ab> ({#hiMsati#}, <lbinfo n="hi#nasti"/>
+263591 new {#hiMs#}¦ {©1.©} {©7.©} <ab>P.</ab>, {©10©} <ab>U.</ab> ({#hiMsati#}, <lbinfo n="hi#nasti"/>
+;
+; <L>31499<pc>1174-c<k1>hfz<k2>hfz
+264431 old {#hfz#}¦ 1. 4. <ab>P.</ab> ({#harzati, hfzyati, hfzwa#} or
+264431 new {#hfz#}¦ {©1.©} {©4.©} <ab>P.</ab> ({#harzati, hfzyati, hfzwa#} or
+;

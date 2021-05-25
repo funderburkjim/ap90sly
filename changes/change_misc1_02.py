@@ -213,6 +213,66 @@ def change18(line):
   newline = newline.replace(old,new)
  return reason,newline
 
+def change19(line):
+ reason = ''
+ newline = re.sub(r' ([0-9]+)$',r' <lbinfo n="\1+X."/>',line)
+ return reason,newline
+
+def change20(line):
+ reason = ''
+ newline = re.sub(r'([0-9]+) +(<ab>[PAU][.]</ab>)',r'{©\1©} \2',line)
+ return reason,newline
+
+def change20a(line):
+ reason = ''
+ if not re.search(r'<ab>[PAU][.]</ab>',line):
+  return reason,line
+ # there can be 1, 2 or three numbers (with period) before <ab>[PAU]
+ newline = line
+ # 3 numbers
+ newline = re.sub(r'([0-9][.]+) +([0-9][.]+) +([0-9][.]+) +(<ab>[PAU][.]</ab>)',r'{c\1c} {c\2c} {c\3c} \4',newline)
+ # 2 numbers
+ newline = re.sub(r'([0-9][.]+) +([0-9][.]+) +(<ab>[PAU][.]</ab>)',r'{c\1c} {c\2c} \3',newline)
+ #1 number
+ newline = re.sub(r'([0-9][.]+) +(<ab>[PAU][.]</ab>)',r'{c\1c} \2',newline)
+ return reason,newline
+
+
+def change21(line):
+ reason = ''
+ #newline = re.sub(r'([ >])(--[0-9]+)[.]?',r'\1{!\2.!}',line)
+ newline = re.sub(r'([ >])--([0-9]+)[.]?',r'\1{\2}',line)
+ return reason,newline
+
+def change22(line):
+ reason = ''
+ #newline = re.sub(r'([ >])--([0-9]+)[.]?',r'\1{\2}',line)
+ parts = re.split(r'(<ls.*?</ls>)|(<lbinfo.*?/>)',line)
+ newparts = []
+ for part in parts:
+  if part == None:
+   pass
+  elif part.startswith('<ls'):
+   newparts.append(part)
+  elif part.startswith('<lbinfo'):
+   newparts.append(part)
+  else:
+   newpart = re.sub(r'<>([0-9]+[.]?)',r'<>{\1}',part)
+   newpart = re.sub(r' ([0-9]+[.]?)',r' {\1}',newpart)
+   if '{' in newpart:
+    # exclude multiple digits
+    newpart = re.sub(r'{([0-9][0-9]+[.]?)}',r'\1',newpart)
+    # exclude sense {N}  (34 cases so far)
+    newpart = re.sub(r'(sense|to|for|with|the|in) {([0-9][.]?)}',r'\1 \2',newpart)
+    # exclude {N}th
+    newpart = re.sub(r'{([0-9][.]?)}(th|st|nd|rd)',r'\1\2',newpart)
+    # remove ending period in {N.}
+    newpart = re.sub(r'{([0-9])[.]?}',r'{\1}',newpart)
+                 
+   newparts.append(newpart)
+ newline = ''.join(newparts)
+ return reason,newline
+
 def reasons_update(reasons,reason):
  if reason not in reasons:
   reasons[reason] = 0
@@ -222,8 +282,8 @@ def init_changes(lines):
  changes = [] # array of Change objects
  metaline = None
  page = None
- change_fcns = [change18]
- line1_fcns = [change16a]
+ change_fcns = [change22]
+ line1_fcns = [change16a,change19]
  reasons = {} # counts
  for iline,line in enumerate(lines):
   line = line.rstrip('\r\n')
@@ -246,6 +306,9 @@ def init_changes(lines):
      newline1 = line1
      if (f == change16a) and (line1.startswith('<>of ')):
       continue  # not of interest
+     elif (f == change19):
+      newline1 = re.sub(r'<><ab>([PAU][.])</ab>',r'<><abx>\1</ab>',line1)
+      pass #continue
     else:
      iline1 = None
      line1 = None

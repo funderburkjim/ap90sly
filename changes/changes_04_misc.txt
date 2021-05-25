@@ -1,0 +1,5 @@
+; <L>1743<pc>0074-c<k1>anuprayogaH<k2>anuprayogaH
+; Panini ref.
+17361 old <>repetition; <ls>P. I. 3. 63</ls>; III. 4. 4--5.
+17361 new <>repetition; <ls>P. I. 3. 63</ls>; <ls n="P.">III. 4. 4--5.</ls>
+;

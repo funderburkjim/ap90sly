@@ -1,0 +1,195 @@
+;---------------------------------------------------
+; class number at end of line moved to next line.
+;
+; <L>247<pc>0016-c<k1>aMk<k2>aMk
+4209 old {#aMk#}¦ 1 <ab>A.</ab> To move in a curve. 10
+4209 new {#aMk#}¦ 1 <ab>A.</ab> To move in a curve. <lbinfo n="10+U."/>
+;
+4210 old <><ab>U.</ab> ({#aMkayati-te, aMkayituM#}) {@1@} To mark,
+4210 new <>10 <ab>U.</ab> ({#aMkayati-te, aMkayituM#}) {@1@} To mark,
+;
+; <L>692<pc>0035-b<k1>atiSayaH<k2>atiSayaH
+8472 old <>to be of 5 kinds in S. D, but of 4
+8472 new <>to be of 5 kinds in <ls>S. D.</ls>, but of 4
+;
+; <L>1727<pc>0074-b<k1>anupAtakaM<k2>anupAtakaM
+;17273 old <>Vishṇusmṛti; Manu mentions 30
+;
+17274 old <>kinds; See 11. 54--58.
+17274 new <>kinds; See <ls n="Ms.">11. 54-58.</ls>
+;
+; <L>2511<pc>0111-c<k1>apavah<k2>apavah
+25313 old <>{#tadBaktyapoQapitfrAjyamahaBizeke#} ({#mUrDani#}) 13. 70
+25313 new <>{#tadBaktyapoQapitfrAjyamahaBizeke#} ({#mUrDani#}) <ls n="R.">13. 70</ls>
+;
+; <L>9350<pc>0344-1<k1>Una<k2>Una
+;78952 old <>{#ekona#} less by one; {#ºviMSatiH#} 20
+;
+78953 old <>minus 1=19; so {#ºtriMSat#}, 29;
+78953 new <>minus 1 = 19; so {#ºtriMSat#}, 29;
+;
+; <L>9405<pc>0346-c<k1>Uh<k2>Uh
+79407 old <>{@--7@} To be regarded as. --II. 1
+79407 new <>{@--7@} To be regarded as. --II. <lbinfo n="1+P."/>
+;
+79408 old <><ab>P.</ab> {@1@} To change or modify. {@--2@}
+79408 new <>1 <ab>P.</ab> {@1@} To change or modify. {@--2@}
+;
+; <L>10072<pc>0370-c<k1>kaq<k2>kaq
+84603 old <>6 <ab>P.</ab> To eat, consume. --III. 10
+84603 new <>6 <ab>P.</ab> To eat, consume. --III. <lbinfo n="10+U."/>
+;
+84604 old <><ab>U.</ab> {@1@} To protect. {@--2@} To remove
+84604 new <>10 <ab>U.</ab> {@1@} To protect. {@--2@} To remove
+;
+; <L>10177<pc>0374-b<k1>kad<k2>kad
+85448 old <>mentally. --II. 1 <ab>A.</ab> ({#kadate#}) also 1
+85448 new <>mentally. --II. 1 <ab>A.</ab> ({#kadate#}) also <lbinfo n="1+P."/>
+;
+85449 old <>P. {@1@} To cry, to weep or shed tears.
+85449 new <>1 <ab>P.</ab> {@1@} To cry, to weep or shed tears.
+;
+; <L>10913<pc>0402-c<k1>kit<k2>kit
+91763 old <>cure. {@--4@} To doubt, suspect. --II. 3
+91763 new <>cure. {@--4@} To doubt, suspect. --II. <lbinfo n="3+P."/>
+;
+91764 old <>P. <ab>Ved.</ab> ({#cikitti#}) To know.
+91764 new <>3 <ab>P.</ab> <ab>Ved.</ab> ({#cikitti#}) To know.
+;
+; <L>11087<pc>0408-b<k1>kuMW<k2>kuMW
+93055 old <>be idle. {@--4@} To loosen. {%--<ab>Caus.</ab>%} or 10
+93055 new <>be idle. {@--4@} To loosen. {%--<ab>Caus.</ab>%} or <lbinfo n="10+P."/>
+;
+93056 old <>P. To hide.
+93056 new <>10 <ab>P.</ab> To hide.
+;
+; <L>11394<pc>0420-a<k1>kft<k2>kft
+95640 old <><ls n="Bk.">15. 97</ls>; <ls n="Bk.">16. 15</ls>; <ls>Ms. 8. 12.</ls> --II. 7
+95640 new <><ls n="Bk.">15. 97</ls>; <ls n="Bk.">16. 15</ls>; <ls>Ms. 8. 12.</ls> --II. <lbinfo n="7+P."/>
+;
+95641 old <><ab>P.</ab> ({#kfRatti, kftta#}) {@1@} To spin. {@--2@} To <lbinfo n="sur+round"/>
+95641 new <>7 <ab>P.</ab> ({#kfRatti, kftta#}) {@1@} To spin. {@--2@} To <lbinfo n="sur+round"/>
+;
+; <L>12614<pc>0463-a<k1>gur<k2>gur
+105412 old <>make an effort or exertion. --II. 4
+105412 new <>make an effort or exertion. --II. <lbinfo n="4+A."/>
+;
+105413 old <><ab>A.</ab> ({%<ab>p. p.</ab>%} {#gUrRa#}) {@1@} To hurt, kill, <lbinfo n="in+jure"/>
+105413 new <>4 <ab>A.</ab> ({%<ab>p. p.</ab>%} {#gUrRa#}) {@1@} To hurt, kill, <lbinfo n="in+jure"/>
+;
+; <L>13206<pc>0489-b<k1>cAtakaH<k2>cAtakaH
+110997 old <>{#payobiMdavaH#} <ls>Bh. 2. 121</ls>; see also 2. 51
+110997 new <>{#payobiMdavaH#} <ls>Bh. 2. 121</ls>; see also <ls n="Bh.">2. 51</ls>
+;
+;110998 old <>and <ls>R. 5. 17.</ls> {@--Comp.@} {#--AnaMdanaH#}
+;
+; <L>15189<pc>0557-a<k1>daB<k2>daB, daMB
+126201 old <>deceive, cheat. {@--3@} To go. -II. 10
+126201 new <>deceive, cheat. {@--3@} To go. -II. <lbinfo n="10+U."/>
+;
+126202 old <><ab>U.</ab> ({#daMBayati-te#}) To impel, propel,
+126202 new <>10 <ab>U.</ab> ({#daMBayati-te#}) To impel, propel,
+;
+; <L>19275<pc>0718-a<k1>pfc<k2>pfc
+161908 old <>grant bountifully. --III. 1 <ab>P.</ab>, 10
+161908 new <>grant bountifully. --III. 1 <ab>P.</ab>, <lbinfo n="10+U."/>
+;
+161909 old <><ab>U.</ab> ({#parcati, parcayati-te#}) {@1@} To touch
+161909 new <>10 <ab>U.</ab> ({#parcati, parcayati-te#}) {@1@} To touch
+;
+; <L>19989<pc>0740-c<k1>pratiyat<k2>pratiyat
+167177 old {#pratiyat#}¦ 1 <ab>A.</ab> To try. {%--<ab>Caus.</ab>%} 1
+167177 new {#pratiyat#}¦ 1 <ab>A.</ab> To try. {%--<ab>Caus.</ab>%}
+;
+;167178 old <>{@1@} To restore, return. {@--2@} To retaliate,
+;
+; <L>21436<pc>0782-c<k1>pluz<k2>pluz
+177205 old <>sear, <ls>Rs. 1. 22</ls>; <ls>Bk. 20. 34.</ls> --II. 9
+177205 new <>sear, <ls>Rs. 1. 22</ls>; <ls>Bk. 20. 34.</ls> --II. <lbinfo n="9+P."/>
+;
+177206 old <>P. ({#pluzRAti#}) {@1@} To sprinkle, wet. {@--2@}
+177206 new <>9 <ab>P.</ab> ({#pluzRAti#}) {@1@} To sprinkle, wet. {@--2@}
+;
+; <L>21600<pc>0789-b<k1>bal<k2>bal
+178712 old <>or live. {@--2@} To hoard grain. --II. 1
+178712 new <>or live. {@--2@} To hoard grain. --II. <lbinfo n="1+U."/>
+;
+178713 old <><ab>U.</ab> ({#balati-te#}) {@1@} To give. {@--2@} To hurt,
+178713 new <>1 <ab>U.</ab> ({#balati-te#}) {@1@} To give. {@--2@} To hurt,
+;
+; <L>21940<pc>0807-c<k1>Baw<k2>Baw
+182511 old <>hire. {@--3@} To receive wages. --II. 10
+182511 new <>hire. {@--3@} To receive wages. --II. <lbinfo n="10+U."/>
+;
+182512 old <><ab>U.</ab> ({#Bawayati-te#}) To speak, converse.
+182512 new <>10 <ab>U.</ab> ({#Bawayati-te#}) To speak, converse.
+;
+; <L>22244<pc>0820-a<k1>BU<k2>BU
+185391 old <>({#Bavati-te#}) To get, obtain. --III. 10
+185391 new <>({#Bavati-te#}) To get, obtain. --III. <lbinfo n="10+A."/>
+;
+185392 old <>A. ({#BAvayate#}) To obtain, gain. --IV.
+185392 new <>10 <ab>A.</ab> ({#BAvayate#}) To obtain, gain. --IV.
+;
+; <L>22533<pc>0833-b<k1>maMq<k2>maMq
+188118 old <><ls>Bk. 10. 23.</ls> {@--2@} To rejoice. --II. 1
+188118 new <><ls>Bk. 10. 23.</ls> {@--2@} To rejoice. --II. <lbinfo n="1+A."/>
+;
+188119 old <>A. ({#maMqate#}) {@1@} To clothe, dress. {@--2@} To
+188119 new <>1 <ab>A.</ab> ({#maMqate#}) {@1@} To clothe, dress. {@--2@} To
+;
+; <L>24425<pc>0922-b<k1>laMG<k2>laMG
+207176 old <>{#laMGitumAgacCati#} <ls>M. 4.</ls> {%--<ab>Caus.</ab>%} or 10
+207176 new <>{#laMGitumAgacCati#} <ls>M. 4.</ls> {%--<ab>Caus.</ab>%} or <lbinfo n="10+U."/>
+;
+207177 old <><ab>U.</ab> ({#laMGayati-te#}) {@1@} To leap or spring
+207177 new <>10 <ab>U.</ab> ({#laMGayati-te#}) {@1@} To leap or spring
+;
+; <L>24649<pc>0930-a<k1>liS<k2>liS
+208893 old <>move. {@--2@} To hurt; see {#riS#}. --II. 4
+208893 new <>move. {@--2@} To hurt; see {#riS#}. --II. <lbinfo n="4+U."/>
+;
+208894 old <><ab>U.</ab> ({#liSyati-te#}) To become small, be
+208894 new <>4 <ab>U.</ab> ({#liSyati-te#}) To become small, be
+;
+; <L>25269<pc>0952-c<k1>vas<k2>vas
+214028 old <>{@--2@} To be firm. {@--3@} To fix. --IV. 10
+214028 new <>{@--2@} To be firm. {@--3@} To fix. --IV. <lbinfo n="10+U."/>
+;
+214029 old <><ab>U.</ab> ({#vAsayati-te#}) {@1@} To cut, divide,
+214029 new <>10 <ab>U.</ab> ({#vAsayati-te#}) {@1@} To cut, divide,
+;
+; <L>26847<pc>1005-c<k1>vfj<k2>vfj
+226272 old <>hurt, injure, kill. --III. 1 <ab>P.</ab>, 10
+226272 new <>hurt, injure, kill. --III. 1 <ab>P.</ab>, <lbinfo n="10+U."/>
+;
+226273 old <><ab>U.</ab> ({#varjati, varjayati-te, varjita#}) {@1@}
+226273 new <>10 <ab>U.</ab> ({#varjati, varjayati-te, varjita#}) {@1@}
+;
+; <L>31142<pc>1160-a<k1>svap<k2>svap
+261210 old <>{#suzyate#}; {%<ab>desid.</ab>%} {#suzupsati#}) (rarely 1
+261210 new <>{#suzyate#}; {%<ab>desid.</ab>%} {#suzupsati#}) (rarely <lbinfo n="1+U."/>
+;
+261211 old <><ab>U.</ab> {#svapati-te#}) {@1@} To sleep, fall <lbinfo n="a+sleep"/>
+261211 new <>1 <ab>U.</ab> {#svapati-te#}) {@1@} To sleep, fall <lbinfo n="a+sleep"/>
+;
+; [Page1183-b+ 51]
+265709 old <>{#priyezu sOBAgyaPalA hi cArutA ..#} Ku. 5. 1
+265709 new <>{#priyezu sOBAgyaPalA hi cArutA ..#} <ls>Ku. 5. 1</ls>
+;
+; [Page1184-b+ 51]
+265826 old <>{#maDyepyahnaH sPawikarajataBitticCAyA ..#} Ki. 5. 31
+265826 new <>{#maDyepyahnaH sPawikarajataBitticCAyA ..#} <ls>Ki. 5. 31</ls>
+;
+; [Page1185-b+ 53]
+265910 old <>{#SiSiretararocizApyapAM tatizu maktuMmIze ..#} Śi. 8. 71
+265910 new <>{#SiSiretararocizApyapAM tatizu maktuMmIze ..#} <ls>Śi. 8. 71</ls>
+;
+; [Page1185-b+ 53]
+265925 old <>{#samastasaMvartakEraho vitatamUrjitaM narasahaM ca siMDorvapuH ..#} Bh. 2. 76
+265925 new <>{#samastasaMvartakEraho vitatamUrjitaM narasahaM ca siMDorvapuH ..#} <ls>Bh. 2. 76</ls>
+;
+; [Page1186-a+ 50]
+265991 old <>R. 12. 104
+265991 new <><ls>R. 12. 104</ls>
+;

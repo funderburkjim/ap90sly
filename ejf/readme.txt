@@ -55,3 +55,7 @@ python ap90_04d.py ../changes/ap90.txt temp_ap90_parse_04d.txt
 python ap90_04e.py ../changes/ap90.txt temp_ap90_parse_04e.txt
  Check that {@--n@} is followed by either {@--Comp.@} or by {@--m@}, where
    m == n+1
+
+
+python ap90_05a.py ../changes/ap90.txt temp_ap90_parse_05a.txt
+

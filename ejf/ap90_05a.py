@@ -1,28 +1,30 @@
 #-*- coding:utf-8 -*-
-"""ap90_03d.py  for ap90
+"""ap90_05a.py  for ap90
  
  
 """
 from __future__ import print_function
 import sys, re,codecs
 from parseheadline import parseheadline
-from ap90lexer1b import Ap90Lexer
+from ap90lexer1d import Ap90Lexer
 from sly import Parser
 
-parserrfile = 'ap90_03a_err.txt'
+parserrfile = 'ap90_05a_err.txt'
 ferr = codecs.open(parserrfile,"w","utf-8")
+
 class Ap90Parser(Parser):
  tokens = Ap90Lexer.tokens
  #debugfile = 'ap90_03_dbg.txt'
  def __init__(self):
   self.rawtokens = []
   self.errtokens = []
-  
+ nparse_err = 0
  def error(self,t):
   #print('parse error',t)
   ferr.write('entry err: ' + entry.metaline + '\n')
   out = '%s' %t
   ferr.write(out+'\n')
+  Ap90Parser.nparse_err = Ap90Parser.nparse_err +1
  
  # Grammar rules and actions
  # entry : header expr
@@ -49,8 +51,11 @@ class Ap90Parser(Parser):
  @_('term')
  def expr(self,p):
   return p.term
- 
- # term : text | raw | deva | ls | parenterm | bracket
+
+ # term : text | raw | deva | ls | parenterm | bracket | MDASHNUM | MDASH
+ @_('MDASHNUM')
+ def term(self,p):
+  return [('MDASHNUM',p.MDASHNUM)]
  @_('text')
  def term(self,p):
   return p.text
@@ -69,18 +74,16 @@ class Ap90Parser(Parser):
  @_('bracket')
  def term(self,p):
   return p.bracket
+ @_('MDASH')
+ def term(self,p):
+  return [('MDASH',p.MDASH)]
  
  # parenterm : LPAREN expr RPAREN
  @_('LPAREN expr RPAREN')
  def parenterm(self,p):
   # p.expr is a list of 2-tuples (type,val)
-  #eval = ' '.join([x[1] for x in p.expr])
-  #print('p.expr=',p.expr)
   y = [x[1] for x in p.expr]
-  #print('y=',y)
-  #eval = p.expr
   eval = ' '.join(y)
-  #print('eval=',eval)
   val = '( %s )' %eval
   return [('parenterm',val)]
 
@@ -88,13 +91,8 @@ class Ap90Parser(Parser):
  @_('LBRACKET expr RBRACKET')
  def bracket(self,p):
   # p.expr is a list of 2-tuples (type,val)
-  #eval = ' '.join([x[1] for x in p.expr])
-  #print('p.expr=',p.expr)
   y = [x[1] for x in p.expr]
-  #print('y=',y)
-  #eval = p.expr
   eval = ' '.join(y)
-  #print('eval=',eval)
   val = '[ %s ]' %eval
   val = re.sub(r'  +',' ',val)
   return [('bracket',val)]
@@ -146,7 +144,7 @@ class Ap90Parser(Parser):
  #----------------------------------------------------
  @_('BRACKETDEVA', 'PARENDEVA', 'DEVA', 'ITALIC', 'BOLD', 'NUMBER',
             'PAGE', 'QUOTE', 'ETC', 'PARA',
-            'MDASH', 'MDASHNUM',
+             #'MDASH', 'MDASHNUM',
             'LBRACKET', 'RBRACKET',
             'BROKENBAR', 'SUBHW',
              'LPAREN', 'RPAREN',
@@ -182,7 +180,7 @@ class Entry(object):
    print("Entry init error: duplicate L",L,linenum1)
    exit(1)
   self.Ldict[L] = self
-  #  extra attributes
+  #  extra attributes2
   self.marked = False # from a filter of markup associated with verbs
   self.markcode = None
   self.markline = None
@@ -274,37 +272,173 @@ def merge_result1(arr):
   else:
    barr.append(a)
  return barr
+
+
+def check_bold1 (items):
+ # items is list of 2-types
+ if len(items) == 0:
+  return
+ # check that '--Comp.' bold item  either
+ # (a) is absent
+ # (b) is present, and only as the last BOLD item
+ for i,item in enumerate(items):
+  kind,val = item
+  if val != '{@--Comp.@}':
+   continue
+  if (i+1) != len(items):
+   # unexpected
+   items[i] = (kind+'?1',val)
+
+def check_bold2(items):
+ # is {@1@} the last Bold markup in entry?. If so, err
+ nitems = len(items)
+ for i,item in enumerate(items):
+  kind,val = item
+  if val != '{@1@}':
+   continue
+  i1 = i+1
+  if not (i1<nitems):
+   # ending with @1@
+   kind = 'BOLD?2A'
+   items[i] = (kind,val)
+   continue
+
+def check_bold3(items):
+ # Check that any bold {@1@} is followed by {@--2@}
+ nitems = len(items)
+ for i,item in enumerate(items):
+  kind,val = item
+  if val != '{@1@}':
+   continue
+  i1 = i+1
+  item1 = items[i1]
+  kind1,val1 = item1
+  if val1 != '{@--2@}':
+   kind = 'BOLD?a'
+   items[i] = (kind,val)
+   kind1 = 'BOLD?b'
+   items[i1] = (kind1,val1)
+
+def out_method1a_err(entry,bolds):
+ outarr = []
+ outarr.append('; ' +entry.metaline)
+ ibold = 0
+ boldkind,boldval = bolds[ibold]
+ ilinesbold = []
+ lines = entry.datalines
+ for iline,line in enumerate(lines):
+  b = re.findall(r'{@.*?@}',line)
+  if b == []:
+   continue
+  for b1 in b:
+   assert boldval == b1
+   ilinesbold.append(iline)
+   ibold = ibold +1
+   if ibold < len(bolds):
+    boldkind,boldval = bolds[ibold]
+   else:
+    boldval = None
+ boldvals = [val for kind,val in bolds if kind.startswith('BOLD?')]
+ outarr.append(';' + (' '.join(boldvals)))
+ 
+ #lines = []  ## temporary
+ lnum1 = entry.linenum1
+ flag = False
+ for ibold,iline in enumerate(ilinesbold):
+  line = lines[iline]
+  bold = bolds[ibold]
+  kind,val = bold
+  if kind == 'BOLD?a':
+   # remove bold markup
+   newline = re.sub(r'{@1@}','',line)
+   lnum = lnum1 + iline + 1
+   outarr.append('%s old %s' %(lnum,line))
+   outarr.append('%s new %s' %(lnum,newline))
+   outarr.append(';')
+  elif kind == 'BOLD?b':
+   # print commented line
+   newline = line
+   lnum = lnum1 + iline + 1
+   outarr.append(';%s old %s' %(lnum,line))
+   outarr.append(';%s new %s' %(lnum,newline))
+   outarr.append(';')
+   
+ for out in outarr:
+  ferr.write(out+'\n')
+ Ap90Parser.nparse_err = Ap90Parser.nparse_err + 1
+ 
+def out_method1a(entry,results):
+ outarr = []
+ bolds = [item for item in results if item[0] == 'BOLD']
+ check_bold1(bolds)
+ check_bold2(bolds)
+ check_bold3(bolds)
+ outarr.append(entry.metaline)
+ for item in bolds:
+  kind,val = item
+  #if kind == 'BOLD':
+  outarr.append('%s: %s' %item)
+  if kind.startswith('BOLD?a'):
+   out_method1a_err(entry,bolds)  # change records to ferr
+ outarr.append(entry.lend)
+ return outarr
+
+def flatten_result(result):
+ result1 = []
+ for itemlist in result:
+  for item in itemlist:
+   # item is [(type,val)]
+   result1.append(item)
+ return result1
+
+def out_method1_merge(arr):
+ return arr
+ # a is list of 2-tuples (kind,val)
+ # merge sequences
+ barr = []
+ inseq = []
+ for a in arr:
+  kind,val =  a
+  if kind == 'LBRACKET':
+   inseq = ['[']
+  elif kind == 'RBRACKET':
+   inseq.append(']')
+   kind1 = 'bracket'
+   val1 = ' '.join(inseq)
+   val1 = re.sub(r'  +',' ',val1)
+   barr.append((kind1,val1))
+   inseq = []
+  elif inseq != []:
+   inseq.append(val)
+  else:
+   barr.append(a)
+ return barr
+
+def out_method1(entry,result):
+ result2 = out_method1_merge(result)
+ outarr = []
+ outarr.append(entry.metaline)
+ for item in result2:
+  outarr.append('%s: %s' %item)
+ # lend
+ outarr.append(entry.lend)
+ return outarr
+
 def write(fileout,entries):
  with codecs.open(fileout,"w","utf-8") as f:
   nout = 0
   nerr = 0
   merr = 10000
+  d = {}  # catch bold errors
   for entry in entries:
    nout = nout + 1
-   outarr = []
-   outarr.append(entry.metaline)
-   result1 = []
-   for itemlist in entry.result:
-    for item in itemlist:
-     # item is [(type,val)]
-     result1.append(item)
-     kind = item[0]
-     if kind == 'RPAREN':
-      print('; ----------------------------')
-      print('; ' + entry.metaline)
-      print(' old ')
-      print(' new ')
-   #for item in result1:
-   # outarr.append('%s: %s' %item)
-   result2 = merge_result1(result1)
-   for item in result2:
-    outarr.append('%s: %s' %item)
-   # lend
-   outarr.append(entry.lend)
+   result1 = flatten_result(entry.result)
+   #outarr = out_method1(entry,result1,d)
+   outarr = out_method1(entry,result1)
    for out in outarr:
     f.write(out+'\n')
  print(nout,"entries to",fileout)
-
+ 
 def write_dbg1(fileout,entries):
  # distinct {%X%}
  d = {}
@@ -368,4 +502,6 @@ if __name__=="__main__":
  #write_dbg1(fileout,entries)
  
  write(fileout,entries)
-
+ ferr.close()
+ print(Ap90Parser.nparse_err,'Parse errors written to',parserrfile)
+  

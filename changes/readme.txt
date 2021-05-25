@@ -118,3 +118,46 @@ diff ap90.txt ap90_rev.txt | wc -l
 # ap90_rev.txt no long needed.
 rm ap90_rev.txt
 
+## We now commit ap90.txt to csl-orig/v02/ap90/ap90.txt, as commit
+  f6c510d662ea06037ae49434f9a62d7a1ffcf6e2
+## And prepare for further changes here by
+  renaming ap90.txt as ap90_3.txt
+## Next round of changes will be in changes_04.txt
+
+changes_04.txt
+# class numbers at end of lines
+  Search for numbers (1-10) at end of lines, with next line <ab>[PAU].</ab>
+  and move the class number to next line.
+  Example:
+  OLD
+  xxx 1
+  <><ab>P.</ab> yyy
+  NEW
+  xxx <lbinfo n="1+P."/>
+  <>1 <ab>P.</ab> yyy
+ python change_misc1_02.py ap90.txt changes_04_01.txt
+ 26 changes
+# mark all class numbers as {cNc}  ['c' for 'class']
+ python change_misc1_02.py ap90.txt changes_04_02.txt
+ 3589 changes
+# misc. changes
+# mark all section numbers starting with '--' and preceded by '>' or ' '
+  --N. -> {N}   Note '--' and '.' dropped.
+  Usually, but not always, -- precedes (except for 1) and period follows. 
+ python change_misc1_02.py ap90.txt changes_04_03.txt
+ 7108 changes in 6418 lines.
+
+# mark N. <ab>P.</ab> as {cNc} <ab>P.</ab>.  About 200
+
+# mark sections that Don't start with '--'  I.e., a naked number in context:
+ preceded by <> OR
+ preceded by space BUT not in <ls>..</ls> and not in <lbinfo.../>
+ python change_misc1_02.py ap90.txt changes_04_05.txt
+ 6895 lines changed.
+
+python make_change1.py ap90.txt temp_lnum_entries.txt changes_04_06.txt
+ misc. changes based on odd placement of numbers.  Manual.  Mostly ls corrections
+ 
+python entries_from_lnum.py ap90.txt temp.txt temp_lnum_entries.txt
+
+python updateByLine.py ap90_3.txt changes_04.txt ap90.txt
