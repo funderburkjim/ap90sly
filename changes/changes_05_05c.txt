@@ -1,0 +1,248 @@
+; <L>92<pc>0005-a<k1>akfta<k2>akfta
+1710 old <>{#vAgvyavahAreRa kftA; kftA = yadapatyaM BavedasyAM tanmamaM#}
+1710 new <>{#vAgvyavahAreRa kftA#}; {#kftA#} = {#yadapatyaM BavedasyAM tanmamaM#}
+; 
+; <L>382<pc>0024-b<k1>ajahatsvArTA<k2>ajahatsvArTA
+5914 old <>disappear; as {#kuMtAH praviSaMti = kuMtaDAriRaH#}
+5914 new <>disappear; as {#kuMtAH praviSaMti#} = {#kuMtaDAriRaH#}
+; 
+; <L>382<pc>0024-b<k1>ajahatsvArTA<k2>ajahatsvArTA
+5915 old <>{#puruzAH; Sveto DAvati = SvetavarRo 'Svo DAvati#};
+5915 new <>{#puruzAH#}; {#Sveto DAvati#} = {#SvetavarRo 'Svo DAvati#};
+; 
+; <L>511<pc>0029-b<k1>ati<k2>ati
+7066 old <>{#ºgArgyaH, = praSastA gOH, SoBano, gArgyaH#};
+7066 new <>{#ºgArgyaH#}, = {#praSastA gOH, SoBano, gArgyaH#};
+; 
+; <L>511<pc>0029-b<k1>ati<k2>ati
+7071 old <>case; {#atimartyaH = martyamatikrAMtaH; ºmAlaH#}, <lbinfo n="ati#krAMto"/>
+7071 new <>case; {#atimartyaH#} = {#martyamatikrAMtaH; ºmAlaH#}, <lbinfo n="ati#krAMto"/>
+; 
+; <L>511<pc>0029-b<k1>ati<k2>ati
+7092 old <>{#atinidraM = nidrA saMprati na yujyate#} <ls>Sk.</ls> The
+7092 new <>{#atinidraM#} = {#nidrA saMprati na yujyate#} <ls>Sk.</ls> The
+; 
+; <L>669<pc>0034-b<k1>ativAhita<k2>ativAhita
+8247 old <>{#--taM#} {#(sUkzmaSarIraM) = ativAha#}, <ab>q. v.</ab>
+8247 new <>{#--taM#} ({#sUkzmaSarIraM#}) = {#ativAha#}, <ab>q. v.</ab>
+; 
+; <L>835.1<pc>0040-c<k1>adAnya<k2>adAnya, adAyin, adAman
+9711 old {#adAnya, adAyin, adAman,} <lbinfo n="adA+Su"/>
+9711 new {#adAnya, adAyin, adAman#}, <lbinfo n="adA+Su"/>
+; 
+; <L>906<pc>0044-a<k1>aDara<k2>aDara
+10466 old <>{#pravartetADarottaraM#} <ls>Ms. 7. 21</ls> ({#aDaraM = SUdrAdi#},
+10466 new <>{#pravartetADarottaraM#} <ls>Ms. 7. 21</ls> ({#aDaraM#} = {#SUdrAdi#},
+; 
+; <L>906<pc>0044-a<k1>aDara<k2>aDara
+10467 old <>{#uttaraM = praDAnaM#}); {#aDarmeRa jito DarmaH#} <lbinfo n="pravf#ttamaDarottaraM"/>
+10467 new <>{#uttaraM#} = {#praDAnaM#}); {#aDarmeRa jito DarmaH#} <lbinfo n="pravf#ttamaDarottaraM"/>
+; 
+; <L>926<pc>0046-a<k1>aDika<k2>aDika
+10803 old <>{#catvAriMSato'DikAH = ºcatvAriMSAH#} more than 40;  <lbinfo n="na#vADikAM"/>
+10803 new <>{#catvAriMSato'DikAH#} = {#ºcatvAriMSAH#} more than 40;  <lbinfo n="na#vADikAM"/>
+; 
+; <L>1108<pc>0053-b<k1>aDyAs<k2>aDyAs
+12481 old <>by him ({#aDyAsitaM = AkramaRaM#}). ({%c%}) To <lbinfo n="re+sort"/>
+12481 new <>by him ({#aDyAsitaM#} = {#AkramaRaM#}). ({%c%}) To <lbinfo n="re+sort"/>
+; 
+; <L>1240<pc>0058-c<k1>anarviS<k2>anarviS
+13631 old <>{#fkarmaRi vic, araM gaMtavyaM prati viSati,} <lbinfo n="viS-kvi#p"/>
+13631 new <>{#fkarmaRi vic, araM gaMtavyaM prati viSati,#} <lbinfo n="viS-kvi#p"/>
+; 
+; <L>1298<pc>0060-c<k1>anAga<k2>anAga
+14061 old <><ls>Rv. 10. 12. 9</ls> ({#anAgAn = apApAn#}).
+14061 new <><ls>Rv. 10. 12. 9</ls> ({#anAgAn#} = {#apApAn#}).
+; 
+; <L>1415<pc>0063-c<k1>anitya<k2>anitya
+14863 old <><ls>T. S. 9</ls> ({#anityA = kAryarUpA#}); See {#nitya#};
+14863 new <><ls>T. S. 9</ls> ({#anityA#} = {#kAryarUpA#}); See {#nitya#};
+; 
+; <L>1438<pc>0064-c<k1>anira<k2>anira
+15066 old <>{#anAvfzwi (= Iti)#}.
+15066 new <>{#anAvfzwi#} (= {#Iti#}).
+; 
+; <L>1487<pc>0066-c<k1>anu<k2>anu
+15479 old <>{#anuvizRu = vizRoH paScAt#} <ls>P. II. 4. 18</ls> <ls>Sk.</ls>;
+15479 new <>{#anuvizRu#} = {#vizRoH paScAt#} <ls>P. II. 4. 18</ls> <ls>Sk.</ls>;
+; 
+; <L>1487<pc>0066-c<k1>anu<k2>anu
+15487 old <>{#vArARasI = gaMgAmanvAyataM#} ( <lbinfo n="gaMgAdErGyasadfSa#dErGyopalakzitA"/>
+15487 new <>{#vArARasI#} = {#gaMgAmanvAyataM#} ( <lbinfo n="gaMgAdErGyasadfSa#dErGyopalakzitA"/>
+; 
+; <L>2151<pc>0097-a<k1>aMDikA<k2>aMDikA
+22083 old <>disease of the eye. {@--5@} = {#sarzapI, = sidDA#}
+22083 new <>disease of the eye. {@--5@} = {#sarzapI#}, = {#sidDA#}
+; 
+; <L>2170<pc>0099-b<k1>anyatra<k2>anyatra
+22529 old <>{#sattraM nizeduH#} <ls>Kauś.</ls> Br. ({#anyatra = anye#}).
+22529 new <>{#sattraM nizeduH#} <ls>Kauś.</ls> Br. ({#anyatra#} = {#anye#}).
+; 
+; <L>2191<pc>0100-c<k1>anvak<k2>anvak
+22819 old <>{#anvagBUtvA tizWati = pfzWato BUtvA#}). {@--4@} (with <ab>acc.</ab>)
+22819 new <>{#anvagBUtvA tizWati#} = {#pfzWato BUtvA#}). {@--4@} (with <ab>acc.</ab>)
+; 
+; <L>2430<pc>0108-b<k1>apara<k2>apara
+24643 old <><ls>Bhāṣā P. 8.</ls> ({#paraM = aDikavftti#}) higher,
+24643 new <><ls>Bhāṣā P. 8.</ls> ({#paraM#} = {#aDikavftti#}) higher,
+; 
+; <L>2430<pc>0108-b<k1>apara<k2>apara
+24644 old <>{#aparaM = nyUnavftti#} lower, or  <lbinfo n="aDikadeSavftti#tvaM"/>
+24644 new <>{#aparaM#} = {#nyUnavftti#} lower, or  <lbinfo n="aDikadeSavftti#tvaM"/>
+; 
+; <L>2505<pc>0111-b<k1>apavAdaH<k2>apavAdaH
+25270 old <>{#maDukarErapavAdakarEriva#} <ls>Śi. 6. 9</ls>; ({#ºkarEH = vyADEH, apavAdaM#}
+25270 new <>{#maDukarErapavAdakarEriva#} <ls>Śi. 6. 9</ls>; ({#ºkarEH#} = {#vyADEH, apavAdaM#}
+; 
+; <L>2530<pc>0112-b<k1>apavargaH<k2>apavargaH
+25454 old <><ls n="P.">III. 4. 60</ls>; ({#apavargaH = kriyAprAptiH#} or {#samAptiH#}
+25454 new <><ls n="P.">III. 4. 60</ls>; ({#apavargaH#} = {#kriyAprAptiH#} or {#samAptiH#}
+; 
+; <L>2840<pc>0122-a<k1>apratIta<k2>apratIta
+27763 old <>(where {#ASaya = vAsanA#} occurs in Yoga
+27763 new <>(where {#ASaya#} = {#vAsanA#} occurs in Yoga
+; 
+; <L>3431<pc>0140-b<k1>aBisaMkzip<k2>aBisaMkzip
+32101 old {#aBisaMkzip#}¦ {#--saMkzepaH =saMkzip#}, &c. <ab>q. v.</ab>
+32101 new {#aBisaMkzip#}¦ {#--saMkzepaH#} = {#saMkzip#}, &c. <ab>q. v.</ab>
+; 
+; <L>3649<pc>0146-a<k1>aByAdAnaM<k2>aByAdAnaM
+33505 old <><ls>P. VIII. 2. 87</ls> ({#ºne= AraMBe#} <ls>Sk.</ls>).
+33505 new <><ls>P. VIII. 2. 87</ls> ({#ºne#} = {#AraMBe#} <ls>Sk.</ls>).
+; 
+; <L>3946<pc>0157-b<k1>ayAta<k2>ayAta
+36022 old <>says {#aº =vigatadozARi#} free from faults,
+36022 new <>says {#aº#} = {#vigatadozARi#} free from faults,
+; 
+; <L>4201<pc>0170-b<k1>aryaman<k2>aryaman
+38817 old {#aryaman#}¦ {%<ab>m.</ab>%} [{#aryaM SrezWaM mimIte,} <lbinfo n="mA-kani#n"/>
+38817 new {#aryaman#}¦ {%<ab>m.</ab>%} [{#aryaM SrezWaM mimIte,#} <lbinfo n="mA-kani#n"/>
+; 
+; <L>4342<pc>0175-b<k1>ava<k2>ava
+39993 old <>{#avakokilaH = avakruzwaH kokilayA#} <ls>Sk.</ls>
+39993 new <>{#avakokilaH#} = {#avakruzwaH kokilayA#} <ls>Sk.</ls>
+; 
+; <L>4924<pc>0192-b<k1>avahananaM<k2>avahananaM
+44069 old <>{#avahananaM = PupPusaH#} <ls>Mit.</ls>).
+44069 new <>{#avahananaM#} = {#PupPusaH#} <ls>Mit.</ls>).
+; 
+; <L>5508<pc>0212-a<k1>asahana<k2>asahana
+48652 old <>impatience; {#paraguRAsahanaM = asUyA#}.
+48652 new <>impatience; {#paraguRAsahanaM#} = {#asUyA#}.
+; 
+; <L>5724<pc>0220-1<k1>AkaMp<k2>AkaMp
+50521 old <>take {#AkaMpita = IzatkaMpanaM#}); <ls>Rs. 6. 22.</ls>
+50521 new <>take {#AkaMpita#} = {#IzatkaMpanaM#}); <ls>Rs. 6. 22.</ls>
+; 
+; <L>5860<pc>0226-a<k1>Agam<k2>Agam
+51741 old <>patience; {#Agamayasva tAvat = kzamasva#} <ls>Sk.</ls>;
+51741 new <>patience; {#Agamayasva tAvat#} = {#kzamasva#} <ls>Sk.</ls>;
+; 
+; <L>6024<pc>0231-a<k1>AjYAnaM<k2>AjYAnaM
+52947 old <>perceiving ({#AjYAnaM = AjYaptiH ISvaraBAvaH#}
+52947 new <>perceiving ({#AjYAnaM#} = {#AjYaptiH ISvaraBAvaH#}
+; 
+; <L>7074<pc>0266-a<k1>ASrita<k2>ASrita
+61038 old <><ls>R. 8. 14</ls>; {#kfzRASritaH=kfzRamASritaH#} <ls>Sk.</ls>;
+61038 new <><ls>R. 8. 14</ls>; {#kfzRASritaH#} = {#kfzRamASritaH#} <ls>Sk.</ls>;
+; 
+; <L>7345<pc>0276-b<k1>idaM<k2>idaM
+63331 old <>({#ayaM = vakzyamARaH#} <ls>Kull.</ls>); {#SrutvEtadidamUcuH#}.
+63331 new <>({#ayaM#} = {#vakzyamARaH#} <ls>Kull.</ls>); {#SrutvEtadidamUcuH#}.
+; 
+; <L>7708<pc>0290-a<k1>utka<k2>utka
+66396 old {#utka#}¦ {%<ab>a.</ab>%} [{#ud-svArTe kan; utkaH = u#}.
+66396 new {#utka#}¦ {%<ab>a.</ab>%} [{#ud-svArTe kan#}; {#utkaH#} = {#u#}.
+; 
+; <L>8420<pc>0315-b<k1>upa<k2>upa
+72146 old <><ab>comp.</ab> in these senses; {#upagaMgaM = gaMgAyAH#}
+72146 new <><ab>comp.</ab> in these senses; {#upagaMgaM#} = {#gaMgAyAH#}
+; 
+; <L>8557<pc>0320-b<k1>upajYA<k2>upajYA
+73260 old <>upon: ({#upajYAtaM=vinopadeSena jYAtaM#}); see
+73260 new <>upon: ({#upajYAtaM#} = {#vinopadeSena jYAtaM#}); see
+; 
+; <L>9457<pc>0348-c<k1>fta<k2>fta
+79816 old <>{#ftaH =suKArtaH#}; so {#duHKaº, kAmaº#}. {#--taM#}
+79816 new <>{#ftaH#} = {#suKArtaH#}; so {#duHKaº, kAmaº#}. {#--taM#}
+; 
+; <L>9912<pc>0365-1<k1>kaH<k2>kaH
+83367 old <>{#na kaM suKaM = duHKaM; na akaM yatra#}). {@--2@} Water;
+83367 new <>{#na kaM suKaM#} = {#duHKaM; na akaM yatra#}). {@--2@} Water;
+; 
+; <L>11443<pc>0421-b<k1>kfzRa<k2>kfzRa
+96106 old <>colour. {#--rUpya= ºcara#} <ab>q. v.</ab> {#--lavaRaM#} {1}
+96106 new <>colour. {#--rUpya#} = {#ºcara#} <ab>q. v.</ab> {#--lavaRaM#} {1}
+; 
+; <L>12253<pc>0447-c<k1>gaRaH<k2>gaRaH
+102066 old <>{#--aDipaH, =aDipatiH#} {1} <ab>N.</ab> of Śiva;  <lbinfo n="ls:Śi. 9.+27"/>
+102066 new <>{#--aDipaH#}, = {#aDipatiH#} {1} <ab>N.</ab> of Śiva;  <lbinfo n="ls:Śi. 9.+27"/>
+; 
+; <L>13174<pc>0488-b<k1>cala<k2>cala
+110771 old <>{#calAcalAM#} <ls>Ki. 11. 30</ls> ({#calAcala = caMcalA#}
+110771 new <>{#calAcalAM#} <ls>Ki. 11. 30</ls> ({#calAcala#} = {#caMcalA#}
+; 
+; <L>14069<pc>0518-a<k1>jYA<k2>jYA
+117620 old <>({#sarpi zaH = sarpizA#}). {@--9@} <ab>Ved.</ab> To <lbinfo n="acknow+ledge"/>
+117620 new <>({#sarpi zaH#} = {#sarpizA#}). {@--9@} <ab>Ved.</ab> To <lbinfo n="acknow+ledge"/>
+; 
+; <L>14633<pc>0537-a<k1>tAvat<k2>tAvat
+121723 old <>{#tAvatprakIrRa = sAkalyena prasArita#} <ls>Malli.</ls>). {@--8@}
+121723 new <>{#tAvatprakIrRa#} = {#sAkalyena prasArita#} <ls>Malli.</ls>). {@--8@}
+; 
+; <L>14705<pc>0539-b<k1>tizWadgu<k2>tizWadgu
+122229 old <><ls>Bk. 4. 14</ls> ({#tizWadgu = rAtrEH praTamanAqikA#}).
+122229 new <><ls>Bk. 4. 14</ls> ({#tizWadgu#} = {#rAtrEH praTamanAqikA#}).
+; 
+; <L>14895<pc>0545-a<k1>tfMp<k2>tfMp
+123550 old {#tfMp#}¦ or {#tfMP = tfp#} <ab>q. v.</ab>
+123550 new {#tfMp#}¦ or {#tfMP#} = {#tfp#} <ab>q. v.</ab>
+; 
+; <L>16462<pc>0613-b<k1>nAqiH<k2>nAqiH, --qI
+138419 old <>ravisher. {#--nakzatraM=janmanakzatra#} <ab>q. v.</ab>
+138419 new <>ravisher. {#--nakzatraM#} = {#janmanakzatra#} <ab>q. v.</ab>
+; 
+; <L>16487<pc>0614-a<k1>nAMtarIyaka<k2>nAMtarIyaka
+138588 old <>({#nAMtarIyakatvaM = tadaBAve tadaBAvarUpA vyAptiH#}).
+138588 new <>({#nAMtarIyakatvaM#} = {#tadaBAve tadaBAvarUpA vyAptiH#}).
+; 
+; <L>16810<pc>0624-b<k1>nimAnaM<k2>nimAnaM
+140942 old <>{#nimAnaM = mUlyaM#} <ls>Sk.</ls>).
+140942 new <>{#nimAnaM#} = {#mUlyaM#} <ls>Sk.</ls>).
+; 
+; <L>17168<pc>0639-c<k1>nizadanaM<k2>nizadanaM
+144302 old <>residence. {#--naH=nizAda#} <ab>q. v.</ab>
+144302 new <>residence. {#--naH#} = {#nizAda#} <ab>q. v.</ab>
+; 
+; <L>17319<pc>0646-a<k1>nIla<k2>nIla
+145730 old <>{7} a bee. ({#--WaM#}) a radish. {#ºakza = rudrAkza#}
+145730 new <>{7} a bee. ({#--WaM#}) a radish. {#ºakza#} = {#rudrAkza#}
+; 
+; <L>23666<pc>0885-a<k1>yatas<k2>yatas
+199261 old <>({#yataH = yasmAt#} from whom); {#yataSca#} <lbinfo n="Baya#mASaMketprAcIM"/>
+199261 new <>({#yataH#} = {#yasmAt#} from whom); {#yataSca#} <lbinfo n="Baya#mASaMketprAcIM"/>
+; 
+; <L>23679<pc>0888-a<k1>yadi<k2>yadi
+199777 old <>{#kotra (= kastarhi) dozaH#} <ls>H. Pr. 31.</ls>
+199777 new <>{#kotra#} (= {#kastarhi#}) {#dozaH#} <ls>H. Pr. 31.</ls>
+; 
+; <L>23824<pc>0894-b<k1>yugaM<k2>yugaM
+201162 old <><ls>Y. 1. 96</ls> ({#yuge = janmani#} <ls>Mit.</ls>). {@--7@} An <lbinfo n="ex+pression"/>
+201162 new <><ls>Y. 1. 96</ls> ({#yuge#} = {#janmani#} <ls>Mit.</ls>). {@--7@} An <lbinfo n="ex+pression"/>
+; 
+; <L>24389<pc>0919-1<k1>lakzaRaM<k2>lakzaRaM
+206701 old <>unlucky. {#--lakzaRA=jahallakzaRA#} <ab>q. v.</ab>
+206701 new <>unlucky. {#--lakzaRA#} = {#jahallakzaRA#} <ab>q. v.</ab>
+; 
+; <L>25270<pc>0952-c<k1>vasatiH<k2>vasatiH --tI
+214051 old <>({#vasatiH = rAtriH#} <ls>Malli.</ls>) ‘he halted at
+214051 new <>({#vasatiH#} = {#rAtriH#} <ls>Malli.</ls>) ‘he halted at
+; 
+; <L>26799<pc>1004-a<k1>vIwiH<k2>vIwiH, --vIwikA, --vIwI
+225864 old <>betel (<ab>Mar.</ab> {#viqA = tAMbUla#} <ab>q. v.</ab>). {@--3@} A
+225864 new <>betel (<ab>Mar.</ab> {#viqA#} = {#tAMbUla#} <ab>q. v.</ab>). {@--3@} A
+; 
+; <L>29358<pc>1095-b<k1>samasyA<k2>samasyA
+246574 old <>{#kadAcitkartrIyamapyarDatanUsamasyAM#} <ls>N. 7. 82</ls> ({#samasyA = saMGawanaM#}).
+246574 new <>{#kadAcitkartrIyamapyarDatanUsamasyAM#} <ls>N. 7. 82</ls> ({#samasyA#} = {#saMGawanaM#}).
+; 

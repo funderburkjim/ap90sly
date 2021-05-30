@@ -1,0 +1,76 @@
+; <L>413<pc>0025-c<k1>ajjukA<k2>ajju(jjU)kA
+6163 old <>{#arjUka, pf#}. {#rakArasya jatvam#} <ls>Tv.</ls>] A <lbinfo n="courte+zan"/>
+6163 new <>{#arj-Uka, pf#}. {#rakArasya jatvam#} <ls>Tv.</ls>] A <lbinfo n="courte+zan"/>
+;
+; <L>445<pc>0027-b<k1>aMjizWaH<k2>aMjizWaH --zRuH
+6550 old <>{#aMjizWac-izRuc#} <ls>Uṇ. 4. 2</ls>] The sun.
+6550 new <>{#aMj-izWac-izRuc#} <ls>Uṇ. 4. 2</ls>] The sun.
+;
+; <L>508<pc>0029-b<k1>atasaH<k2>atasaH
+7032 old <>{#atasac#} <ls>Uṇ. 3. 117</ls>] {@1@} Wind, air. {@--2@}
+7032 new <>{#atas-ac#} <ls>Uṇ. 3. 117</ls>] {@1@} Wind, air. {@--2@}
+;
+; <L>995<pc>0049-b<k1>aDiyoDaH<k2>aDiyoDaH
+11491 old <>{#yuDac#}] The foremost hero or warrior
+11491 new <>{#yuD-ac#}] The foremost hero or warrior
+;
+; <L>1475<pc>0066-a<k1>anIkaH<k2>anIkaH --kaM
+15358 old <>{#anIkan#} <ls>Uṇ. 4. 16-17</ls>] {@1@} Army, forces;
+15358 new <>{#an-Ikan#} <ls>Uṇ. 4. 16-17</ls>] {@1@} Army, forces;
+;
+; <L>1501<pc>0067-b<k1>anukAma<k2>anukAma
+15643 old <>{#kamac#}] Desirous, lustful. {#--maM#} {%<ab>ind.</ab>%}
+15643 new <>{#kam-ac#}] Desirous, lustful. {#--maM#} {%<ab>ind.</ab>%}
+;
+; <L>3813<pc>0151-a<k1>amAvAsya<k2>amAvAsya, --syaka
+34671 old <>{#vunaz#} <ls>P. IV. 3. 30-31</ls>; {#amAvAsyAyAM jAtaH#}]
+34671 new <>{#vun-az#} <ls>P. IV. 3. 30-31</ls>; {#amAvAsyAyAM jAtaH#}]
+;
+; <L>4272<pc>0173-b<k1>alasa<k2>alasa
+39459 old <>{#lasac#}] {@1@} Inactive, without energy,
+39459 new <>{#las-ac#}] {@1@} Inactive, without energy,
+;
+; <L>6615<pc>0250-b<k1>AmrAtaH<k2>AmrAtaH
+57463 old <>{#atac#} <ls>Tv.</ls>] The hog-plum, Spondias
+57463 new <>{#at-ac#} <ls>Tv.</ls>] The hog-plum, Spondias
+;
+; <L>9836<pc>0363-b<k1>Opayaja<k2>Opayaja
+82938 old <>{#upayajaR#}] Belonging to the sentences
+82938 new <>{#upayaj-aR#}] Belonging to the sentences
+;
+; <L>23668<pc>0885-b<k1>yatiH<k2>yatiH
+199300 old <>{#yatin#}] {@1@} An ascetic, one who has <lbinfo n="re+nounced"/>
+199300 new <>{#yat-in#}] {@1@} An ascetic, one who has <lbinfo n="re+nounced"/>
+;
+; <L>24208<pc>0914-a<k1>ruc<k2>ruc
+205305 old <>{#arucatarocizwa, rocizyate, rucita#}) {@1@} To shine,
+205305 new <>{#arucat-arocizwa, rocizyate, rucita#}) {@1@} To shine,
+;
+; <L>25197<pc>0950-c<k1>valaBiH<k2>valaBiH --BI
+213544 old <>{#valaBi vA NIp#}] (Also frequently <lbinfo n="writ+ten"/>
+213544 new <>{#val-aBi vA NIp#}] (Also frequently <lbinfo n="writ+ten"/>
+;
+; <L>28506<pc>1064-a<k1>Sveta<k2>Sveta
+239542 old <>{#Svitac GaY vA#}] White; {#tataH SvetErhayEryukte#}
+239542 new <>{#Svit-ac GaY vA#}] White; {#tataH SvetErhayEryukte#}
+;
+; <L>29881<pc>1110-a<k1>salilaM<k2>salilaM
+250080 old <>{#salilac#} <ls>Uṇ. 1. 54</ls>] {@1@} Water;  <lbinfo n="suBagasali#lAvagAhAH"/>
+250080 new <>{#sal-ilac#} <ls>Uṇ. 1. 54</ls>] {@1@} Water;  <lbinfo n="suBagasali#lAvagAhAH"/>
+;
+; <L>30846<pc>1147-c<k1>sTA<k2>sTA
+258478 old <>{#asyAtasTita, sTAsyati-te, sTAtuM, sTita#}; {%<ab>pass.</ab>%}
+258478 new <>{#asyAt-asTita, sTAsyati-te, sTAtuM, sTita#}; {%<ab>pass.</ab>%}
+;
+; <L>30958<pc>1153-a<k1>spfS<k2>spfS
+259667 old <>{#aspfkzataspArkzIt-asprAkzIt, sprakzyati-sparkzyati,#} <lbinfo n="sparzwuM#sprazwuM"/>
+259667 new <>{#aspfkzat-aspArkzIt-asprAkzIt, sprakzyati-sparkzyati,#} <lbinfo n="sparzwuM#sprazwuM"/>
+;
+; <L>31059<pc>1156-c<k1>syaMd<k2>syaMd
+260492 old <>{#asyadatasyaMtta-asyaMdizwa, syaMtsyati-te, syaMdizyate,#} <lbinfo n="syaM#dituM"/>
+260492 new <>{#asyadat-asyaMtta-asyaMdizwa, syaMtsyati-te, syaMdizyate,#} <lbinfo n="syaM#dituM"/>
+;
+; <L>31180<pc>1162-a<k1>svAtiH<k2>svAtiH --tI
+261625 old <>{#atin strItvapakze vA NIp#}] {@1@} One of the
+261625 new <>{#at-in strItvapakze vA NIp#}] {@1@} One of the
+;

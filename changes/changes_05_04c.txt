@@ -1,0 +1,111 @@
+; <L>3615<pc>0145-a<k1>aByASa<k2>aByASa
+33242 old <>vicinity (also written as {#aByAsa#} q.
+33242 new <>vicinity (also written as {#aByAsa#} <lbinfo n="q.+v."/>
+;
+33243 old <>v.); {#vAyasAByASe samupavizwaH#} <ls>Pt. 2</ls>:  <lbinfo n="saha#sAByAgatAM"/>
+33243 new <><ab>q. v.</ab>); {#vAyasAByASe samupavizwaH#} <ls>Pt. 2</ls>:  <lbinfo n="saha#sAByAgatAM"/>
+;
+; <L>11587<pc>0426-c<k1>koSalikaM<k2>koSalikaM
+97211 old {#koSalikaM#}¦ A bribe ({#= kOSalika#} q.
+97211 new {#koSalikaM#}¦ A bribe ({#= kOSalika#} <lbinfo n="q.+v."/>
+;
+97212 old <>v. which is the more correct form).
+97212 new <><ab>q. v.</ab> which is the more correct form).
+;
+; <L>13040<pc>0482-b<k1>caMqa<k2>caMqa
+109478 old <>{#--muMqA#} a form of Durgā; ({#= cAmuMqA#} q.
+109478 new <>{#--muMqA#} a form of Durgā; ({#= cAmuMqA#} <lbinfo n="q.+v."/>
+;
+109479 old <>v.). {#--mfgaH#} a wild animal. {#--vikrama#}
+109479 new <><ab>q. v.</ab>). {#--mfgaH#} a wild animal. {#--vikrama#}
+;
+; <L>14633<pc>0537-a<k1>tAvat<k2>tAvat
+121696 old {#tAvat#}¦ {%<ab>a.</ab>%} (Correlative of {#yAvatM#} q.
+121696 new {#tAvat#}¦ {%<ab>a.</ab>%} (Correlative of {#yAvatM#} <lbinfo n="q.+v."/>
+;
+121697 old <>v.) {@1@} So much, that much, so
+121697 new <><ab>q. v.</ab>) {@1@} So much, that much, so
+;
+; <L>16165<pc>0601-b<k1>Deya<k2>Deya
+135780 old <>affix, as in {#nAmaº, BAgaº,#} q. <ab>q. v.</ab> v.
+135780 new <>affix, as in {#nAmaº, BAgaº,#} <ab>q. v.</ab>
+;
+; <L>18411<pc>0685-a<k1>paryanya<k2>paryanya
+154521 old {#paryanya#}¦ {#= parjanya#} p. v.
+154521 new {#paryanya#}¦ = {#parjanya#} <ab>q. v.</ab>
+;
+; <L>18468<pc>0686-b<k1>parvataH<k2>parvataH
+154889 old <>a fabulous animal called Śarabha, q.
+154889 new <>a fabulous animal called Śarabha, <lbinfo n="q.+v."/>
+;
+154890 old <>v. {#--ASrayin#} {%<ab>m.</ab>%}, {#--ASrayaH#} a <lbinfo n="moun+taineer"/>
+154890 new <><ab>q. v.</ab> {#--ASrayin#} {%<ab>m.</ab>%}, {#--ASrayaH#} a <lbinfo n="moun+taineer"/>
+;
+; <L>22084<pc>0812-b<k1>BARaH<k2>BARaH
+183655 old <>by a copious use of {#AkASaBAzita#} q.
+183655 new <>by a copious use of {#AkASaBAzita#} <lbinfo n="q.+v."/>
+;
+183656 old <>v.; {#BARaH syAdDUrtacarito nAnAvasTAMtarAtmakaH .#}
+183656 new <><ab>q. v.</ab>; {#BARaH syAdDUrtacarito nAnAvasTAMtarAtmakaH .#}
+;
+; <L>22418<pc>0829-b<k1>BrAmara<k2>BrAmara
+187250 old <>round from left to right; ({#= pradakziRA#} q.
+187250 new <>round from left to right; ({#= pradakziRA#} <lbinfo n="q.+v."/>
+;
+187251 old <>v.); as in {#dIyaMtAM BrAmaryaH#} <ls>Karpūr. 4</ls>,
+187251 new <><ab>q. v.</ab>); as in {#dIyaMtAM BrAmaryaH#} <ls>Karpūr. 4</ls>,
+;
+; <L>22622<pc>0839-c<k1>maDyama<k2>maDyama
+189410 old <>{#maDyamalokapAlaH, maDyamapadaM maDyamareKA#} q. <ab>q. v.</ab> v.
+189410 new <>{#maDyamalokapAlaH, maDyamapadaM maDyamareKA#} <ab>q. v.</ab>
+;
+; <L>24212<pc>0914-a<k1>ruciH<k2>ruciH(cI)
+205360 old <>{@--2@} A ray of light; as in {#ruciBartf#} q.
+205360 new <>{@--2@} A ray of light; as in {#ruciBartf#} <lbinfo n="q.+v."/>
+;
+205361 old <>v. {@--3@} Appearance, colour, beauty
+205361 new <><ab>q. v.</ab> {@--3@} Appearance, colour, beauty
+;
+; <L>24545<pc>0926-c<k1>lAkzaRika<k2>lAkzaRika
+208152 old <>distinguished from {#vAcya#} and {#vyaMjaka#} q. q.
+208152 new <>distinguished from {#vAcya#} and {#vyaMjaka#}  <lbinfo n="q.+v."/>
+;
+208153 old <>v. v.); {#syAdvAcaMko lAkzaRikaH#} <lbinfo n="Sabdo#'tra"/>
+208153 new <><ab>q. v.</ab>); {#syAdvAcaMko lAkzaRikaH#} <lbinfo n="Sabdo#'tra"/>
+;
+; <L>25346<pc>0957-a<k1>vAcanaM<k2>vAcanaM
+214883 old <>{#svastivAcanaM, puRyAhavAcanaM#} q. <ab>q. v.</ab> v.
+214883 new <>{#svastivAcanaM, puRyAhavAcanaM#} <ab>q. v.</ab>
+;
+; <L>25920<pc>0974-a<k1>vid<k2>vid
+219013 old <>{@--5@} To examine, inquire into. -- V.
+219013 new <>{@--5@} To examine, inquire into. --V.
+;
+; <L>26231<pc>0985-a<k1>viBAvaH<k2>viBAvaH
+221496 old <>two being {#anuBAva#} and {#byABicAriBAva#} q.
+221496 new <>two being {#anuBAva#} and {#byABicAriBAva#} <lbinfo n="q.+v."/>
+;
+221497 old <><ab>q. v.</ab> v.); {#ratyAdyudvoDakA loke viBAvAH#}
+221497 new <><ab>q. v.</ab>); {#ratyAdyudvoDakA loke viBAvAH#}
+;
+; <L>26854<pc>1006-c<k1>vfttiH<k2>vfttiH
+226496 old <>{#kESikI, BAratI, sAtvatI#} and {#AraBawI#} q. q.
+226496 new <>{#kESikI, BAratI, sAtvatI#} and {#AraBawI#} <lbinfo n="q.+v."/>
+;
+226497 old <>v. v.). {@--18@} Customary allowance.
+226497 new <><ab>q. v.</ab>). {@--18@} Customary allowance.
+;
+; <L>27329<pc>1021-c<k1>vyAkaraRaM<k2>vyAkaraRaM
+229982 old <>grammar, one of the six {%Vedāṅgas%} q.
+229982 new <>grammar, one of the six {%Vedāṅgas%} <lbinfo n="q.+v."/>
+;
+229983 old <>v.; {#siMho vyAkaraRasya karturaharat prARAn#}
+229983 new <><ab>q. v.</ab>; {#siMho vyAkaraRasya karturaharat prARAn#}
+;
+; <L>27375<pc>1023-a<k1>vyApanna<k2>vyApanna
+230319 old <>expired, deceased; as in {#avyApanna#} q.
+230319 new <>expired, deceased; as in {#avyApanna#} <lbinfo n="q.+v."/>
+;
+230320 old <>v. {@--5@} Deranged, disordered. {@--6@}
+230320 new <><ab>q. v.</ab> {@--5@} Deranged, disordered. {@--6@}
+;

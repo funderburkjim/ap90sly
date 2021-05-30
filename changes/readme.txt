@@ -161,3 +161,98 @@ python make_change1.py ap90.txt temp_lnum_entries.txt changes_04_06.txt
 python entries_from_lnum.py ap90.txt temp.txt temp_lnum_entries.txt
 
 python updateByLine.py ap90_3.txt changes_04.txt ap90.txt
+
+This copied to csl-orig/v02/ap90/ap90.txt and entered as
+ commit 248b0e932f323366c6d965da5c17ccfabb8b965b
+Now begin work on next version.
+mv ap90.txt ap90_4.txt
+touch changes_05.txt
+
+changes_05_01:  lines with '-#}'.  combine with next line as needed.
+ python change_misc1_02.py ap90.txt changes_05_01.txt
+   change23, then manual review. About 280 cases.
+   After this, there are only 7 instances of '-#}', and these are not
+   line-spanning subheadwords.
+
+Changes_05_02: {#-[^-]
+ 57 matches .  Examine these and change subheadwords to '{#--' 
+ python change_misc1_02.py ap90.txt changes_05_02.txt
+  change24.
+
+changes_05_03: {#--[^#-]+-[^#-]
+ 284 cases, most need to change.
+ Example:  '{#--kuSala, -SOMqa#}' -> '{#--kuSala, --SOMqa#}'
+ python change_misc1_02.py ap90.txt changes_05_03.txt
+  change25.   START HERE.
+ After changes, still 54 matches  (changes_05_03a.txt) -- all 'problematic'.
+
+changes_05_04
+ lines starting with  <>{#--  which are quotations, rather than subheadwords.
+ change to <>--{#.
+ Thus, we are trying to reserve the pattern '{#--' to subheadwords.
+ 93 cases found so far 
+ python change_misc1_02.py ap90.txt changes_05_04.txt
+ change26 -- based on list of line-numbers
+
+changes_05_04a:
+ change '{#--X#}' to '--{#X#}' when X is not a subheadword list - i.e. a phrase
+   use 2 tests:  presence of another '--' in X, or X too long (25 chars or more)
+ python change_misc1_02.py ap90.txt changes_05_04a.txt
+ change26a.  90 instances.
+
+changes_05_04b:
+ '{#--X#} and '=' character in X.  Change {#--X = Y#} to {#--X#} = {#Y#}
+ 50 cases.  Also, if X contains a single quote (avagraha), move -- outside.{##}
+ python change_misc1_02.py ap90.txt changes_05_04b.txt
+ change26b
+
+changes_05_04c:
+ q. at end of line  (next line v.)
+ Changed a few 'q.q.v.v.'  to 'q.v.'
+ python change_misc1_02.py ap90.txt changes_05_04c.txt
+ change26c
+
+changes_05_05:
+ '{#= ' -> '= {#'
+ python change_misc1_02.py ap90.txt changes_05_05.txt
+change27
+ 608 cases
+
+changes_05_05a:
+ '=#}' -> '#} =
+ python change_misc1_02.py ap90.txt changes_05_05a.txt
+change27a
+ 29 cases
+changes_05_05b:
+ Add '-' in 19 lines. 
+ Ref: https://github.com/sanskrit-lexicon/AP90/issues/18#issue-904590228
+ Example: {#arjUka, pf#} -> {#arj-Uka, pf#} in entry for ajjukA
+ python change_misc1_02.py ap90.txt changes_05_05b.txt
+
+changes_05_05c:
+ '{#[^#]*='   62 cases.  '=' sign in Devanagari
+ example under hw akfta
+ OLD: {#vAgvyavahAreRa kftA; kftA = yadapatyaM BavedasyAM tanmamaM#}
+ NEW: {#vAgvyavahAreRa kftA#}; {#kftA#} = {#yadapatyaM BavedasyAM tanmamaM#}
+ python entries_from_regex.py ap90.txt '{#[^#]*=' temp_deva_equal.txt
+  # edit temp_deva_equal.txt and make manual change at lines starting with X
+  # Then remove the X at beg. of lines, and
+ python make_change1.py ap90.txt temp_deva_equal.txt changes_05_05c.txt
+
+changes_05_05d:
+ muwaH incorrectly coded as headword.  Rather, it is a compound under 'nir'
+ hw spelling changes: SAMrga -> SArMga, and SAMrgin -> SArMgin
+309 matches for {#--[a-zA-Z]+ +--[a-zA-Z]+#}   ??
+
+Yet to do
+ 32640 matches of {#--[a-zA-Z]+#}  These likely always to be subheadwords
+    or headwords variants (such as gender variants)
+  3539 matches {#--[^#]+[^a-zA-Z][^#]*#}
+    Some of these are multiple sub-headwords e.g. {#--X --Y#} {#--X, --Y#}, etc.
+    We want to find and recode those that are NOT multiple subheadwords.
+    Sometimes there is an ending comma in subheadwords, e.g. {#--X,#}.
+  
+
+python updateByLine.py ap90_4.txt changes_05.txt ap90.txt
+
+cp ap90.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt

@@ -1,0 +1,360 @@
+; <L>610<pc>0032-c<k1>atibala<k2>atibala
+7847 old <>Rāma: {#--gfhARa dve ime vidye balAmatibalAM#}
+7847 new <>Rāma: --{#gfhARa dve ime vidye balAmatibalAM#}
+;
+; <L>1458<pc>0065-b<k1>anilaH<k2>anilaH
+15214 old <>of winds is 7: {#--Avaho nivahaScEva udvahaH#}
+15214 new <>of winds is 7: --{#Avaho nivahaScEva udvahaH#}
+;
+; <L>3066<pc>0128-c<k1>aBijanaH<k2>aBijanaH
+29346 old <><ls>P. IV. 3. 90</ls>: {#--yatra svayaM vasati sa nivAsaH#}
+29346 new <><ls>P. IV. 3. 90</ls>: --{#yatra svayaM vasati sa nivAsaH#}
+;
+; <L>3772<pc>0149-b<k1>amara<k2>amara
+;34346 old <>{#--iMdraH, ISaH, ISvaraH, patiH, BartA, rAjaH#} &c. ‘the
+;34346 new <>{#--iMdraH, --ISaH, --ISvaraH, --patiH, --BartA, --rAjaH#} &c. ‘the
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38211 old <>is five: {#--bIjaM biMduH patAkA ca prakarI#}
+38211 new <>is five: --{#bIjaM biMduH patAkA ca prakarI#}
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38247 old <>kinds: {#--guRavAdo viroDe syAdanuvAdo'vaDArite .#}
+38247 new <>kinds: --{#guRavAdo viroDe syAdanuvAdo'vaDArite .#}
+;
+; <L>4709<pc>0185-c<k1>avayavaH<k2>avayavaH
+42472 old <>(These are five: {#--pratijYA, hetu, udAharaRa,#}
+42472 new <>(These are five: --{#pratijYA, hetu, udAharaRa,#}
+;
+; <L>5327<pc>0203-b<k1>aSvaH<k2>aSvaH
+46746 old <>{7} breeds: {#--amftAdbAzpato vahrervedeByoM'qAcca#}
+46746 new <>{7} breeds: --{#amftAdbAzpato vahrervedeByoM'qAcca#}
+;
+; <L>5359<pc>0205-c<k1>azwan<k2>azwan
+47265 old <>(they are: {#--SalyaM, SAlAkyaM, kAyacikitsA,#}
+47265 new <>(they are: --{#SalyaM, SAlAkyaM, kAyacikitsA,#}
+;
+; <L>6845<pc>0258-c<k1>Alasya<k2>Alasya
+59314 old <>example: {#--na taTA BUzayatyaMgaM na taTA BAzate#}
+59314 new <>example: --{#na taTA BUzayatyaMgaM na taTA BAzate#}
+;
+; <L>7114<pc>0267-b<k1>AsanaM<k2>AsanaM
+61390 old <>which are: {#--saMDirnA vigraho yAnamAsanaM#} <lbinfo n="dvEDa#mASrayaH"/>
+61390 new <>which are: --{#saMDirnA vigraho yAnamAsanaM#} <lbinfo n="dvEDa#mASrayaH"/>
+;
+; <L>7369<pc>0277-a<k1>iMdraH<k2>iMdraH
+63822 old <><ab>cf.</ab> <ls>Śik. 52</ls>: {#--maMtro hInaH svarato varRato vA#}
+63822 new <><ab>cf.</ab> <ls>Śik. 52</ls>: --{#maMtro hInaH svarato varRato vA#}
+;
+; <L>7377<pc>0279-a<k1>iMdriya<k2>iMdriya
+63912 old <>objects are: {#--rUpaM Sabdo gaMDarasasparSASca#} <lbinfo n="vi#zayA"/>
+63912 new <>objects are: --{#rUpaM Sabdo gaMDarasasparSASca#} <lbinfo n="vi#zayA"/>
+;
+; <L>9078<pc>0336-c<k1>upAMgaH<k2>upAMgaH
+77027 old <>are four: {#--purARanyAyamImAMsADarmaSAstrARi#}).
+77027 new <>are four: --{#purARanyAyamImAMsADarmaSAstrARi#}).
+;
+; <L>9091<pc>0337-b<k1>upADiH<k2>upADiH
+77166 old <>kinds: {#--jAti, guRa, kriyA, saMjYA#}. {@--4@} A
+77166 new <>kinds: --{#jAti, guRa, kriyA, saMjYA#}. {@--4@} A
+;
+; <L>9518<pc>0352-a<k1>eka<k2>eka
+80710 old <>orders: {#--kuwIcako bahudako haMsaScEva tftIyakaH .#}
+80710 new <>orders: --{#kuwIcako bahudako haMsaScEva tftIyakaH .#}
+;
+; <L>10045<pc>0370-a<k1>kawuka<k2>kawuka
+84441 old <>plants: {#--kawurohiRI, tAMbUlI, rAjikA,#} <lbinfo n="ti#ktAlAbuka"/>
+84441 new <>plants: --{#kawurohiRI, tAMbUlI, rAjikA,#} <lbinfo n="ti#ktAlAbuka"/>
+;
+; <L>10107<pc>0371-c<k1>kaMwakin<k2>kaMwakin
+84856 old <>plants: {#--Kadira, madana, gokzura, vaMSa, badara#}.
+84856 new <>plants: --{#Kadira, madana, gokzura, vaMSa, badara#}.
+;
+; <L>10111<pc>0371-c<k1>kaMwin<k2>kaMwin
+84877 old <>several trees: {#--Kadira, apAmArga, gokzura#}.
+84877 new <>several trees: --{#Kadira, apAmArga, gokzura#}.
+;
+; <L>10515<pc>0387-c<k1>kalkiH<k2>kalkiH
+88429 old <>avatāra: {#--mlecCanivahaniDane kalayasi#} <lbinfo n="kara#vAlam"/>
+88429 new <>avatāra: --{#mlecCanivahaniDane kalayasi#} <lbinfo n="kara#vAlam"/>
+;
+; <L>10770<pc>0397-a<k1>kAru<k2>kAru
+90522 old <>are: {#--takzA ca taMtravAyaSca nApito#} <lbinfo n="rajakasta#TA"/>
+90522 new <>are: --{#takzA ca taMtravAyaSca nApito#} <lbinfo n="rajakasta#TA"/>
+;
+; <L>10855<pc>0401-a<k1>kAvya<k2>kAvya
+91407 old <>defined: {#--kAvyaliMgaM hetorvAkyapadArTatA#}  <lbinfo n="ls:K.+P. 10"/>
+91407 new <>defined: --{#kAvyaliMgaM hetorvAkyapadArTatA#}  <lbinfo n="ls:K.+P. 10"/>
+;
+; <L>10931<pc>0404-b<k1>kirIwin<k2>kirIwin
+92069 old <>name: {#--purA SakreRa me badDaM yuDyato#} <lbinfo n="dAnavarza#BEH"/>
+92069 new <>name: --{#purA SakreRa me badDaM yuDyato#} <lbinfo n="dAnavarza#BEH"/>
+;
+; <L>11213<pc>0412-a<k1>kulaM<k2>kulaM
+93977 old <>are: {#--maheMdro malayaH sahyaH SuktimAn fkzaparvataH .#}
+93977 new <>are: --{#maheMdro malayaH sahyaH SuktimAn fkzaparvataH .#}
+;
+; <L>12404<pc>0455-c<k1>gallaH<k2>gallaH
+103707 old <><ls>K. P. 7</ls>: {#--tAMbUlaBftagalloyaM BallaM jalpati mAnuzaH#};
+103707 new <><ls>K. P. 7</ls>: --{#tAMbUlaBftagalloyaM BallaM jalpati mAnuzaH#};
+;
+; <L>12404<pc>0455-c<k1>gallaH<k2>gallaH
+103709 old <>{#--pAtAlapratimallagallavivaraprakziptasaptArRavaM#}  <lbinfo n="ls:Māl. 5.+ 22"/>
+103709 new <>--{#pAtAlapratimallagallavivaraprakziptasaptArRavaM#}  <lbinfo n="ls:Māl. 5.+ 22"/>
+;
+; <L>12713<pc>0467-a<k1>go<k2>go
+106563 old <>defines it: {#--vaMrRAnAmekarUpatvaM yadyekAMtaramarDayoH#}
+106563 new <>defines it: --{#vaMrRAnAmekarUpatvaM yadyekAMtaramarDayoH#}
+;
+; <L>12741<pc>0470-a<k1>gOqaH<k2>gOqaH
+106846 old <>position: {#--vaMgadeSaM samAraBya BuvaneSAMtagaH#}
+106846 new <>position: --{#vaMgadeSaM samAraBya BuvaneSAMtagaH#}
+;
+; <L>12876<pc>0476-b<k1>Gana<k2>Gana
+108176 old <>stand thus: {#--namo rudreByo rudreByo namo#}
+108176 new <>stand thus: --{#namo rudreByo rudreByo namo#}
+;
+; <L>13055<pc>0482-c<k1>catur<k2>catur
+109631 old <>are: {#--zaqaMgamiSritA vedA DarmaSAstraM purARakaM .#}
+109631 new <>are: --{#zaqaMgamiSritA vedA DarmaSAstraM purARakaM .#}
+;
+; <L>13256<pc>0490-c<k1>cAraH<k2>cAraH
+111324 old <>Kāmandaka: {#--gAvaH paSyaMti gaMDena vedEH#}
+111324 new <>Kāmandaka: --{#gAvaH paSyaMti gaMDena vedEH#}
+;
+; <L>13652<pc>0502-c<k1>Ceka<k2>Ceka
+114137 old <>illustrates it: {#--CekAMpahnutiranyasya SaMkAtastasya#}
+114137 new <>illustrates it: --{#CekAMpahnutiranyasya SaMkAtastasya#}
+;
+; <L>13868<pc>0511-b<k1>jAtiH<k2>jAtiH
+116035 old <>only four: {#--brAhmaRa, kzatriya, vESya#} and
+116035 new <>only four: --{#brAhmaRa, kzatriya, vESya#} and
+;
+; <L>13903<pc>0512-b<k1>jAyA<k2>jAyA
+116310 old <>thus derived: {#--patirBAryAM saMpraviSya garBo#}
+116310 new <>thus derived: --{#patirBAryAM saMpraviSya garBo#}
+;
+; <L>15138<pc>0554-b<k1>dakziRA<k2>dakziRA
+125636 old <>defined: {#--yA gOravaM BayaM prema sadBAyaM#} <lbinfo n="pUrva#nayike"/>
+125636 new <>defined: --{#yA gOravaM BayaM prema sadBAyaM#} <lbinfo n="pUrva#nayike"/>
+;
+; <L>15199<pc>0557-b<k1>damayaMtI<k2>damayaMtI
+126285 old <><ls>N. 2. 18</ls>: {#--BuvanatrayasuBruvAmasO damayaMtI#} <lbinfo n="kamanIya#tAmadaM"/>
+126285 new <><ls>N. 2. 18</ls>: --{#BuvanatrayasuBruvAmasO damayaMtI#} <lbinfo n="kamanIya#tAmadaM"/>
+;
+; <L>15705<pc>0582-b<k1>dos<k2>dos
+131631 old <>{#--sahasraBft (doH sahasraBft)#} {%<ab>m.</ab>%} {1} an <lbinfo n="epi+thet"/>
+131631 new <>{#--sahasraBft#} ({#doH sahasraBft#}) {%<ab>m.</ab>%} {1} an <lbinfo n="epi+thet"/>
+;
+; <L>15786<pc>0584-b<k1>dravyaM<k2>dravyaM
+132116 old <>{#--pfTivyaptejovAyvAkASakAladigAtmamanAMsi#}). {@--6@} Any possession, wealth,
+132116 new <>--{#pfTivyaptejovAyvAkASakAladigAtmamanAMsi#}). {@--6@} Any possession, wealth,
+;
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132988 old <>{#--zazwa (dvizazwa, dvAzazwa)#} {%<ab>a.</ab>%} sixty-second.
+132988 new <>{#--zazwa#} ({#dvizazwa, dvAzazwa#}) {%<ab>a.</ab>%} sixty-second.
+;
+; <L>15869<pc>0587-b<k1>dvi<k2>dvi
+132990 old <>sixtytwo. {#--saptata (dvi-dvA-saptata)#} {%<ab>a.</ab>%} <lbinfo n="seventy+second"/>
+132990 new <>sixtytwo. {#--saptata#} ({#dvi-dvA-saptata#}) {%<ab>a.</ab>%} <lbinfo n="seventy+second"/>
+;
+; <L>16071<pc>0597-c<k1>DIH<k2>DIH
+134931 old <>they are: {#--SuSrUzA SravaRaM cEva grahaRaM DAraRaM#}
+134931 new <>they are: --{#SuSrUzA SravaRaM cEva grahaRaM DAraRaM#}
+;
+; <L>16457<pc>0613-a<k1>nAwikA<k2>nAwikA
+138359 old <>defines it: {#--nAwikA kxptavfttA syAtstrIprAyA#}
+138359 new <>defines it: --{#nAwikA kxptavfttA syAtstrIprAyA#}
+;
+; <L>16526<pc>0616-a<k1>nArI<k2>nArI
+138991 old <>(they are: {#--pAnaM durjanasaMsargaH patyA ca#}
+138991 new <>(they are: --{#pAnaM durjanasaMsargaH patyA ca#}
+;
+; <L>16851<pc>0626-a<k1>niyogaH<k2>niyogaH
+141338 old <><ls>Ms. 9. 59</ls>: {#--devarAdvA sapiMqAdvA striyA samyaN#}
+141338 new <><ls>Ms. 9. 59</ls>: --{#devarAdvA sapiMqAdvA striyA samyaN#}
+;
+; <L>17254<pc>0642-a<k1>nis<k2>nis
+145134 old <>see {#niHsaMSaya#}. {#--saMDi (nissaMDi, niHsaMDi)#}
+145134 new <>see {#niHsaMSaya#}. {#--saMDi#} ({#nissaMDi, niHsaMDi#})
+;
+; <L>17413<pc>0649-b<k1>nEmiza<k2>nEmiza
+146440 old <>is thus derived: {#--yatastu nimizeRedaM nihataM#}
+146440 new <>is thus derived: --{#yatastu nimizeRedaM nihataM#}
+;
+; <L>17469<pc>0650-b<k1>nyagroDaH<k2>nyagroDaH
+146753 old <>described: {#--stanO sukaWinO yasyA ni beM ca#} <lbinfo n="vi#SAlatA"/>
+146753 new <>described: --{#stanO sukaWinO yasyA ni beM ca#} <lbinfo n="vi#SAlatA"/>
+;
+; <L>17492<pc>0651-b<k1>aruMDatIdarSananyAyaH<k2>aruMDatIdarSananyAyaH<h>3
+146970 old <>clear: {#--aruMDatIM didarSayizustatsamIpasTAM#} <lbinfo n="sTU#lAM"/>
+146970 new <>clear: --{#aruMDatIM didarSayizustatsamIpasTAM#} <lbinfo n="sTU#lAM"/>
+;
+; <L>17496<pc>0651-c<k1>kAkatAlIyanyAyaH<k2>kAkatAlIyanyAyaH<h>7
+147025 old <>Candrāloka: {#--yattayA melanaM tatra lABo#}
+147025 new <>Candrāloka: --{#yattayA melanaM tatra lABo#}
+;
+; <L>17560<pc>0655-a<k1>paMktiH<k2>paMktiH
+147748 old <>word thus. {#--apAMktyopahatA paMktiH pAvyate#}
+147748 new <>word thus. --{#apAMktyopahatA paMktiH pAvyate#}
+;
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+147971 old <>({#--tiTirvAraSca nakzatraM yogaH karaRameva ca#});  <lbinfo n="caturaMgaba#lo"/>
+147971 new <>(--{#tiTirvAraSca nakzatraM yogaH karaRameva ca#});  <lbinfo n="caturaMgaba#lo"/>
+;
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148109 old <>things: {#--niMbAmftAvfzapawolanidigDikASca#}.
+148109 new <>things: --{#niMbAmftAvfzapawolanidigDikASca#}.
+;
+; <L>17588<pc>0656-a<k1>paMcan<k2>paMcan
+148200 old <>important topics: {#--sargaSca pratisargaSca vaMSo#} <lbinfo n="manvaMta#rARi"/>
+148200 new <>important topics: --{#sargaSca pratisargaSca vaMSo#} <lbinfo n="manvaMta#rARi"/>
+;
+; <L>19104<pc>0707-c<k1>putraH<k2>putraH
+159794 old <>derived: {#--punnAmno narakAdyasmAttrAyate pitaraM#}
+159794 new <>derived: --{#punnAmno narakAdyasmAttrAyate pitaraM#}
+;
+; <L>19115<pc>0708-b<k1>punar<k2>punar
+160013 old <>extinguished. {#--saMBavaH (punaH saMBavaH)#} being
+160013 new <>extinguished. {#--saMBavaH#} ({#punaH saMBavaH#}) being
+;
+; <L>21324<pc>0779-b<k1>preMKaRa<k2>preMKaRa
+176496 old <>thus defines it: {#--garBAvamarzarahitaM preMKaRaM#}
+176496 new <>thus defines it: --{#garBAvamarzarahitaM preMKaRaM#}
+;
+; <L>21404<pc>0781-a<k1>prozita<k2>prozita
+176941 old <><ls>S. D.</ls>: {#--nAnAkAryavaSAdyasyA dUradaSeM gataH patiH .#}
+176941 new <><ls>S. D.</ls>: --{#nAnAkAryavaSAdyasyA dUradaSeM gataH patiH .#}
+;
+; <L>21804<pc>0798-c<k1>budDa<k2>budDa
+180747 old <>says: {#--niMdasi yajYaviDerahaha SrutijAtaM#} <lbinfo n="sadaya#hfdaya"/>
+180747 new <>says: --{#niMdasi yajYaviDerahaha SrutijAtaM#} <lbinfo n="sadaya#hfdaya"/>
+;
+; <L>22865<pc>0850-b<k1>mahA<k2>mahA
+192356 old <>defined: {#--eko daSasahasra Ri yoDayedyastu#} <lbinfo n="Da#nvinAM"/>
+192356 new <>defined: --{#eko daSasahasra Ri yoDayedyastu#} <lbinfo n="Da#nvinAM"/>
+;
+; <L>22886<pc>0856-a<k1>mAMsaM<k2>mAMsaM
+192776 old <><ls>Ms. 5. 55</ls>: {#--pAM sa BakzayitA'putra yasya#}
+192776 new <><ls>Ms. 5. 55</ls>: --{#pAM sa BakzayitA'putra yasya#}
+;
+; <L>22898<pc>0856-c<k1>mAGaH<k2>mAGaH
+192906 old <>concludes: {#--SrISabdaramyakftasargasamAptilakzma#} <lbinfo n="lakzmI#pateScaritakIrtanacAru"/>
+192906 new <>concludes: --{#SrISabdaramyakftasargasamAptilakzma#} <lbinfo n="lakzmI#pateScaritakIrtanacAru"/>
+;
+; <L>22941<pc>0857-c<k1>mAtf<k2>mAtf
+193193 old <>specified: {#--mAtuH pituH svasuH putrA mAturmAtuH#} <lbinfo n="sva#suH"/>
+193193 new <>specified: --{#mAtuH pituH svasuH putrA mAturmAtuH#} <lbinfo n="sva#suH"/>
+;
+; <L>23206<pc>0867-b<k1>mIlita<k2>mIlita
+195343 old <>Mammaṭa: {#--samena lakzmaRA vastu vastunA#} <lbinfo n="ya#nnigfhyate"/>
+195343 new <>Mammaṭa: --{#samena lakzmaRA vastu vastunA#} <lbinfo n="ya#nnigfhyate"/>
+;
+; <L>23650<pc>0884-a<k1>yajYaH<k2>yajYaH
+199016 old <>{#--BUtayajYa, manuzyayajYa, pitfyajYa, devayajYa,#} and  <lbinfo n="brahma#yajYa"/>
+199016 new <>--{#BUtayajYa, manuzyayajYa, pitfyajYa, devayajYa,#} and  <lbinfo n="brahma#yajYa"/>
+;
+; <L>23876<pc>0898-a<k1>yogyatA<k2>yogyatA
+201892 old <>defined: {#--ekapadArTe'parapadArTasaMsargo#} <lbinfo n="yo#gyatA"/>
+201892 new <>defined: --{#ekapadArTe'parapadArTasaMsargo#} <lbinfo n="yo#gyatA"/>
+;
+; <L>24122<pc>0911-a<k1>rAma<k2>rAma
+204614 old <>Purāṇas: {#--rASabdo viSvavacano maScApISvaravAcakaH .#}
+204614 new <>Purāṇas: --{#rASabdo viSvavacano maScApISvaravAcakaH .#}
+;
+; <L>24260<pc>0916-a<k1>rUpaM<k2>rUpaM
+205777 old <>kinds: {#--Sukla, kfzRa, pIta, rakta, harita,#} <lbinfo n="ka#pila"/>
+205777 new <>kinds: --{#Sukla, kfzRa, pIta, rakta, harita,#} <lbinfo n="ka#pila"/>
+;
+; <L>24320<pc>0917-c<k1>rocana<k2>rocana
+206194 old <>several plants: {#--palAMqu, AragvaDa, dAqima#}
+206194 new <>several plants: --{#palAMqu, AragvaDa, dAqima#}
+;
+; <L>24626<pc>0929-a<k1>liMgaM<k2>liMgaM
+208697 old <>thus defined: {#--vyAptipakzaDarmatAvalliMgam#}
+208697 new <>thus defined: --{#vyAptipakzaDarmatAvalliMgam#}
+;
+; <L>24733<pc>0932-c<k1>leSaH<k2>leSaH
+209558 old <ls>R. G.</ls>: {#--guRasyAnizwasADanatayA dozatvena#} <lbinfo n="dozasye#zwasADanatayA"/>
+209558 new <ls>R. G.</ls>: --{#guRasyAnizwasADanatayA dozatvena#} <lbinfo n="dozasye#zwasADanatayA"/>
+;
+; <L>25173<pc>0950-a<k1>varzaH<k2>varzaH, --rzaM
+213383 old <>are seven: {#--himavAn hemakwaSca nizaDo#} <lbinfo n="me#rureva"/>
+213383 new <>are seven: --{#himavAn hemakwaSca nizaDo#} <lbinfo n="me#rureva"/>
+;
+; <L>25389<pc>0958-a<k1>vAta<k2>vAta
+215186 old <>{#--SatamUlI, SePAlikA, yavAnI, BArgI, snuhI,#} <lbinfo n="vi#qaMga"/>
+215186 new <>--{#SatamUlI, SePAlikA, yavAnI, BArgI, snuhI,#} <lbinfo n="vi#qaMga"/>
+;
+; <L>25823<pc>0971-b<k1>vijayaH<k2>vijayaH
+218327 old <>the name: {#--aBiprayAmi saMgrAme yadahaM#}
+218327 new <>the name: --{#aBiprayAmi saMgrAme yadahaM#}
+;
+; <L>25920<pc>0974-a<k1>vid<k2>vid
+219021 old <>also: {#--sattAyAM vidyate jYAne vetti viMtte#} <lbinfo n="vicA#raRe"/>
+219021 new <>also: --{#sattAyAM vidyate jYAne vetti viMtte#} <lbinfo n="vicA#raRe"/>
+;
+; <L>26172<pc>0983-a<k1>vipralabDa<k2>vipralabDa
+221029 old <><ls>S. D.</ls> : {#--priyaH kftvApi saMketaM yasyA nAyAti#} <lbinfo n="saM#niDim"/>
+221029 new <><ls>S. D.</ls> : --{#priyaH kftvApi saMketaM yasyA nAyAti#} <lbinfo n="saM#niDim"/>
+;
+; <L>26467<pc>0992-b<k1>vivAdaH<k2>vivAdaH
+223191 old <>defined: {#--fRAdidAyakalahe dvayorbahutarasya vA#}
+223191 new <>defined: --{#fRAdidAyakalahe dvayorbahutarasya vA#}
+;
+; <L>26501<pc>0993-b<k1>vivartaH<k2>vivartaH
+223476 old <>Bhavabhūti: {#--vidyAkalpena marutA BeGAnAM#} <lbinfo n="BUyasA#mapi"/>
+223476 new <>Bhavabhūti: --{#vidyAkalpena marutA BeGAnAM#} <lbinfo n="BUyasA#mapi"/>
+;
+; <L>26548<pc>0995-a<k1>viSeza<k2>viSeza
+223900 old <>Mammaṭa: {#--vinA prasidDamADAramADeyasya#} <lbinfo n="vya#vasTitiH"/>
+223900 new <>Mammaṭa: --{#vinA prasidDamADAramADeyasya#} <lbinfo n="vya#vasTitiH"/>
+;
+; <L>26643<pc>0999-c<k1>vizkaMBaH<k2>vizkaMBaH
+224831 old <>it: {#--vfttavartizyamARAnAM kaTAMSAnAM nidarSakaH .#}
+224831 new <>it: --{#vfttavartizyamARAnAM kaTAMSAnAM nidarSakaH .#}
+;
+; <L>26659<pc>1000-a<k1>vizRuH<k2>vizRuH
+224935 old <>derived: {#--yasmAdviSvamidaM sarvaM tasya SaktyA#}
+224935 new <>derived: --{#yasmAdviSvamidaM sarvaM tasya SaktyA#}
+;
+; <L>26724<pc>1002-a<k1>vismayaH<k2>vismayaH
+225405 old <>it: {#--viviDezu padArTezu lokasImAtivatiMzu .#} <lbinfo n="vi#sPAraScetaso"/>
+225405 new <>it: --{#viviDezu padArTezu lokasImAtivatiMzu .#} <lbinfo n="vi#sPAraScetaso"/>
+;
+; <L>27060<pc>1013-b<k1>vEdarBaH<k2>vEdarBaH
+228043 old <>in <ls>S. D.</ls>: {#--mADuryavyaMjakErvarRE racanA#} <lbinfo n="lalitA#tmikA"/>
+228043 new <>in <ls>S. D.</ls>: --{#mADuryavyaMjakErvarRE racanA#} <lbinfo n="lalitA#tmikA"/>
+;
+; <L>28184<pc>1053-c<k1>SfMgAraH<k2>SfMgAraH
+237169 old <>defined: {#--puMsaH striyAM striyAH puMsi#}
+237169 new <>defined: --{#puMsaH striyAM striyAH puMsi#}
+;
+; <L>30421<pc>1133-b<k1>sUkzma<k2>sUkzma
+255179 old <>Mammaṭa: {#--kuto'pi lakzitaH sUkzmopyarTonyasmE#}
+255179 new <>Mammaṭa: --{#kuto'pi lakzitaH sUkzmopyarTonyasmE#}
+;
+; <L>30446<pc>1134-c<k1>sUtraM<k2>sUtraM
+255486 old <>defined. {#--nAwyasya yadanuzWAnaM tatsUtraM#} <lbinfo n="syAtsa#bIjakam"/>
+255486 new <>defined. --{#nAwyasya yadanuzWAnaM tatsUtraM#} <lbinfo n="syAtsa#bIjakam"/>
+;
+; <L>30850<pc>1148-a<k1>sTAnaM<k2>sTAnaM
+258589 old <>are eight: {#--azwO sTAnAni varRAnAmuraH kaMWaH#}
+258589 new <>are eight: --{#azwO sTAnAni varRAnAmuraH kaMWaH#}
+;
+; <L>31044<pc>1155-c<k1>smaraRaM<k2>smaraRaM
+260307 old <>defined: {#--yaTAnuBavamarTasya dfzwe tatsadfSe#}
+260307 new <>defined: --{#yaTAnuBavamarTasya dfzwe tatsadfSe#}
+;
+; <L>31278<pc>1166-b<k1>hariRa<k2>hariRa
+262569 old <>kinds: {#--hariRaScApi vijYeyaH paMcaBedo'tra BErava .#}
+262569 new <>kinds: --{#hariRaScApi vijYeyaH paMcaBedo'tra BErava .#}
+;
+; <L>31338<pc>1168-b<k1>hastaH<k2>hastaH
+263022 old <>possession of’; Prov.: {#--hastakaMkaRaM kiM darpaRe#}
+263022 new <>possession of’; Prov.: --{#hastakaMkaRaM kiM darpaRe#}
+;
+; <L>31512<pc>1175-a<k1>hetuH<k2>hetuH
+264538 old <>defined: {#--hetorhetu matA sArDamaBedo heturucyate#}. ({%<ab>N. B.</ab>%}
+264538 new <>defined: --{#hetorhetu matA sArDamaBedo heturucyate#}. ({%<ab>N. B.</ab>%}
+;

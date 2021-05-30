@@ -1,0 +1,170 @@
+; <L>224<pc>0014-b<k1>agra<k2>agra
+3845 old <>standing on tiptoe. <ls>Ś. 6.</ls> {#--pARiH = ºhastaH#}
+3845 new <>standing on tiptoe. <ls>Ś. 6.</ls> {#--pARiH#} = {#ºhastaH#}
+;
+; <L>2158<pc>0097-b<k1>annaM<k2>annaM
+22184 old <>dinner; meal-time. {#--kiwwaH = ºmala#} <ab>q. v.</ab>
+22184 new <>dinner; meal-time. {#--kiwwaH#} = {#ºmala#} <ab>q. v.</ab>
+;
+; <L>2158<pc>0097-b<k1>annaM<k2>annaM
+22240 old <>{#--vastraM = ºAcCAdanaM#} <ab>q. v.</ab> {#--vikAraH#}
+22240 new <>{#--vastraM#} = {#ºAcCAdanaM#} <ab>q. v.</ab> {#--vikAraH#}
+;
+; <L>4116<pc>0163-b<k1>arka<k2>arka
+37459 old <>{#uttarAPalgunInakzatra#}. {#--BaktA = ºkAMtA#} <ab>q. v.</ab> {#--maMqalaM#} the
+37459 new <>{#uttarAPalgunInakzatra#}. {#--BaktA#} = {#ºkAMtA#} <ab>q. v.</ab> {#--maMqalaM#} the
+;
+; <L>4116<pc>0163-b<k1>arka<k2>arka
+37460 old <>disc of the sun. {#--mUlaH, --lA = ºpatrA#}; <lbinfo n="vi#liKati"/>
+37460 new <>disc of the sun. {#--mUlaH, --lA#} = {#ºpatrA#}; <lbinfo n="vi#liKati"/>
+;
+; <L>4116<pc>0163-b<k1>arka<k2>arka
+37488 old <>epithet of Airāvata. {#--hitA = ºkAMtA#} <ab>q. v.</ab>
+37488 new <>epithet of Airāvata. {#--hitA#} = {#ºkAMtA#} <ab>q. v.</ab>
+;
+; <L>4161<pc>0165-c<k1>arTaH<k2>arTaH
+38135 old <>the figure: {#--daMqApUpikayAnyArTAgamo'#} <lbinfo n="rTApattiri#zyate"/>
+38135 new <>the figure: --{#daMqApUpikayAnyArTAgamo'#} <lbinfo n="rTApattiri#zyate"/>
+;
+; <L>4179<pc>0168-c<k1>arDa<k2>arDa
+38641 old <>a fortnight. {#--mAsatama = ºmAsika#} see
+38641 new <>a fortnight. {#--mAsatama#} = {#ºmAsika#} see
+;
+; <L>9359<pc>0345-a<k1>UruH<k2>UruH
+79002 old <>thigh. {#--grAhaH = ºstaMBaH#} <ab>q. v.</ab> {#--ja#},
+79002 new <>thigh. {#--grAhaH#} = {#ºstaMBaH#} <ab>q. v.</ab> {#--ja#},
+;
+; <L>9518<pc>0352-a<k1>eka<k2>eka
+80875 old <>fruit ({#rudrAkzaPala#}). {#--mUrDan = ºmuKa#} q.
+80875 new <>fruit ({#rudrAkzaPala#}). {#--mUrDan#} = {#ºmuKa#}  <lbinfo n="q.+v."/>
+80876 old <>v. {#--mUlA#} {#= atasI#} <ab>q. v.</ab> {#--yazwiH#}, <lbinfo n="yazwi#kA"/>
+80876 new <><ab>q. v.</ab> {#--mUlA#} = {#atasI#} <ab>q. v.</ab> {#--yazwiH#}, <lbinfo n="yazwi#kA"/>
+;
+; <L>10350<pc>0380-c<k1>karin<k2>karin
+86900 old <>a water-elephant. {#--vara = ºiMdra#} <ab>q. v.</ab>
+86900 new <>a water-elephant. {#--vara#} = {#ºiMdra#} <ab>q. v.</ab>
+;
+; <L>10855<pc>0401-a<k1>kAvya<k2>kAvya
+91395 old <>mentioned by Mammaṭa are: {#--kAvyaM yaSase'#} <lbinfo n="rTa#kfte"/>
+91395 new <>mentioned by Mammaṭa are: --{#kAvyaM yaSase'#} <lbinfo n="rTa#kfte"/>
+;
+; <L>11194<pc>0411-c<k1>kuruH<k2>kuruH
+93868 old <>crab. {#--jAMgalaM = kurukzetra#} <ab>q. v.</ab> {#--rAj#}
+93868 new <>crab. {#--jAMgalaM#} = {#kurukzetra#} <ab>q. v.</ab> {#--rAj#}
+;
+; <L>11213<pc>0412-a<k1>kulaM<k2>kulaM
+94046 old <>defined: {#--munInAM daSasAhasraM yo'#} <lbinfo n="nnadAnAdipoza#RAt"/>
+94046 new <>defined: --{#munInAM daSasAhasraM yo'#} <lbinfo n="nnadAnAdipoza#RAt"/>
+;
+; <L>11921<pc>0437-c<k1>kzIraH<k2>kzIraH, raM
+99756 old <>of Lakṣmī. {#--udaDi = kzIroda#} <ab>q. v.</ab>
+99756 new <>of Lakṣmī. {#--udaDi#} = {#kzIroda#} <ab>q. v.</ab>
+;
+; <L>12108<pc>0443-b<k1>KarparaH<k2>KarparaH
+101062 old <>umbrella. {#--raM = KarparI#} <ab>q. v.</ab>
+101062 new <>umbrella. {#--raM#} = {#KarparI#} <ab>q. v.</ab>
+;
+; <L>13789<pc>0508-a<k1>jarA<k2>jarA
+115306 old <>{#--puzwa = jarAsaMDa#}. {#--BIruH#} the god of love,
+115306 new <>{#--puzwa#} = {#jarAsaMDa#}. {#--BIruH#} the god of love,
+;
+; <L>15626<pc>0578-a<k1>deva<k2>deva
+130972 old <><ls>R. 7. 1</ls>; (<ls>Malli.</ls>: {#--devasenA = skaMdapatnI#}; perhaps
+130972 new <><ls>R. 7. 1</ls>; (<ls>Malli.</ls>: {#--devasenA#} = {#skaMdapatnI#}; perhaps
+;
+; <L>16444<pc>0612-a<k1>nAga<k2>nAga
+138188 old <>{#--aMcalA, --aMjanA = nAgayazwi#} <ab>q. v.</ab> {#--aMjanA#} a
+138188 new <>{#--aMcalA, --aMjanA#} = {#nAgayazwi#} <ab>q. v.</ab> {#--aMjanA#} a
+;
+; <L>16863<pc>0629-b<k1>muwaH<k2>muwaH
+141932 old <>{#--yUza = niryAsa, --yogakzema#} {%<ab>a.</ab>%} free from
+141932 new <>{#--yUza#} = {#niryAsa, --yogakzema#} {%<ab>a.</ab>%} free from
+;
+; <L>17348<pc>0647-b<k1>nf<k2>nf
+146016 old <>{#--yugmaM = nfBiTuna#} <ab>q. v.</ab> {#--lokaH#} the
+146016 new <>{#--yugmaM#} = {#nfBiTuna#} <ab>q. v.</ab> {#--lokaH#} the
+;
+; <L>17538<pc>0653-1<k1>pakzaH<k2>pakzaH
+147499 old <>supposition. {#--avasaraH = pakzAMta#} <ab>q. v.</ab> 
+147499 new <>supposition. {#--avasaraH#} = {#pakzAMta#} <ab>q. v.</ab> 
+;
+; <L>17560<pc>0655-a<k1>paMktiH<k2>paMktiH
+147728 old <>{#--kaMwakaH = paMktidUzaka#} <ab>q. v.</ab> {#--grIvaH#} an <lbinfo n="epi+thet"/>
+147728 new <>{#--kaMwakaH#} = {#paMktidUzaka#} <ab>q. v.</ab> {#--grIvaH#} an <lbinfo n="epi+thet"/>
+;
+; <L>19199<pc>0713-b<k1>puzpaM<k2>puzpaM
+160958 old <>handful of flowers. {#--aBizeka = ºsnAna#} q.
+160958 new <>handful of flowers. {#--aBizeka#} = {#ºsnAna#} <lbinfo n="q.+v."/>
+160959 old <>v. {#--aMbujaM#} the sap of flowers. {#--ava#}
+160959 new <><ab>q. v.</ab> {#--aMbujaM#} the sap of flowers.  <lbinfo n="ava#cayaH"/>
+160960 old <>{#cayaH#} collecting or gathering flowers.
+160960 new <>{#--avacayaH#} collecting or gathering flowers.
+;
+; <L>19199<pc>0713-b<k1>puzpaM<k2>puzpaM
+160961 old <>{#--avacAyin = puzpAjIva#} <ab>q. v.</ab> {#--astraH#}
+160961 new <>{#--avacAyin#} = {#puzpAjIva#} <ab>q. v.</ab> {#--astraH#}
+;
+; <L>19209<pc>0714-b<k1>puzyaH<k2>puzyaH
+161116 old <>{#--raTaH = puzparaTaH#} <ab>q. v.</ab>
+161116 new <>{#--raTaH#} = {#puzparaTaH#} <ab>q. v.</ab>
+;
+; <L>19249<pc>0715-c<k1>pUrRa<k2>pUrRa
+161507 old <>full moon. {#--homaH = pUrRAhutiH#} <ab>q. v.</ab>
+161507 new <>full moon. {#--homaH#} = {#pUrRAhutiH#} <ab>q. v.</ab>
+;
+; <L>20756<pc>0760-c<k1>praveSakaH<k2>praveSakaH
+172183 old <>last). <ls>S. D.</ls> thus defines it: {#--praveSako'#} <lbinfo n="nudA#ttoktyA"/>
+172183 new <>last). <ls>S. D.</ls> thus defines it: --{#praveSako'#} <lbinfo n="nudA#ttoktyA"/>
+;
+; <L>21884<pc>0804-c<k1>brAhmya<k2>brAhmya
+181916 old <>Brāhmaṇas. {@--Comp.@} {#--muhUrta = brAhmamuhUrta#} <ab>q. v.</ab>
+181916 new <>Brāhmaṇas. {@--Comp.@} {#--muhUrta#} = {#brAhmamuhUrta#} <ab>q. v.</ab>
+;
+; <L>21943<pc>0807-c<k1>BawwaH<k2>BawwaH
+182541 old <>doctor. {#--prayAgaH = prayAga#} <ab>q. v.</ab>
+182541 new <>doctor. {#--prayAgaH#} = {#prayAga#} <ab>q. v.</ab>
+;
+; <L>22151<pc>0815-c<k1>BAzita<k2>BAzita
+184368 old <ls>Ms. 8. 26.</ls> {@--Comp.@} {#--puMska = uktapuMska#} <ab>q. v.</ab>
+184368 new <ls>Ms. 8. 26.</ls> {@--Comp.@} {#--puMska#} = {#uktapuMska#} <ab>q. v.</ab>
+;
+; <L>23985<pc>0903-a<k1>ratiH<k2>ratiH
+202947 old <>thus defines it: {#--ratirmanonukUle'rTe#} <lbinfo n="ma#nasaH"/>
+202947 new <>thus defines it: --{#ratirmanonukUle'rTe#} <lbinfo n="ma#nasaH"/>
+;
+; <L>24875<pc>0939-a<k1>vajra<k2>vajra
+210945 old <>{#--gopaH = iMdragopaH#} <ab>q. v.</ab> {#--caMcuH#} a <lbinfo n="vul+ture"/>
+210945 new <>{#--gopaH#} = {#iMdragopaH#} <ab>q. v.</ab> {#--caMcuH#} a <lbinfo n="vul+ture"/>
+;
+; <L>26844<pc>1005-b<k1>vfkzaH<k2>vfkzaH
+226250 old <>squirrel. {#--vAwikA, = vAwI#} a garden, grove
+226250 new <>squirrel. {#--vAwikA,#} = {#vAwI#} a garden, grove
+;
+; <L>27739<pc>1038-a<k1>SastraM<k2>SastraM
+233597 old <>weapons. {#--DaraH = SastraBft#} <ab>q. v.</ab> {#--nyAsaH#}
+233597 new <>weapons. {#--DaraH#} = {#SastraBft#} <ab>q. v.</ab> {#--nyAsaH#}
+;
+; <L>27998<pc>1046-b<k1>Siva<k2>Siva
+235530 old <>{@--Comp.@} {#--akzaM = rudrAkza#} <ab>q. v.</ab>  <lbinfo n="--arA#tiH"/>
+235530 new <>{@--Comp.@} {#--akzaM#} = {#rudrAkza#} <ab>q. v.</ab>  <lbinfo n="--arA#tiH"/>
+;
+; <L>29392<pc>1096-c<k1>samAna<k2>samAna
+246883 old <>{#--kAlIna#} {%<ab>a.</ab>%} synchronous. {#--gotra = sagotra#}
+246883 new <>{#--kAlIna#} {%<ab>a.</ab>%} synchronous. {#--gotra#} = {#sagotra#}
+;
+; <L>30289<pc>1123-b<k1>sidDa<k2>sidDa
+253252 old <>{#--puruza = sidDaH#} (1, 3, 4) above. {#--puzpaH#}
+253252 new <>{#--puruza#} = {#sidDaH#} (1, 3, 4) above. {#--puzpaH#}
+;
+; <L>30353<pc>1126-a<k1>su<k2>su
+254125 old <>Vishṇu. {#--parRakaH = suparRa#}. {#--parRA, --parRI#} {%<ab>f.</ab>%}
+254125 new <>Vishṇu. {#--parRakaH#} = {#suparRa#}. {#--parRA, --parRI#} {%<ab>f.</ab>%}
+;
+; <L>30820<pc>1146-b<k1>strI<k2>strI
+258215 old <>{#--gfhaM = stryagAra#} <ab>q. v.</ab> {#--GozaH#} dawn, <lbinfo n="day+break"/>
+258215 new <>{#--gfhaM#} = {#stryagAra#} <ab>q. v.</ab> {#--GozaH#} dawn, <lbinfo n="day+break"/>
+;
+; <L>31149<pc>1160-c<k1>svar<k2>svar
+261347 old <>{#--siMDu = svargaMgA#} <ab>q. v.</ab>
+261347 new <>{#--siMDu#} = {#svargaMgA#} <ab>q. v.</ab>
+;

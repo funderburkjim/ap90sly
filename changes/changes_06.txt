@@ -1,0 +1,9 @@
+; Ref: https://github.com/sanskrit-lexicon/AP90/issues/16#issuecomment-848855415
+; missed a verb section.  How to find others?
+; <L>19274<pc>0718-a<k1>pf<k2>pf
+161893 old <>--<ls>V. 5</ls> <ab>P.</ab> ({#pfgoti#}) {@1@} To please or
+161893 new <>--V. {c5c} <ab>P.</ab> ({#pfRoti#}) {@1@} To please or
+; similar
+; <L>25269<pc>0952-c<k1>vas<k2>vas
+214030 old <>--<ls>V. 10</ls> <ab>U.</ab> ({#vasayati-te#}) To scent, <lbinfo n="per+fume"/>
+214030 new <>--V. {c10c} <ab>U.</ab> ({#vasayati-te#}) To scent, <lbinfo n="per+fume"/>

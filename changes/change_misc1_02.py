@@ -273,6 +273,111 @@ def change22(line):
  newline = ''.join(newparts)
  return reason,newline
 
+def change23(line):
+ reason = ''
+ #newline = re.sub(r'([ >])(--[0-9]+)[.]?',r'\1{!\2.!}',line)
+ newline = re.sub(r' ?--#}',r'#}',line)
+ newline = re.sub(r' ?-#}', r'#}',newline)
+ return reason,newline
+
+def change24(line):
+ reason = ''
+ newline = re.sub(r'{#-([^-])',r'{#--\1',line)
+ #newline = re.sub(r' ?-#}', r'#}',newline)
+ return reason,newline
+
+def change25(line):
+ reason = ''
+ # {#--karman, -kArin#} -> {#--karman, --kArin#}
+ newline = re.sub(r'{#--([a-zA-Z]+), -([a-zA-Z]+)#}',r'{#--\1, --\2#}',line)
+ newline = re.sub(r'{#--([^#-]+)-([^#-])',r'{#--\1--\2',newline)
+ return reason,newline
+
+def change26(line,iline):
+ reason = ''
+ lnums = [873,5025,11704,12688,15562,25110,33316,47371,49254,58102,
+60637,60713,61722,73973,74056,76286,81229,86740,87587,88324,
+88899,97002,100455,100834,103286,104210,106370,109626,111327,
+111983,114431,114689,117182,133502,134349,136868,137903,140012,
+140961,148021,148024,148123,148153,148250,148255,148304,150317,
+150320,150503,151814,161528,172163,173927,177775,189466,190248,
+190309,191937,192392,192400,195492,198704,199979,203575,203620,
+204352,204672,216376,219019,219208,222514,231400,231891,233457,
+236421,239974,240751,247272,250462,253313,255455,256137,256175,
+257768,258230,258233,261356,262662,263168,263524,265318,266215]
+ if iline+1 in lnums:
+  newline = re.sub(r'<>{#--', r'<>--{#',line)
+ else:
+  newline = line
+ return reason,newline
+
+def change26a(line):
+ reason = ''
+ n = 0
+ def fchg(m):
+  x0 = m.group(0)
+  x = m.group(1)
+  if '--' in x:
+   return x0
+  if len(x) < 25:
+   return x0
+  x1 = x0.replace('{#--','--{#')
+  return x1
+ newline = re.sub(r'{#--(.*?)#}',fchg,line)
+ return reason,newline
+
+def change26c(line):
+ reason = ''
+ n = 0
+ newline = re.sub(r' q[.]$',r' <lbinfo n="q.+v."/>',line)
+ return reason,newline
+  
+def change27(line):
+ reason = ''
+ n = 0
+ newline = re.sub(r'{#= ?',r'= {#',line)
+ return reason,newline
+  
+def change27a(line):
+ reason = ''
+ n = 0
+ newline = re.sub(r'\{#=#\}',r'=',line)
+ #newline = re.sub(r' ?=#}',r'#} =',newline)
+ return reason,newline
+
+def change28(line,iline):
+ reason = ''
+ lnums = {6163:('arjUka','arj-Uka'),
+  6550:('aMjizWac','aMj-izWac'),
+  7032:('atasac','atas-ac'),
+  11491:('yuDac','yuD-ac'),
+  15358:('anIkan','an-Ikan'),
+  15643:('kamac','kam-ac'),
+  34671:('vunaz','vun-az'),
+  39459:('lasac','las-ac'),
+  57463:('atac','at-ac'),
+  82938:('upayajaR','upayaj-aR'),
+  199300:('yatin','yat-in'),
+  205305:('arucatarocizwa','arucat-arocizwa'),
+  213544:('valaBi','val-aBi'),
+  239542:('Svitac','Svit-ac'),
+  250080:('salilac','sal-ilac'),
+  258478:('asyAtasTita','asyAt-asTita'),
+  259667:('aspfkzataspArkzIt','aspfkzat-aspArkzIt'),
+  260492:('asyadatasyaMtta','asyadat-asyaMtta'),
+  261625:('atin','at-in'),
+  }
+ if iline+1 in lnums:
+  old,new = lnums[iline+1]
+  if old not in line:
+   print('problem with',iline+1)
+   newline = line
+  else:
+   newline = line.replace(old,new)
+ else:
+  newline = line
+ return reason,newline
+
 def reasons_update(reasons,reason):
  if reason not in reasons:
   reasons[reason] = 0
@@ -282,8 +387,8 @@ def init_changes(lines):
  changes = [] # array of Change objects
  metaline = None
  page = None
- change_fcns = [change22]
- line1_fcns = [change16a,change19]
+ change_fcns = [change28]
+ line1_fcns = [change16a,change19,change23,change26c]
  reasons = {} # counts
  for iline,line in enumerate(lines):
   line = line.rstrip('\r\n')
@@ -298,17 +403,29 @@ def init_changes(lines):
    continue
   oldline = line
   for f in change_fcns:
-   reason,newline = f(oldline)
+   if f in [change26,change28]:
+    reason,newline = f(oldline,iline)
+   else:
+    reason,newline = f(oldline)
    if newline != oldline:
     if f in line1_fcns:
      iline1 = iline + 1
      line1 = lines[iline1]
+     if line1.startswith('[Page'):
+      iline1 = iline1 + 1
+      line1 = lines[iline1]
      newline1 = line1
      if (f == change16a) and (line1.startswith('<>of ')):
       continue  # not of interest
      elif (f == change19):
       newline1 = re.sub(r'<><ab>([PAU][.])</ab>',r'<><abx>\1</ab>',line1)
       pass #continue
+     elif (f == change23):
+      newline1 = re.sub(r'<>{#',r'<>{#--',line1)
+     elif f == change26c:
+      newline1 = re.sub(r'<>v.','<><ab>q. v.</ab>',line1)
+     elif f == change26d:
+      newline1 = re.sub(r'<>v.','<><ab>q. v.</ab>',line1)
     else:
      iline1 = None
      line1 = None
