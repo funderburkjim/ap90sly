@@ -1,0 +1,293 @@
+5215, 0199-c, aS: I. II.
+5378, 0207-c, as: I. II. III.
+5669, 0217-b, ah: I. II. III. IV.
+7112, 0267-b, As: I. II.
+7286, 0273-1, i: I. II. III.
+7431, 0280-c, iz: I. II. III. IV.
+7476, 0282-c, I: I. II.
+7547, 0284-1, u: I. II.
+8199, 0308-c, udDf: I. II.
+9405, 0346-c, Uh: I. II.
+9413, 0347-1, f: I. II. III.
+9435, 0348-a, fj: I. II.
+9450, 0348-b, fMj: I. II.
+9496, 0350-c, fz: I. II.
+9975, 0367-b, kac: I. II.
+10072, 0370-c, kaq: I. II. III.
+10084, 0370-c, kaR: I. II.
+10122, 0372-b, kaMq: I. II.
+10177, 0374-b, kad: I. II.
+10456, 0385-b, kal: I. II. III.
+10577, 0390-a, kaz: I. II.
+10593, 0390-c, kas: I. II.
+10913, 0402-c, kit: I. II.
+10936, 0404-b, kil: I. II.
+10986, 0406-a, ku: I. II. III.
+11004, 0406-c, kuc: I. II.
+11022, 0407-a, kuw: I. II.
+11081, 0408-b, kuR: I. II.
+11091, 0408-b, kuMq: I. II. III.
+11134, 0409-c, kup: I. II.
+11327, 0415-c, kUw: I. II.
+11373, 0417-a, kf: I. II.
+11394, 0420-a, kft: I. II.
+11408, 0420-b, kfp: I. II.
+11435, 0421-a, kfz: I. II.
+11452, 0422-a, kF: I. II. III.
+11769, 0432-c, klaMd: I. II.
+11784, 0433-a, kliS: I. II.
+11878, 0436-a, kzi: I. II. III.
+12017, 0441-a, Kac: I. II.
+12171, 0444-c, Kid: I. II.
+12285, 0449-b, gad: I. II.
+12535, 0459-c, gu: I. II.
+12587, 0462-b, guD: I. II. III.
+12594, 0462-b, gup: I. II. III. IV.
+12614, 0463-a, gur: I. II.
+12652, 0464-c, gUrd: I. II.
+12687, 0466-b, gF: I. II. III.
+12784, 0471-b, gras: I. II.
+12790, 0471-c, grah: I. II.
+12849, 0475-a, Gaw: I. II.
+12912, 0477-c, Guw: I. II.
+12915, 0477-c, GuR: I. II.
+12929, 0478-a, Guz: I. II.
+12946, 0478-b, Gf: I. II. III. IV.
+12952, 0478-c, GfR: I. II.
+13027, 0482-a, caw: I. II.
+13093, 0485-b, cap: I. II.
+13140, 0487-a, carc: I. II.
+13173, 0488-a, cal: I. II.
+13182, 0488-c, caz: I. II.
+13280, 0491-b, ci: I. II. III. IV.
+13397, 0496-a, cIv: I. II.
+13411, 0496-b, cuw: I. II.
+13416, 0496-b, cuMw: I. II.
+13417, 0496-b, cuMq: I. II.
+13421, 0496-b, cud: I. II.
+13433, 0496-c, cuMb: I. II.
+13494, 0498-a, cft: I. II.
+13540, 0499-b, cyu: I. II.
+13644, 0502-b, Cur: I. II.
+13650, 0502-c, Cfd: I. II.
+13759, 0507-a, jaB: I. II.
+13807, 0508-b, jal: I. II.
+13833, 0510-a, jas: I. II.
+14004, 0516-b, juq: I. II.
+14013, 0516-c, juz: I. II.
+14045, 0517-b, jF: I. II.
+14117, 0520-b, jri: I. II.
+14250, 0523-b, qip: I. II.
+14279, 0525-a, taMs: I. II.
+14297, 0525-b, taMc: I. II.
+14299, 0525-b, taw: I. II.
+14348, 0528-b, tan: I. II.
+14391, 0530-a, tap: I. II.
+14641, 0537-b, tik: I. II.
+14645, 0537-c, tij: I. II.
+14666, 0538-a, tim: I. II.
+14695, 0539-a, til: I. II.
+14776, 0541-c, tuMb: I. II.
+14782, 0541-c, tur: I. II.
+14838, 0543-b, tUR: I. II.
+14853, 0543-c, tUl: I. II.
+14883, 0544-c, tfp: I. II.
+15012, 0548-b, tras: I. II.
+15115, 0553-1, daMS: I. II.
+15146, 0554-c, daG: I. II.
+15208, 0558-a, daMB: I. II.
+15278, 0560-b, das: I. II.
+15299, 0561-a, dA: I. II. III. IV.
+15394, 0564-a, dAS: I. II.
+15430, 0565-b, div: I. II. III.
+15451, 0567-a, dI: I. II. III.
+15486, 0568-c, du: I. II.
+15545, 0574-b, duh: I. II.
+15569, 0575-b, df: I. II.
+15572, 0575-b, dfMh: I. II.
+15584, 0576-a, dfp: I. II. III.
+15591, 0576-b, dfB: I. II.
+15620, 0578-a, dF: I. II.
+15816, 0585-a, dru: I. II.
+15931, 0590-c, Dan: I. II.
+16048, 0597-a, DAv: I. II.
+16056, 0597-a, Di: I. II.
+16111, 0599-a, DUp: I. II.
+16140, 0600-a, Df: I. II.
+16149, 0601-a, Dfz: I. II. III. IV.
+16285, 0605-c, naw: I. II.
+16419, 0611-b, naS: I. II.
+17083, 0637-a, nivas: I. II.
+17565, 0655-b, pac: I. II.
+17610, 0658-c, paw: I. II.
+17641, 0659-c, paR: I. II.
+17655, 0660-b, paMq: I. II.
+17662, 0660-b, pat: I. II. III.
+17709, 0662-b, paT: I. II.
+17718, 0662-c, pad: I. II. III.
+17887, 0671-c, parikliS: I. II.
+17950, 0673-b, parici: I. II.
+18035, 0676-a, paridiv: I. II.
+18075, 0677-a, paripA: I. II.
+18170, 0679-a, parimfd: I. II.
+18548, 0689-a, pA: I. II.
+18917, 0700-b, picC: I. II.
+18924, 0700-c, piMj: I. II.
+19020, 0704-a, piz: I. II.
+19026, 0704-b, pis: I. II.
+19080, 0706-c, puw: I. II. III.
+19113, 0708-b, puT: I. II.
+19242, 0715-b, pUr: I. II.
+19274, 0718-a, pf: I. II. III. IV. V.
+19275, 0718-a, pfc: I. II. III.
+20032, 0741-b, prativid: I. II.
+20278, 0747-b, praT: I. II.
+21293, 0778-a, prI: I. II. III.
+21301, 0778-c, pruz: I. II.
+21343, 0779-c, prez: I. II.
+21436, 0782-c, pluz: I. II.
+21468, 0783-a, Pal: I. II.
+21589, 0789-a, barh: I. II.
+21600, 0789-b, bal: I. II. III. IV.
+21832, 0799-c, bfMh: I. II.
+21930, 0807-a, Baj: I. II.
+21934, 0807-b, BaMj: I. II.
+21940, 0807-c, Baw: I. II.
+21952, 0808-a, BaMq: I. II.
+21967, 0808-c, BaMd: I. II.
+22006, 0810-a, Bal: I. II.
+22038, 0811-a, Bas: I. II.
+22174, 0816-c, Bid: I. II.
+22220, 0819-a, Buj: I. II.
+22244, 0820-a, BU: I. II. III. IV.
+22487, 0831-c, maMG: I. II.
+22533, 0833-b, maMq: I. II.
+22581, 0836-a, mad: I. II. III.
+22629, 0840-a, man: I. II. III.
+22982, 0859-c, mAn: I. II.
+23045, 0862-b, mArg: I. II.
+23165, 0866-a, mid: I. II.
+23185, 0866-c, miz: I. II.
+23193, 0867-a, mI: I. II. III.
+23241, 0869-c, muc: I. II.
+23257, 0870-b, muMq: I. II.
+23265, 0870-c, mud: I. II.
+23306, 0872-a, muz: I. II. III.
+23366, 0874-b, mUl: I. II.
+23397, 0876-a, mfj: I. II.
+23442, 0877-c, mfz: I. II. III.
+23603, 0882-a, mrakz: I. II.
+23630, 0883-a, yakz: I. II.
+23819, 0893-c, yu: I. II. III. IV.
+23832, 0894-c, yuj: I. II. III. IV.
+23867, 0896-b, yez: I. II.
+23948, 0901-a, raMG: I. II.
+24044, 0905-c, ras: I. II.
+24112, 0910-b, rAD: I. II.
+24152, 0912-c, ri: I. II. III.
+24165, 0913-a, ric: I. II.
+24191, 0913-b, rI: I. II.
+24199, 0913-c, ru: I. II.
+24217, 0914-b, ruj: I. II.
+24220, 0914-c, ruw: I. II.
+24221, 0914-c, ruW: I. II.
+24234, 0915-a, ruD: I. II.
+24244, 0915-b, ruz: I. II.
+24267, 0916-c, rUz: I. II.
+24386, 0919-1, lakz: I. II.
+24400, 0921-a, lag: I. II.
+24431, 0922-c, laj: I. II. III.
+24441, 0923-a, laMj: I. II.
+24452, 0923-b, laq: I. II. III.
+24493, 0925-a, lal: I. II. III.
+24527, 0926-b, laz: I. II.
+24625, 0929-a, liMg: I. II.
+24649, 0930-a, liS: I. II.
+24654, 0930-a, lI: I. II. III.
+24668, 0930-c, luw: I. II. III.
+24670, 0930-c, luW: I. II. III. IV.
+24673, 0930-c, luq: I. II.
+24674, 0931-a, luMw: I. II.
+24687, 0931-a, lup: I. II.
+24689, 0931-b, luB: I. II.
+24707, 0932-a, lUz: I. II.
+24744, 0933-a, lok: I. II.
+24750, 0934-b, loc: I. II. III.
+24874, 0939-a, vaj: I. II.
+24886, 0940-a, vaw: I. II.
+24919, 0940-c, vaMq: I. II.
+24967, 0942-b, van: I. II. III.
+25247, 0952-a, valh: I. II.
+25269, 0952-c, vas: I. II. III. IV. V.
+25325, 0955-b, vA: I. II. III.
+25544, 0963-a, vAs: I. II.
+25790, 0970-b, vicC: I. II.
+25806, 0971-a, vij: I. II.
+25920, 0974-a, vid: I. II. III. IV. V.
+25978, 0976-b, viD: I. II.
+26387, 0989-c, vil: I. II.
+26433, 0991-b, vilI: I. II.
+26475, 0992-c, vivas: I. II.
+26608, 0997-c, viz: I. II. III.
+26670, 1000-b, vis: I. II.
+26780, 1003-b, vI: I. II.
+26790, 1003-c, vIj: I. II.
+26847, 1005-c, vfj: I. II. III.
+26850, 1006-a, vfR: I. II.
+26851, 1006-a, vft: I. II. III.
+26857, 1007-a, vfD: I. II.
+26876, 1008-a, vfz: I. II.
+26969, 1011-c, vel: I. II.
+27221, 1017-c, vyatyas: I. II.
+27269, 1019-a, vyay: I. II. III.
+27464, 1025-c, vraj: I. II.
+27469, 1026-a, vraR: I. II.
+27485, 1026-c, vrI: I. II.
+27507, 1027-1, Sak: I. II.
+27563, 1030-b, Saw: I. II.
+27568, 1030-b, SaW: I. II.
+27593, 1032-a, Sad: I. II.
+27619, 1033-c, Sam: I. II.
+27630, 1034-b, SaMb: I. II.
+27697, 1036-c, Sal: I. II. III.
+27734, 1037-c, Sas: I. II.
+28011, 1047-b, Siz: I. II. III.
+28018, 1047-c, SIk: I. II.
+28048, 1048-c, SIl: I. II.
+28071, 1049-c, Suc: I. II.
+28080, 1050-a, SuW: I. II.
+28196, 1054-a, SfD: I. II. III.
+28348, 1058-b, SraT: I. II. III.
+28354, 1058-b, SraMT: I. II.
+28402, 1060-c, Sru: I. II.
+28446, 1062-b, Sliz: I. II. III.
+28637, 1069-b, saMvid: I. II.
+29032, 1082-b, saw: I. II.
+29293, 1092-c, sam: I. II.
+29353, 1095-a, samaS: I. II.
+29709, 1104-b, saMb: I. II.
+29936, 1111-a, sah: I. II.
+30037, 1114-c, sAD: I. II.
+30288, 1123-b, siD: I. II.
+30326, 1124-c, sIk: I. II.
+30352, 1125-c, su: I. II. III.
+30391, 1131-c, sur: I. II.
+30417, 1133-a, sU: I. II.
+30453, 1135-a, sUd: I. II.
+30499, 1136-c, sfj: I. II.
+30708, 1142-c, skaMd: I. II.
+30783, 1145-b, stuB: I. II.
+30788, 1145-c, stf: I. II.
+30800, 1145-c, step: I. II.
+30980, 1153-c, sPaMw: I. II.
+31002, 1154-b, sPuw: I. II.
+31010, 1154-c, sPuMw: I. II.
+31055, 1156-b, smf: I. II.
+31132, 1159-c, svad: I. II.
+31210, 1163-a, svid: I. II.
+31352, 1169-b, hA: I. II.
+31411, 1171-b, hikk: I. II.
+31465, 1173-b, huq: I. II.
+31486, 1174-a, hf: I. II.
+31508, 1175-a, heq: I. II.
+31554, 1176-c, hoq: I. II.

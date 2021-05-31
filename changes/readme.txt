@@ -242,7 +242,66 @@ changes_05_05c:
 changes_05_05d:
  muwaH incorrectly coded as headword.  Rather, it is a compound under 'nir'
  hw spelling changes: SAMrga -> SArMga, and SAMrgin -> SArMgin
+
+python updateByLine.py ap90_4.txt changes_05.txt ap90.txt
+cp ap90.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt
+Pushed ap90.txt to csl-orig/v02/ap90/ap90.txt, at commit 
+ e8f692dc571cd24f731617830dfb5f0661d14955
+
+In csl-orig, corrected nyAyaH. commit d0becf092883b52897de274b7d7fe59dde9ed50a
+cp /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt ap90_5.txt
+
+
+
+changes_06_01.txt
+ I. -> {vI.v} markup of Roman-numeral verb sections.
+ --II. -> {vII.v}
+ python entries_from_regex.py ap90.txt '--[IV]+([^a-zA-Z]|$)' temp_verb_sections.txt
+  
+
+   the '^a-zA-Z' to exclude --ISvaraH, etc.
+  297 entries
+  280 ' I. ' -> ' {vI.v} '
+      --\([IV]+[.]\) → {v\1v}
+  287 --II. -> {vII.v}
+   56 --III. → {vIII.v}
+   15 --IV. → {vIV.v}
+    1 --V. → {vV.v}
+   1 cases with '--[IV]'  (no period)
+   GfR: missing I.
+    Also:
+     under 'pf':
+     old: --<ls>V. 5</ls> <ab>P.</ab> ({#pfgoti#})
+     new: {vV.v} {c5c} <ab>P.</ab> ({#pfRoti#})
+     under 'vas':
+     old: --<ls>V. 10</ls> <ab>U.</ab> 
+     new: --{vV.v} {c10c} <ab>U.</ab>
+
+  282 {vI.v}
+  293 {vII.v}  ??
+ python check_verb_sections.py temp_verb_sections.org check_verb_sections.txt
+   check_verb_sections has the verbs with sections (293) and the section
+   sequence.
+ change to check_verb_sections.org, and modify lines manually.
+   python make_change1_renum.py ap90.txt  temp_verb_sections.org changes_06_01.txt
+ and insert changes_06_01 into changes_06
+  Corrected Missing section I in print.  Some corrected in AP57 (but not hf)
+  <L>9435<pc>0348-a<k1>fj<k2>fj 
+  <L>11784<pc>0433-a<k1>kliS<k2>kliS
+  <L>12652<pc>0464-c<k1>gUrd<k2>gUrd(gurd)
+  <L>12790<pc>0471-c<k1>grah<k2>grah
+  <L>17610<pc>0658-c<k1>paw<k2>paw
+  <L>19274<pc>0718-a<k1>pf<k2>pf
+  <L>24199<pc>0913-c<k1>ru<k2>ru
+  <L>24234<pc>0915-a<k1>ruD<k2>ruD
+  <L>31486<pc>1174-a<k1>hf<k2>hf
+  <L>31508<pc>1175-a<k1>heq<k2>heq
+ 
+
+python updateByLine.py ap90_5.txt changes_06.txt ap90.txt
+
 309 matches for {#--[a-zA-Z]+ +--[a-zA-Z]+#}   ??
+
 
 Yet to do
  32640 matches of {#--[a-zA-Z]+#}  These likely always to be subheadwords
@@ -253,6 +312,5 @@ Yet to do
     Sometimes there is an ending comma in subheadwords, e.g. {#--X,#}.
   
 
-python updateByLine.py ap90_4.txt changes_05.txt ap90.txt
+python updateByLine.py ap90_5.txt changes_06.txt ap90.txt
 
-cp ap90.txt /c/xampp/htdocs/cologne/csl-orig/v02/ap90/ap90.txt

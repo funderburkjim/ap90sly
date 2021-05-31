@@ -1,6 +1,3 @@
-; Ref: https://github.com/sanskrit-lexicon/AP90/issues/16#issuecomment-848855415
-; ------------------------------------------------------------
-; changes_06_01:  {vXv} markup
 ; <L>5215<pc>0199-c<k1>aS<k2>aS
 45896 old {#aS#}¦ I. {c5c} <ab>A.</ab> [{#aSnute, AnaSe,#}
 45896 new {#aS#}¦ {vI.v} {c5c} <ab>A.</ab> [{#aSnute, AnaSe,#}
